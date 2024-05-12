@@ -1,6 +1,5 @@
-﻿using System;
+﻿using CarApp.Views.Authentication;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace CarApp
 {
@@ -10,7 +9,7 @@ namespace CarApp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new SignInPage());
         }
 
         protected override void OnStart()

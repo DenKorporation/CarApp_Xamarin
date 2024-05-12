@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572086967102",
+    "project_id": "bsuir-car-app",
+    "storage_bucket": "bsuir-car-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572086967102:android:575248d4369f197c886a6f",
+        "android_client_info": {
+          "package_name": "by.bsuir.car_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHQ6oRFm1B0PXH-cD2UZOJ3iQXp04JuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572086967102:android:e249cc5677fa06c6886a6f",
+        "android_client_info": {
+          "package_name": "by.bsuir.carapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHQ6oRFm1B0PXH-cD2UZOJ3iQXp04JuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

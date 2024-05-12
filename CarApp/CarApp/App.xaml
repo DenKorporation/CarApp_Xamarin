@@ -3,6 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CarApp.App">
     <Application.Resources>
-
+        <Color x:Key="PrimaryColor">#34568B</Color>
+        <Color x:Key="SecondaryColor">#F7C59F</Color>
+        <Color x:Key="AccentColor">#DB5461</Color>
+        <Color x:Key="BackgroundColor">#EDEDED</Color>
+        <Color x:Key="TextColor">#333333</Color>
+        <Color x:Key="HighlightColor">#88B04B</Color>
+        <ResourceDictionary>
+            <Style TargetType="NavigationPage">
+                <Setter Property="BarBackgroundColor" Value="#34568B"/> <!-- Blue color -->
+                <Setter Property="BarTextColor" Value="#F7C59F"/>
+            </Style>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

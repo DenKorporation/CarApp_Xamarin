@@ -23,6 +23,7 @@
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -55,10 +56,13 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Xamarin.Firebase.Auth" Version="121.0.1.6" />
+    <PackageReference Include="Xamarin.Firebase.Core" Version="119.0.1.5" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Implementations\AndroidAuthService.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -69,6 +73,259 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidResource Include="Resources\drawable\car_logo.png" />
+    <AndroidResource Include="Resources\drawable\flag_ad.png" />
+    <AndroidResource Include="Resources\drawable\flag_ae.png" />
+    <AndroidResource Include="Resources\drawable\flag_af.png" />
+    <AndroidResource Include="Resources\drawable\flag_ag.png" />
+    <AndroidResource Include="Resources\drawable\flag_ai.png" />
+    <AndroidResource Include="Resources\drawable\flag_al.png" />
+    <AndroidResource Include="Resources\drawable\flag_am.png" />
+    <AndroidResource Include="Resources\drawable\flag_an.png" />
+    <AndroidResource Include="Resources\drawable\flag_ao.png" />
+    <AndroidResource Include="Resources\drawable\flag_aq.png" />
+    <AndroidResource Include="Resources\drawable\flag_ar.png" />
+    <AndroidResource Include="Resources\drawable\flag_as.png" />
+    <AndroidResource Include="Resources\drawable\flag_at.png" />
+    <AndroidResource Include="Resources\drawable\flag_au.png" />
+    <AndroidResource Include="Resources\drawable\flag_aw.png" />
+    <AndroidResource Include="Resources\drawable\flag_ax.png" />
+    <AndroidResource Include="Resources\drawable\flag_az.png" />
+    <AndroidResource Include="Resources\drawable\flag_ba.png" />
+    <AndroidResource Include="Resources\drawable\flag_bb.png" />
+    <AndroidResource Include="Resources\drawable\flag_bd.png" />
+    <AndroidResource Include="Resources\drawable\flag_be.png" />
+    <AndroidResource Include="Resources\drawable\flag_bf.png" />
+    <AndroidResource Include="Resources\drawable\flag_bg.png" />
+    <AndroidResource Include="Resources\drawable\flag_bh.png" />
+    <AndroidResource Include="Resources\drawable\flag_bi.png" />
+    <AndroidResource Include="Resources\drawable\flag_bj.png" />
+    <AndroidResource Include="Resources\drawable\flag_bl.png" />
+    <AndroidResource Include="Resources\drawable\flag_bm.png" />
+    <AndroidResource Include="Resources\drawable\flag_bn.png" />
+    <AndroidResource Include="Resources\drawable\flag_bo.png" />
+    <AndroidResource Include="Resources\drawable\flag_bq.png" />
+    <AndroidResource Include="Resources\drawable\flag_br.png" />
+    <AndroidResource Include="Resources\drawable\flag_bs.png" />
+    <AndroidResource Include="Resources\drawable\flag_bt.png" />
+    <AndroidResource Include="Resources\drawable\flag_bv.png" />
+    <AndroidResource Include="Resources\drawable\flag_bw.png" />
+    <AndroidResource Include="Resources\drawable\flag_by.png" />
+    <AndroidResource Include="Resources\drawable\flag_bz.png" />
+    <AndroidResource Include="Resources\drawable\flag_ca.png" />
+    <AndroidResource Include="Resources\drawable\flag_cc.png" />
+    <AndroidResource Include="Resources\drawable\flag_cd.png" />
+    <AndroidResource Include="Resources\drawable\flag_cf.png" />
+    <AndroidResource Include="Resources\drawable\flag_cg.png" />
+    <AndroidResource Include="Resources\drawable\flag_ch.png" />
+    <AndroidResource Include="Resources\drawable\flag_ci.png" />
+    <AndroidResource Include="Resources\drawable\flag_ck.png" />
+    <AndroidResource Include="Resources\drawable\flag_cl.png" />
+    <AndroidResource Include="Resources\drawable\flag_cm.png" />
+    <AndroidResource Include="Resources\drawable\flag_cn.png" />
+    <AndroidResource Include="Resources\drawable\flag_co.png" />
+    <AndroidResource Include="Resources\drawable\flag_cr.png" />
+    <AndroidResource Include="Resources\drawable\flag_cu.png" />
+    <AndroidResource Include="Resources\drawable\flag_cv.png" />
+    <AndroidResource Include="Resources\drawable\flag_cw.png" />
+    <AndroidResource Include="Resources\drawable\flag_cx.png" />
+    <AndroidResource Include="Resources\drawable\flag_cy.png" />
+    <AndroidResource Include="Resources\drawable\flag_cz.png" />
+    <AndroidResource Include="Resources\drawable\flag_de.png" />
+    <AndroidResource Include="Resources\drawable\flag_dj.png" />
+    <AndroidResource Include="Resources\drawable\flag_dk.png" />
+    <AndroidResource Include="Resources\drawable\flag_dm.png" />
+    <AndroidResource Include="Resources\drawable\flag_do.png" />
+    <AndroidResource Include="Resources\drawable\flag_dz.png" />
+    <AndroidResource Include="Resources\drawable\flag_ec.png" />
+    <AndroidResource Include="Resources\drawable\flag_ee.png" />
+    <AndroidResource Include="Resources\drawable\flag_eg.png" />
+    <AndroidResource Include="Resources\drawable\flag_eh.png" />
+    <AndroidResource Include="Resources\drawable\flag_er.png" />
+    <AndroidResource Include="Resources\drawable\flag_es.png" />
+    <AndroidResource Include="Resources\drawable\flag_et.png" />
+    <AndroidResource Include="Resources\drawable\flag_eu.png" />
+    <AndroidResource Include="Resources\drawable\flag_fi.png" />
+    <AndroidResource Include="Resources\drawable\flag_fj.png" />
+    <AndroidResource Include="Resources\drawable\flag_fk.png" />
+    <AndroidResource Include="Resources\drawable\flag_fm.png" />
+    <AndroidResource Include="Resources\drawable\flag_fo.png" />
+    <AndroidResource Include="Resources\drawable\flag_fr.png" />
+    <AndroidResource Include="Resources\drawable\flag_ga.png" />
+    <AndroidResource Include="Resources\drawable\flag_gb.png" />
+    <AndroidResource Include="Resources\drawable\flag_gd.png" />
+    <AndroidResource Include="Resources\drawable\flag_ge.png" />
+    <AndroidResource Include="Resources\drawable\flag_gf.png" />
+    <AndroidResource Include="Resources\drawable\flag_gg.png" />
+    <AndroidResource Include="Resources\drawable\flag_gh.png" />
+    <AndroidResource Include="Resources\drawable\flag_gi.png" />
+    <AndroidResource Include="Resources\drawable\flag_gl.png" />
+    <AndroidResource Include="Resources\drawable\flag_gm.png" />
+    <AndroidResource Include="Resources\drawable\flag_gn.png" />
+    <AndroidResource Include="Resources\drawable\flag_gp.png" />
+    <AndroidResource Include="Resources\drawable\flag_gq.png" />
+    <AndroidResource Include="Resources\drawable\flag_gr.png" />
+    <AndroidResource Include="Resources\drawable\flag_gs.png" />
+    <AndroidResource Include="Resources\drawable\flag_gt.png" />
+    <AndroidResource Include="Resources\drawable\flag_gu.png" />
+    <AndroidResource Include="Resources\drawable\flag_gw.png" />
+    <AndroidResource Include="Resources\drawable\flag_gy.png" />
+    <AndroidResource Include="Resources\drawable\flag_hk.png" />
+    <AndroidResource Include="Resources\drawable\flag_hm.png" />
+    <AndroidResource Include="Resources\drawable\flag_hn.png" />
+    <AndroidResource Include="Resources\drawable\flag_hr.png" />
+    <AndroidResource Include="Resources\drawable\flag_ht.png" />
+    <AndroidResource Include="Resources\drawable\flag_hu.png" />
+    <AndroidResource Include="Resources\drawable\flag_id.png" />
+    <AndroidResource Include="Resources\drawable\flag_ie.png" />
+    <AndroidResource Include="Resources\drawable\flag_il.png" />
+    <AndroidResource Include="Resources\drawable\flag_im.png" />
+    <AndroidResource Include="Resources\drawable\flag_in.png" />
+    <AndroidResource Include="Resources\drawable\flag_io.png" />
+    <AndroidResource Include="Resources\drawable\flag_iq.png" />
+    <AndroidResource Include="Resources\drawable\flag_ir.png" />
+    <AndroidResource Include="Resources\drawable\flag_is.png" />
+    <AndroidResource Include="Resources\drawable\flag_it.png" />
+    <AndroidResource Include="Resources\drawable\flag_je.png" />
+    <AndroidResource Include="Resources\drawable\flag_jm.png" />
+    <AndroidResource Include="Resources\drawable\flag_jo.png" />
+    <AndroidResource Include="Resources\drawable\flag_jp.png" />
+    <AndroidResource Include="Resources\drawable\flag_ke.png" />
+    <AndroidResource Include="Resources\drawable\flag_kg.png" />
+    <AndroidResource Include="Resources\drawable\flag_kh.png" />
+    <AndroidResource Include="Resources\drawable\flag_ki.png" />
+    <AndroidResource Include="Resources\drawable\flag_km.png" />
+    <AndroidResource Include="Resources\drawable\flag_kn.png" />
+    <AndroidResource Include="Resources\drawable\flag_kp.png" />
+    <AndroidResource Include="Resources\drawable\flag_kr.png" />
+    <AndroidResource Include="Resources\drawable\flag_kw.png" />
+    <AndroidResource Include="Resources\drawable\flag_ky.png" />
+    <AndroidResource Include="Resources\drawable\flag_kz.png" />
+    <AndroidResource Include="Resources\drawable\flag_la.png" />
+    <AndroidResource Include="Resources\drawable\flag_lb.png" />
+    <AndroidResource Include="Resources\drawable\flag_lc.png" />
+    <AndroidResource Include="Resources\drawable\flag_li.png" />
+    <AndroidResource Include="Resources\drawable\flag_lk.png" />
+    <AndroidResource Include="Resources\drawable\flag_lr.png" />
+    <AndroidResource Include="Resources\drawable\flag_ls.png" />
+    <AndroidResource Include="Resources\drawable\flag_lt.png" />
+    <AndroidResource Include="Resources\drawable\flag_lu.png" />
+    <AndroidResource Include="Resources\drawable\flag_lv.png" />
+    <AndroidResource Include="Resources\drawable\flag_ly.png" />
+    <AndroidResource Include="Resources\drawable\flag_ma.png" />
+    <AndroidResource Include="Resources\drawable\flag_mc.png" />
+    <AndroidResource Include="Resources\drawable\flag_md.png" />
+    <AndroidResource Include="Resources\drawable\flag_me.png" />
+    <AndroidResource Include="Resources\drawable\flag_mf.png" />
+    <AndroidResource Include="Resources\drawable\flag_mg.png" />
+    <AndroidResource Include="Resources\drawable\flag_mh.png" />
+    <AndroidResource Include="Resources\drawable\flag_mk.png" />
+    <AndroidResource Include="Resources\drawable\flag_ml.png" />
+    <AndroidResource Include="Resources\drawable\flag_mm.png" />
+    <AndroidResource Include="Resources\drawable\flag_mn.png" />
+    <AndroidResource Include="Resources\drawable\flag_mo.png" />
+    <AndroidResource Include="Resources\drawable\flag_mp.png" />
+    <AndroidResource Include="Resources\drawable\flag_mq.png" />
+    <AndroidResource Include="Resources\drawable\flag_mr.png" />
+    <AndroidResource Include="Resources\drawable\flag_ms.png" />
+    <AndroidResource Include="Resources\drawable\flag_mt.png" />
+    <AndroidResource Include="Resources\drawable\flag_mu.png" />
+    <AndroidResource Include="Resources\drawable\flag_mv.png" />
+    <AndroidResource Include="Resources\drawable\flag_mw.png" />
+    <AndroidResource Include="Resources\drawable\flag_mx.png" />
+    <AndroidResource Include="Resources\drawable\flag_my.png" />
+    <AndroidResource Include="Resources\drawable\flag_mz.png" />
+    <AndroidResource Include="Resources\drawable\flag_na.png" />
+    <AndroidResource Include="Resources\drawable\flag_nc.png" />
+    <AndroidResource Include="Resources\drawable\flag_ne.png" />
+    <AndroidResource Include="Resources\drawable\flag_nf.png" />
+    <AndroidResource Include="Resources\drawable\flag_ng.png" />
+    <AndroidResource Include="Resources\drawable\flag_ni.png" />
+    <AndroidResource Include="Resources\drawable\flag_nl.png" />
+    <AndroidResource Include="Resources\drawable\flag_no.png" />
+    <AndroidResource Include="Resources\drawable\flag_np.png" />
+    <AndroidResource Include="Resources\drawable\flag_nr.png" />
+    <AndroidResource Include="Resources\drawable\flag_nu.png" />
+    <AndroidResource Include="Resources\drawable\flag_nz.png" />
+    <AndroidResource Include="Resources\drawable\flag_om.png" />
+    <AndroidResource Include="Resources\drawable\flag_pa.png" />
+    <AndroidResource Include="Resources\drawable\flag_pe.png" />
+    <AndroidResource Include="Resources\drawable\flag_pf.png" />
+    <AndroidResource Include="Resources\drawable\flag_pg.png" />
+    <AndroidResource Include="Resources\drawable\flag_ph.png" />
+    <AndroidResource Include="Resources\drawable\flag_pk.png" />
+    <AndroidResource Include="Resources\drawable\flag_pl.png" />
+    <AndroidResource Include="Resources\drawable\flag_pm.png" />
+    <AndroidResource Include="Resources\drawable\flag_pn.png" />
+    <AndroidResource Include="Resources\drawable\flag_pr.png" />
+    <AndroidResource Include="Resources\drawable\flag_ps.png" />
+    <AndroidResource Include="Resources\drawable\flag_pt.png" />
+    <AndroidResource Include="Resources\drawable\flag_pw.png" />
+    <AndroidResource Include="Resources\drawable\flag_py.png" />
+    <AndroidResource Include="Resources\drawable\flag_qa.png" />
+    <AndroidResource Include="Resources\drawable\flag_re.png" />
+    <AndroidResource Include="Resources\drawable\flag_ro.png" />
+    <AndroidResource Include="Resources\drawable\flag_rs.png" />
+    <AndroidResource Include="Resources\drawable\flag_ru.png" />
+    <AndroidResource Include="Resources\drawable\flag_rw.png" />
+    <AndroidResource Include="Resources\drawable\flag_sa.png" />
+    <AndroidResource Include="Resources\drawable\flag_sb.png" />
+    <AndroidResource Include="Resources\drawable\flag_sc.png" />
+    <AndroidResource Include="Resources\drawable\flag_sd.png" />
+    <AndroidResource Include="Resources\drawable\flag_se.png" />
+    <AndroidResource Include="Resources\drawable\flag_sg.png" />
+    <AndroidResource Include="Resources\drawable\flag_sh.png" />
+    <AndroidResource Include="Resources\drawable\flag_si.png" />
+    <AndroidResource Include="Resources\drawable\flag_sj.png" />
+    <AndroidResource Include="Resources\drawable\flag_sk.png" />
+    <AndroidResource Include="Resources\drawable\flag_sl.png" />
+    <AndroidResource Include="Resources\drawable\flag_sm.png" />
+    <AndroidResource Include="Resources\drawable\flag_sn.png" />
+    <AndroidResource Include="Resources\drawable\flag_so.png" />
+    <AndroidResource Include="Resources\drawable\flag_sr.png" />
+    <AndroidResource Include="Resources\drawable\flag_ss.png" />
+    <AndroidResource Include="Resources\drawable\flag_st.png" />
+    <AndroidResource Include="Resources\drawable\flag_sv.png" />
+    <AndroidResource Include="Resources\drawable\flag_sx.png" />
+    <AndroidResource Include="Resources\drawable\flag_sy.png" />
+    <AndroidResource Include="Resources\drawable\flag_sz.png" />
+    <AndroidResource Include="Resources\drawable\flag_tc.png" />
+    <AndroidResource Include="Resources\drawable\flag_td.png" />
+    <AndroidResource Include="Resources\drawable\flag_tf.png" />
+    <AndroidResource Include="Resources\drawable\flag_tg.png" />
+    <AndroidResource Include="Resources\drawable\flag_th.png" />
+    <AndroidResource Include="Resources\drawable\flag_tj.png" />
+    <AndroidResource Include="Resources\drawable\flag_tk.png" />
+    <AndroidResource Include="Resources\drawable\flag_tl.png" />
+    <AndroidResource Include="Resources\drawable\flag_tm.png" />
+    <AndroidResource Include="Resources\drawable\flag_tn.png" />
+    <AndroidResource Include="Resources\drawable\flag_to.png" />
+    <AndroidResource Include="Resources\drawable\flag_tr.png" />
+    <AndroidResource Include="Resources\drawable\flag_tt.png" />
+    <AndroidResource Include="Resources\drawable\flag_tv.png" />
+    <AndroidResource Include="Resources\drawable\flag_tw.png" />
+    <AndroidResource Include="Resources\drawable\flag_tz.png" />
+    <AndroidResource Include="Resources\drawable\flag_ua.png" />
+    <AndroidResource Include="Resources\drawable\flag_ug.png" />
+    <AndroidResource Include="Resources\drawable\flag_um.png" />
+    <AndroidResource Include="Resources\drawable\flag_us.png" />
+    <AndroidResource Include="Resources\drawable\flag_uy.png" />
+    <AndroidResource Include="Resources\drawable\flag_uz.png" />
+    <AndroidResource Include="Resources\drawable\flag_va.png" />
+    <AndroidResource Include="Resources\drawable\flag_vc.png" />
+    <AndroidResource Include="Resources\drawable\flag_ve.png" />
+    <AndroidResource Include="Resources\drawable\flag_vg.png" />
+    <AndroidResource Include="Resources\drawable\flag_vi.png" />
+    <AndroidResource Include="Resources\drawable\flag_vn.png" />
+    <AndroidResource Include="Resources\drawable\flag_vu.png" />
+    <AndroidResource Include="Resources\drawable\flag_wf.png" />
+    <AndroidResource Include="Resources\drawable\flag_ws.png" />
+    <AndroidResource Include="Resources\drawable\flag_xk.png" />
+    <AndroidResource Include="Resources\drawable\flag_ye.png" />
+    <AndroidResource Include="Resources\drawable\flag_yt.png" />
+    <AndroidResource Include="Resources\drawable\flag_za.png" />
+    <AndroidResource Include="Resources\drawable\flag_zm.png" />
+    <AndroidResource Include="Resources\drawable\flag_zw.png" />
     <AndroidResource Include="Resources\values\styles.xml" />
     <AndroidResource Include="Resources\values\colors.xml" />
     <AndroidResource Include="Resources\mipmap-anydpi-v26\icon.xml" />
@@ -85,13 +342,13 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\drawable\" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\CarApp\CarApp.csproj">
       <Project>{AE172A8A-A1F8-4783-B775-5E0E1CED4769}</Project>
       <Name>CarApp</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <GoogleServicesJson Include="google-services.json" />
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
