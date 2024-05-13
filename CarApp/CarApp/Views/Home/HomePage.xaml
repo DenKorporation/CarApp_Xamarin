@@ -4,18 +4,27 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CarApp.Views.Home.HomePage"
              NavigationPage.HasBackButton="False"
-             
              Title="Все машины">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Hello, world!"
-                   VerticalOptions="CenterAndExpand"
-                   HorizontalOptions="CenterAndExpand" />
-            
+        <StackLayout BackgroundColor="{StaticResource BackgroundColor}">
+            <ListView ItemsSource="{Binding Cars}"  HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Margin="20" Orientation="">
+                                    <Label Text="{Binding Name}" FontSize="Small" />
+                                    <Label Text="{Binding Years}" FontSize="Small" />
+                                    <Label Text="{Binding Uid}" FontSize="Small" />
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
             <Button Text="Sing Out"
-                    VerticalOptions="CenterAndExpand"
                     HorizontalOptions="CenterAndExpand"
-                    Clicked="OnSignOutClicked"></Button>
+                    Command="{Binding SignOutCommand}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

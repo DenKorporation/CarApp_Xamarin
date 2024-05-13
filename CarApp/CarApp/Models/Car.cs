@@ -12,5 +12,22 @@ namespace CarApp.Models
         public string Transmission { get; set; }
 
         public bool IsFav { get; set; } = false;
+
+        public override bool Equals(object obj)
+        {
+            if (obj is Car car)
+            {
+                return Equals(car);
+            }
+
+            return false;
+        }
+
+        private bool Equals(Car other)
+        {
+            return Uid == other.Uid && Name == other.Name && Years == other.Years && Description == other.Description &&
+                   Country == other.Country && Body == other.Body && Drive == other.Drive &&
+                   Transmission == other.Transmission;
+        }
     }
 }

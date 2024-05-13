@@ -56,13 +56,17 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="System.Reactive" Version="6.0.0" />
     <PackageReference Include="Xamarin.Firebase.Auth" Version="121.0.1.6" />
     <PackageReference Include="Xamarin.Firebase.Core" Version="119.0.1.5" />
+    <PackageReference Include="Xamarin.Firebase.Firestore" Version="123.0.3.5" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Implementations\AndroidAuthService.cs" />
+    <Compile Include="Implementations\AndroidCarsService.cs" />
+    <Compile Include="Implementations\AndroidUserDataService.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -349,6 +353,9 @@
   </ItemGroup>
   <ItemGroup>
     <GoogleServicesJson Include="google-services.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Implementations\Listeners\" />
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

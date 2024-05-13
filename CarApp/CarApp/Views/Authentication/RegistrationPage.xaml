@@ -10,11 +10,11 @@
             <Image Source="car_logo.png" HeightRequest="150" />
             <Label Text="Регистрация" FontSize="24" HorizontalOptions="Center" 
                    TextColor="{StaticResource TextColor}"/>
-            <Entry x:Name="EmailEntry"
+            <Entry Text="{Binding Email}"
                    Placeholder="Введите электронную почту"
                    Keyboard="Email"
                    Margin="0,20,0,0"/>
-            <Entry x:Name="PasswordEntry"
+            <Entry Text="{Binding Password}"
                    Placeholder="Введите пароль"
                    IsPassword="True"
                    Margin="0,10,0,0"/>
@@ -24,11 +24,11 @@
                     HorizontalOptions="Center"
                     CornerRadius="30"
                     Margin="0,20,0,0"
-                    Clicked="OnRegisterClicked"/>
+                    Command="{Binding RegisterCommand}"/>
             <Button Text="Уже есть аккаунт. Войти"
                     BackgroundColor="Transparent"
                     TextColor="{StaticResource TextColor}"
-                    Clicked="OnSignInClicked"/>
+                    Command="{Binding ToSignInPageCommand}"/>
             <Label x:Name="ErrorLabel"
                    TextColor="{StaticResource TextColor}"
                    FontSize="10"/>
