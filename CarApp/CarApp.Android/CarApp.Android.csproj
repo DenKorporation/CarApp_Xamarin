@@ -56,10 +56,12 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Rg.Plugins.Popup" Version="2.1.0" />
     <PackageReference Include="System.Reactive" Version="6.0.0" />
     <PackageReference Include="Xamarin.Firebase.Auth" Version="121.0.1.6" />
     <PackageReference Include="Xamarin.Firebase.Core" Version="119.0.1.5" />
     <PackageReference Include="Xamarin.Firebase.Firestore" Version="123.0.3.5" />
+    <PackageReference Include="Xamarin.Firebase.Storage" Version="119.2.2" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
   </ItemGroup>

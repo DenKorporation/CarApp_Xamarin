@@ -43,6 +43,12 @@ namespace CarApp.Droid.Implementations
             try
             {
                 await _firebaseAuth.CreateUserWithEmailAndPasswordAsync(email, password);
+                if (CurrentUser != null)
+                {
+                    var userDataService = new AndroidUserDataService { Uid = CurrentUser.Uid };
+                    await userDataService.CreateUserDataAsync();
+                }
+                
             }
             catch (Exception e)
             {

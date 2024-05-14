@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pages:PopupPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+    xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+    xmlns:valueConverters="clr-namespace:CarApp.ValueConverters;assembly=CarApp"
+    x:Class="CarApp.Views.Home.CarDetailedPage">
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation
+            PositionIn="Bottom"
+            PositionOut="Bottom"
+            DurationIn="400"
+            DurationOut="300"
+            EasingIn="SinOut"
+            EasingOut="SinIn"
+            HasBackgroundAnimation="True" />
+    </pages:PopupPage.Animation>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <valueConverters:MultiLineConverter x:Key="MultiLineConverter" />
+            <valueConverters:FlagImageConverter x:Key="FlagImageConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout
+        VerticalOptions="EndAndExpand"
+        HorizontalOptions="FillAndExpand">
+        <Frame CornerRadius="20" HorizontalOptions="FillAndExpand" BackgroundColor="{StaticResource BackgroundColor}">
+            <StackLayout Margin="20">
+                <Label Text="{Binding Name}" HorizontalOptions="Center" FontSize="20" TextColor="Black" />
+                <Label Text="{Binding Years}" HorizontalOptions="Center" FontSize="17" TextColor="Black" />
+                <Image Source="car_logo.png" HeightRequest="250" />
+                <Label Text="Описание" HorizontalOptions="Center" FontSize="20" TextColor="Black" />
+                <Label Text="{Binding Description}" HorizontalOptions="CenterAndExpand" FontSize="17"
+                       TextColor="Black" />
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Label Grid.Row="0" Grid.Column="0" Text="Страна" HorizontalOptions="Start"
+                           VerticalOptions="Center" FontSize="17" TextColor="Black" />
+                    <Image Grid.Row="0" Grid.Column="1" HorizontalOptions="End" VerticalOptions="Center"
+                           Source="{Binding Country, Converter={StaticResource FlagImageConverter}}" HeightRequest="50"
+                           Aspect="AspectFit" />
+
+                    <Label Grid.Row="1" Grid.Column="0" Text="Кузов" HorizontalOptions="Start" VerticalOptions="Center"
+                           FontSize="17" TextColor="Black" />
+                    <Label Grid.Row="1" Grid.Column="1"
+                           Text="{Binding Body, Converter={StaticResource MultiLineConverter}}"
+                           HorizontalOptions="End" VerticalOptions="Center" HorizontalTextAlignment="End"
+                           FontSize="17" TextColor="Black" />
+
+                    <Label Grid.Row="2" Grid.Column="0" Text="Привод" HorizontalOptions="Start"
+                           VerticalOptions="Center" FontSize="17" TextColor="Black" />
+                    <Label Grid.Row="2" Grid.Column="1" Text="{Binding Drive}" HorizontalOptions="End"
+                           VerticalOptions="Center" FontSize="17" TextColor="Black"  HorizontalTextAlignment="End" />
+
+                    <Label Grid.Row="3" Grid.Column="0" Text="Коробка передач" HorizontalOptions="Start"
+                           VerticalOptions="Center" FontSize="17" TextColor="Black" />
+                    <Label Grid.Row="3" Grid.Column="1"
+                           Text="{Binding Transmission, Converter={StaticResource MultiLineConverter}}"
+                           HorizontalOptions="End" VerticalOptions="Center" FontSize="17" TextColor="Black" HorizontalTextAlignment="End" />
+                </Grid>
+            </StackLayout>
+        </Frame>
+
+    </StackLayout>
+</pages:PopupPage>

@@ -1,7 +1,12 @@
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Runtime.CompilerServices;
+
 namespace CarApp.Models
 {
-    public class Car
+    public class Car : INotifyPropertyChanged
     {
+        private bool _isFav = false;
         public string Uid { get; set; }
         public string Name { get; set; }
         public string Years { get; set; }
@@ -11,7 +16,16 @@ namespace CarApp.Models
         public string Drive { get; set; }
         public string Transmission { get; set; }
 
-        public bool IsFav { get; set; } = false;
+        public bool IsFav
+        {
+            get => _isFav;
+            set
+            {
+                if (value == _isFav) return;
+                _isFav = value;
+                OnPropertyChanged();
+            }
+        }
 
         public override bool Equals(object obj)
         {
@@ -28,6 +42,13 @@ namespace CarApp.Models
             return Uid == other.Uid && Name == other.Name && Years == other.Years && Description == other.Description &&
                    Country == other.Country && Body == other.Body && Drive == other.Drive &&
                    Transmission == other.Transmission;
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
 }

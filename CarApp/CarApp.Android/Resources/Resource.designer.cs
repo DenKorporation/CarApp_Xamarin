@@ -25,6 +25,3646 @@ namespace CarApp.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Rg.Plugins.Popup.Resource.Animation.abc_fade_in = global::CarApp.Droid.Resource.Animation.abc_fade_in;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_fade_out = global::CarApp.Droid.Resource.Animation.abc_fade_out;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_grow_fade_in_from_bottom = global::CarApp.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_popup_enter = global::CarApp.Droid.Resource.Animation.abc_popup_enter;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_popup_exit = global::CarApp.Droid.Resource.Animation.abc_popup_exit;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_shrink_fade_out_from_bottom = global::CarApp.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_in_bottom = global::CarApp.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_in_top = global::CarApp.Droid.Resource.Animation.abc_slide_in_top;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_out_bottom = global::CarApp.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_out_top = global::CarApp.Droid.Resource.Animation.abc_slide_out_top;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_tooltip_enter = global::CarApp.Droid.Resource.Animation.abc_tooltip_enter;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_tooltip_exit = global::CarApp.Droid.Resource.Animation.abc_tooltip_exit;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::CarApp.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::CarApp.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::CarApp.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::CarApp.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::CarApp.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::CarApp.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::CarApp.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::CarApp.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::CarApp.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::CarApp.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::CarApp.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::CarApp.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.design_bottom_sheet_slide_in = global::CarApp.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Rg.Plugins.Popup.Resource.Animation.design_bottom_sheet_slide_out = global::CarApp.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Rg.Plugins.Popup.Resource.Animation.design_snackbar_in = global::CarApp.Droid.Resource.Animation.design_snackbar_in;
+			global::Rg.Plugins.Popup.Resource.Animation.design_snackbar_out = global::CarApp.Droid.Resource.Animation.design_snackbar_out;
+			global::Rg.Plugins.Popup.Resource.Animation.EnterFromLeft = global::CarApp.Droid.Resource.Animation.EnterFromLeft;
+			global::Rg.Plugins.Popup.Resource.Animation.EnterFromRight = global::CarApp.Droid.Resource.Animation.EnterFromRight;
+			global::Rg.Plugins.Popup.Resource.Animation.ExitToLeft = global::CarApp.Droid.Resource.Animation.ExitToLeft;
+			global::Rg.Plugins.Popup.Resource.Animation.ExitToRight = global::CarApp.Droid.Resource.Animation.ExitToRight;
+			global::Rg.Plugins.Popup.Resource.Animation.fragment_fast_out_extra_slow_in = global::CarApp.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::Rg.Plugins.Popup.Resource.Animation.mtrl_bottom_sheet_slide_in = global::CarApp.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
+			global::Rg.Plugins.Popup.Resource.Animation.mtrl_bottom_sheet_slide_out = global::CarApp.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
+			global::Rg.Plugins.Popup.Resource.Animation.mtrl_card_lowers_interpolator = global::CarApp.Droid.Resource.Animation.mtrl_card_lowers_interpolator;
+			global::Rg.Plugins.Popup.Resource.Animator.design_appbar_state_list_animator = global::CarApp.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Rg.Plugins.Popup.Resource.Animator.design_fab_hide_motion_spec = global::CarApp.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.design_fab_show_motion_spec = global::CarApp.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_btn_state_list_anim = global::CarApp.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::CarApp.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_card_state_list_anim = global::CarApp.Droid.Resource.Animator.mtrl_card_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_chip_state_list_anim = global::CarApp.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_extended_fab_hide_motion_spec = global::CarApp.Droid.Resource.Animator.mtrl_extended_fab_hide_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_extended_fab_show_motion_spec = global::CarApp.Droid.Resource.Animator.mtrl_extended_fab_show_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_extended_fab_state_list_animator = global::CarApp.Droid.Resource.Animator.mtrl_extended_fab_state_list_animator;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_hide_motion_spec = global::CarApp.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_show_motion_spec = global::CarApp.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::CarApp.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::CarApp.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarDivider = global::CarApp.Droid.Resource.Attribute.actionBarDivider;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarItemBackground = global::CarApp.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarPopupTheme = global::CarApp.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarSize = global::CarApp.Droid.Resource.Attribute.actionBarSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarSplitStyle = global::CarApp.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarStyle = global::CarApp.Droid.Resource.Attribute.actionBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTabBarStyle = global::CarApp.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTabStyle = global::CarApp.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTabTextStyle = global::CarApp.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTheme = global::CarApp.Droid.Resource.Attribute.actionBarTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarWidgetTheme = global::CarApp.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionButtonStyle = global::CarApp.Droid.Resource.Attribute.actionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionDropDownStyle = global::CarApp.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionLayout = global::CarApp.Droid.Resource.Attribute.actionLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionMenuTextAppearance = global::CarApp.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionMenuTextColor = global::CarApp.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeBackground = global::CarApp.Droid.Resource.Attribute.actionModeBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCloseButtonStyle = global::CarApp.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCloseDrawable = global::CarApp.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCopyDrawable = global::CarApp.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCutDrawable = global::CarApp.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeFindDrawable = global::CarApp.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModePasteDrawable = global::CarApp.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModePopupWindowStyle = global::CarApp.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeSelectAllDrawable = global::CarApp.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeShareDrawable = global::CarApp.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeSplitBackground = global::CarApp.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeStyle = global::CarApp.Droid.Resource.Attribute.actionModeStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeWebSearchDrawable = global::CarApp.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionOverflowButtonStyle = global::CarApp.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionOverflowMenuStyle = global::CarApp.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionProviderClass = global::CarApp.Droid.Resource.Attribute.actionProviderClass;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionTextColorAlpha = global::CarApp.Droid.Resource.Attribute.actionTextColorAlpha;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionViewClass = global::CarApp.Droid.Resource.Attribute.actionViewClass;
+			global::Rg.Plugins.Popup.Resource.Attribute.activityChooserViewStyle = global::CarApp.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogButtonGroupStyle = global::CarApp.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogCenterButtons = global::CarApp.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogStyle = global::CarApp.Droid.Resource.Attribute.alertDialogStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogTheme = global::CarApp.Droid.Resource.Attribute.alertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.allowStacking = global::CarApp.Droid.Resource.Attribute.allowStacking;
+			global::Rg.Plugins.Popup.Resource.Attribute.alpha = global::CarApp.Droid.Resource.Attribute.alpha;
+			global::Rg.Plugins.Popup.Resource.Attribute.alphabeticModifiers = global::CarApp.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Rg.Plugins.Popup.Resource.Attribute.animationMode = global::CarApp.Droid.Resource.Attribute.animationMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.appBarLayoutStyle = global::CarApp.Droid.Resource.Attribute.appBarLayoutStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.arrowHeadLength = global::CarApp.Droid.Resource.Attribute.arrowHeadLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.arrowShaftLength = global::CarApp.Droid.Resource.Attribute.arrowShaftLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoCompleteTextViewStyle = global::CarApp.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeMaxTextSize = global::CarApp.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeMinTextSize = global::CarApp.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizePresetSizes = global::CarApp.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeStepGranularity = global::CarApp.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeTextType = global::CarApp.Droid.Resource.Attribute.autoSizeTextType;
+			global::Rg.Plugins.Popup.Resource.Attribute.background = global::CarApp.Droid.Resource.Attribute.background;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundColor = global::CarApp.Droid.Resource.Attribute.backgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundInsetBottom = global::CarApp.Droid.Resource.Attribute.backgroundInsetBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundInsetEnd = global::CarApp.Droid.Resource.Attribute.backgroundInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundInsetStart = global::CarApp.Droid.Resource.Attribute.backgroundInsetStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundInsetTop = global::CarApp.Droid.Resource.Attribute.backgroundInsetTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundOverlayColorAlpha = global::CarApp.Droid.Resource.Attribute.backgroundOverlayColorAlpha;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundSplit = global::CarApp.Droid.Resource.Attribute.backgroundSplit;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundStacked = global::CarApp.Droid.Resource.Attribute.backgroundStacked;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundTint = global::CarApp.Droid.Resource.Attribute.backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundTintMode = global::CarApp.Droid.Resource.Attribute.backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.badgeGravity = global::CarApp.Droid.Resource.Attribute.badgeGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.badgeStyle = global::CarApp.Droid.Resource.Attribute.badgeStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.badgeTextColor = global::CarApp.Droid.Resource.Attribute.badgeTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.barLength = global::CarApp.Droid.Resource.Attribute.barLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_autoHide = global::CarApp.Droid.Resource.Attribute.behavior_autoHide;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_autoShrink = global::CarApp.Droid.Resource.Attribute.behavior_autoShrink;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_draggable = global::CarApp.Droid.Resource.Attribute.behavior_draggable;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_expandedOffset = global::CarApp.Droid.Resource.Attribute.behavior_expandedOffset;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_fitToContents = global::CarApp.Droid.Resource.Attribute.behavior_fitToContents;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_halfExpandedRatio = global::CarApp.Droid.Resource.Attribute.behavior_halfExpandedRatio;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_hideable = global::CarApp.Droid.Resource.Attribute.behavior_hideable;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_overlapTop = global::CarApp.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_peekHeight = global::CarApp.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_saveFlags = global::CarApp.Droid.Resource.Attribute.behavior_saveFlags;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_skipCollapsed = global::CarApp.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Rg.Plugins.Popup.Resource.Attribute.borderlessButtonStyle = global::CarApp.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.borderWidth = global::CarApp.Droid.Resource.Attribute.borderWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomAppBarStyle = global::CarApp.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomNavigationStyle = global::CarApp.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomSheetDialogTheme = global::CarApp.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomSheetStyle = global::CarApp.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxBackgroundColor = global::CarApp.Droid.Resource.Attribute.boxBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxBackgroundMode = global::CarApp.Droid.Resource.Attribute.boxBackgroundMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCollapsedPaddingTop = global::CarApp.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusBottomEnd = global::CarApp.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusBottomStart = global::CarApp.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusTopEnd = global::CarApp.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusTopStart = global::CarApp.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxStrokeColor = global::CarApp.Droid.Resource.Attribute.boxStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxStrokeErrorColor = global::CarApp.Droid.Resource.Attribute.boxStrokeErrorColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxStrokeWidth = global::CarApp.Droid.Resource.Attribute.boxStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxStrokeWidthFocused = global::CarApp.Droid.Resource.Attribute.boxStrokeWidthFocused;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarButtonStyle = global::CarApp.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarNegativeButtonStyle = global::CarApp.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarNeutralButtonStyle = global::CarApp.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarPositiveButtonStyle = global::CarApp.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarStyle = global::CarApp.Droid.Resource.Attribute.buttonBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonCompat = global::CarApp.Droid.Resource.Attribute.buttonCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonGravity = global::CarApp.Droid.Resource.Attribute.buttonGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonIconDimen = global::CarApp.Droid.Resource.Attribute.buttonIconDimen;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonPanelSideLayout = global::CarApp.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonStyle = global::CarApp.Droid.Resource.Attribute.buttonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonStyleSmall = global::CarApp.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonTint = global::CarApp.Droid.Resource.Attribute.buttonTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonTintMode = global::CarApp.Droid.Resource.Attribute.buttonTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardBackgroundColor = global::CarApp.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardCornerRadius = global::CarApp.Droid.Resource.Attribute.cardCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardElevation = global::CarApp.Droid.Resource.Attribute.cardElevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardForegroundColor = global::CarApp.Droid.Resource.Attribute.cardForegroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardMaxElevation = global::CarApp.Droid.Resource.Attribute.cardMaxElevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardPreventCornerOverlap = global::CarApp.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardUseCompatPadding = global::CarApp.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardViewStyle = global::CarApp.Droid.Resource.Attribute.cardViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkboxStyle = global::CarApp.Droid.Resource.Attribute.checkboxStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedButton = global::CarApp.Droid.Resource.Attribute.checkedButton;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedChip = global::CarApp.Droid.Resource.Attribute.checkedChip;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIcon = global::CarApp.Droid.Resource.Attribute.checkedIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIconEnabled = global::CarApp.Droid.Resource.Attribute.checkedIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIconTint = global::CarApp.Droid.Resource.Attribute.checkedIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIconVisible = global::CarApp.Droid.Resource.Attribute.checkedIconVisible;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedTextViewStyle = global::CarApp.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipBackgroundColor = global::CarApp.Droid.Resource.Attribute.chipBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipCornerRadius = global::CarApp.Droid.Resource.Attribute.chipCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipEndPadding = global::CarApp.Droid.Resource.Attribute.chipEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipGroupStyle = global::CarApp.Droid.Resource.Attribute.chipGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIcon = global::CarApp.Droid.Resource.Attribute.chipIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconEnabled = global::CarApp.Droid.Resource.Attribute.chipIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconSize = global::CarApp.Droid.Resource.Attribute.chipIconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconTint = global::CarApp.Droid.Resource.Attribute.chipIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconVisible = global::CarApp.Droid.Resource.Attribute.chipIconVisible;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipMinHeight = global::CarApp.Droid.Resource.Attribute.chipMinHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipMinTouchTargetSize = global::CarApp.Droid.Resource.Attribute.chipMinTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSpacing = global::CarApp.Droid.Resource.Attribute.chipSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSpacingHorizontal = global::CarApp.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSpacingVertical = global::CarApp.Droid.Resource.Attribute.chipSpacingVertical;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStandaloneStyle = global::CarApp.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStartPadding = global::CarApp.Droid.Resource.Attribute.chipStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStrokeColor = global::CarApp.Droid.Resource.Attribute.chipStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStrokeWidth = global::CarApp.Droid.Resource.Attribute.chipStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStyle = global::CarApp.Droid.Resource.Attribute.chipStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSurfaceColor = global::CarApp.Droid.Resource.Attribute.chipSurfaceColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIcon = global::CarApp.Droid.Resource.Attribute.closeIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconEnabled = global::CarApp.Droid.Resource.Attribute.closeIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconEndPadding = global::CarApp.Droid.Resource.Attribute.closeIconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconSize = global::CarApp.Droid.Resource.Attribute.closeIconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconStartPadding = global::CarApp.Droid.Resource.Attribute.closeIconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconTint = global::CarApp.Droid.Resource.Attribute.closeIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconVisible = global::CarApp.Droid.Resource.Attribute.closeIconVisible;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeItemLayout = global::CarApp.Droid.Resource.Attribute.closeItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapseContentDescription = global::CarApp.Droid.Resource.Attribute.collapseContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapsedTitleGravity = global::CarApp.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapsedTitleTextAppearance = global::CarApp.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapseIcon = global::CarApp.Droid.Resource.Attribute.collapseIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.collectionViewStyle = global::CarApp.Droid.Resource.Attribute.collectionViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.color = global::CarApp.Droid.Resource.Attribute.color;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorAccent = global::CarApp.Droid.Resource.Attribute.colorAccent;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorBackgroundFloating = global::CarApp.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorButtonNormal = global::CarApp.Droid.Resource.Attribute.colorButtonNormal;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorControlActivated = global::CarApp.Droid.Resource.Attribute.colorControlActivated;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorControlHighlight = global::CarApp.Droid.Resource.Attribute.colorControlHighlight;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorControlNormal = global::CarApp.Droid.Resource.Attribute.colorControlNormal;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorError = global::CarApp.Droid.Resource.Attribute.colorError;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnBackground = global::CarApp.Droid.Resource.Attribute.colorOnBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnError = global::CarApp.Droid.Resource.Attribute.colorOnError;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnPrimary = global::CarApp.Droid.Resource.Attribute.colorOnPrimary;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnPrimarySurface = global::CarApp.Droid.Resource.Attribute.colorOnPrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnSecondary = global::CarApp.Droid.Resource.Attribute.colorOnSecondary;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnSurface = global::CarApp.Droid.Resource.Attribute.colorOnSurface;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorPrimary = global::CarApp.Droid.Resource.Attribute.colorPrimary;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorPrimaryDark = global::CarApp.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorPrimarySurface = global::CarApp.Droid.Resource.Attribute.colorPrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorPrimaryVariant = global::CarApp.Droid.Resource.Attribute.colorPrimaryVariant;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorSecondary = global::CarApp.Droid.Resource.Attribute.colorSecondary;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorSecondaryVariant = global::CarApp.Droid.Resource.Attribute.colorSecondaryVariant;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorSurface = global::CarApp.Droid.Resource.Attribute.colorSurface;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorSwitchThumbNormal = global::CarApp.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Rg.Plugins.Popup.Resource.Attribute.commitIcon = global::CarApp.Droid.Resource.Attribute.commitIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentDescription = global::CarApp.Droid.Resource.Attribute.contentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetEnd = global::CarApp.Droid.Resource.Attribute.contentInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetEndWithActions = global::CarApp.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetLeft = global::CarApp.Droid.Resource.Attribute.contentInsetLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetRight = global::CarApp.Droid.Resource.Attribute.contentInsetRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetStart = global::CarApp.Droid.Resource.Attribute.contentInsetStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetStartWithNavigation = global::CarApp.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPadding = global::CarApp.Droid.Resource.Attribute.contentPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingBottom = global::CarApp.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingLeft = global::CarApp.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingRight = global::CarApp.Droid.Resource.Attribute.contentPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingTop = global::CarApp.Droid.Resource.Attribute.contentPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentScrim = global::CarApp.Droid.Resource.Attribute.contentScrim;
+			global::Rg.Plugins.Popup.Resource.Attribute.controlBackground = global::CarApp.Droid.Resource.Attribute.controlBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.coordinatorLayoutStyle = global::CarApp.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerFamily = global::CarApp.Droid.Resource.Attribute.cornerFamily;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerFamilyBottomLeft = global::CarApp.Droid.Resource.Attribute.cornerFamilyBottomLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerFamilyBottomRight = global::CarApp.Droid.Resource.Attribute.cornerFamilyBottomRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerFamilyTopLeft = global::CarApp.Droid.Resource.Attribute.cornerFamilyTopLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerFamilyTopRight = global::CarApp.Droid.Resource.Attribute.cornerFamilyTopRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerRadius = global::CarApp.Droid.Resource.Attribute.cornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerSize = global::CarApp.Droid.Resource.Attribute.cornerSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerSizeBottomLeft = global::CarApp.Droid.Resource.Attribute.cornerSizeBottomLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerSizeBottomRight = global::CarApp.Droid.Resource.Attribute.cornerSizeBottomRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerSizeTopLeft = global::CarApp.Droid.Resource.Attribute.cornerSizeTopLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerSizeTopRight = global::CarApp.Droid.Resource.Attribute.cornerSizeTopRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterEnabled = global::CarApp.Droid.Resource.Attribute.counterEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterMaxLength = global::CarApp.Droid.Resource.Attribute.counterMaxLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterOverflowTextAppearance = global::CarApp.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterOverflowTextColor = global::CarApp.Droid.Resource.Attribute.counterOverflowTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterTextAppearance = global::CarApp.Droid.Resource.Attribute.counterTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterTextColor = global::CarApp.Droid.Resource.Attribute.counterTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.customNavigationLayout = global::CarApp.Droid.Resource.Attribute.customNavigationLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.dayInvalidStyle = global::CarApp.Droid.Resource.Attribute.dayInvalidStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.daySelectedStyle = global::CarApp.Droid.Resource.Attribute.daySelectedStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.dayStyle = global::CarApp.Droid.Resource.Attribute.dayStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.dayTodayStyle = global::CarApp.Droid.Resource.Attribute.dayTodayStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.defaultQueryHint = global::CarApp.Droid.Resource.Attribute.defaultQueryHint;
+			global::Rg.Plugins.Popup.Resource.Attribute.dialogCornerRadius = global::CarApp.Droid.Resource.Attribute.dialogCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.dialogPreferredPadding = global::CarApp.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.dialogTheme = global::CarApp.Droid.Resource.Attribute.dialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.displayOptions = global::CarApp.Droid.Resource.Attribute.displayOptions;
+			global::Rg.Plugins.Popup.Resource.Attribute.divider = global::CarApp.Droid.Resource.Attribute.divider;
+			global::Rg.Plugins.Popup.Resource.Attribute.dividerHorizontal = global::CarApp.Droid.Resource.Attribute.dividerHorizontal;
+			global::Rg.Plugins.Popup.Resource.Attribute.dividerPadding = global::CarApp.Droid.Resource.Attribute.dividerPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.dividerVertical = global::CarApp.Droid.Resource.Attribute.dividerVertical;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableBottomCompat = global::CarApp.Droid.Resource.Attribute.drawableBottomCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableEndCompat = global::CarApp.Droid.Resource.Attribute.drawableEndCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableLeftCompat = global::CarApp.Droid.Resource.Attribute.drawableLeftCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableRightCompat = global::CarApp.Droid.Resource.Attribute.drawableRightCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableSize = global::CarApp.Droid.Resource.Attribute.drawableSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableStartCompat = global::CarApp.Droid.Resource.Attribute.drawableStartCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableTint = global::CarApp.Droid.Resource.Attribute.drawableTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableTintMode = global::CarApp.Droid.Resource.Attribute.drawableTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableTopCompat = global::CarApp.Droid.Resource.Attribute.drawableTopCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawerArrowStyle = global::CarApp.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawerLayoutStyle = global::CarApp.Droid.Resource.Attribute.drawerLayoutStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.dropdownListPreferredItemHeight = global::CarApp.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.dropDownListViewStyle = global::CarApp.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.editTextBackground = global::CarApp.Droid.Resource.Attribute.editTextBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.editTextColor = global::CarApp.Droid.Resource.Attribute.editTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.editTextStyle = global::CarApp.Droid.Resource.Attribute.editTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.elevation = global::CarApp.Droid.Resource.Attribute.elevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.elevationOverlayColor = global::CarApp.Droid.Resource.Attribute.elevationOverlayColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.elevationOverlayEnabled = global::CarApp.Droid.Resource.Attribute.elevationOverlayEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconCheckable = global::CarApp.Droid.Resource.Attribute.endIconCheckable;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconContentDescription = global::CarApp.Droid.Resource.Attribute.endIconContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconDrawable = global::CarApp.Droid.Resource.Attribute.endIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconMode = global::CarApp.Droid.Resource.Attribute.endIconMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconTint = global::CarApp.Droid.Resource.Attribute.endIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconTintMode = global::CarApp.Droid.Resource.Attribute.endIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.enforceMaterialTheme = global::CarApp.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.enforceTextAppearance = global::CarApp.Droid.Resource.Attribute.enforceTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.ensureMinTouchTargetSize = global::CarApp.Droid.Resource.Attribute.ensureMinTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorContentDescription = global::CarApp.Droid.Resource.Attribute.errorContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorEnabled = global::CarApp.Droid.Resource.Attribute.errorEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorIconDrawable = global::CarApp.Droid.Resource.Attribute.errorIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorIconTint = global::CarApp.Droid.Resource.Attribute.errorIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorIconTintMode = global::CarApp.Droid.Resource.Attribute.errorIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorTextAppearance = global::CarApp.Droid.Resource.Attribute.errorTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorTextColor = global::CarApp.Droid.Resource.Attribute.errorTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandActivityOverflowButtonDrawable = global::CarApp.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.expanded = global::CarApp.Droid.Resource.Attribute.expanded;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleGravity = global::CarApp.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMargin = global::CarApp.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginBottom = global::CarApp.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginEnd = global::CarApp.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginStart = global::CarApp.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginTop = global::CarApp.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleTextAppearance = global::CarApp.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.extendedFloatingActionButtonStyle = global::CarApp.Droid.Resource.Attribute.extendedFloatingActionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.extendMotionSpec = global::CarApp.Droid.Resource.Attribute.extendMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabAlignmentMode = global::CarApp.Droid.Resource.Attribute.fabAlignmentMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabAnimationMode = global::CarApp.Droid.Resource.Attribute.fabAnimationMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCradleMargin = global::CarApp.Droid.Resource.Attribute.fabCradleMargin;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCradleRoundedCornerRadius = global::CarApp.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCradleVerticalOffset = global::CarApp.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCustomSize = global::CarApp.Droid.Resource.Attribute.fabCustomSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabSize = global::CarApp.Droid.Resource.Attribute.fabSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollEnabled = global::CarApp.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::CarApp.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::CarApp.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollVerticalThumbDrawable = global::CarApp.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollVerticalTrackDrawable = global::CarApp.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.firstBaselineToTopHeight = global::CarApp.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.floatingActionButtonStyle = global::CarApp.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.font = global::CarApp.Droid.Resource.Attribute.font;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontFamily = global::CarApp.Droid.Resource.Attribute.fontFamily;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderAuthority = global::CarApp.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderCerts = global::CarApp.Droid.Resource.Attribute.fontProviderCerts;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderFetchStrategy = global::CarApp.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderFetchTimeout = global::CarApp.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderPackage = global::CarApp.Droid.Resource.Attribute.fontProviderPackage;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderQuery = global::CarApp.Droid.Resource.Attribute.fontProviderQuery;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontStyle = global::CarApp.Droid.Resource.Attribute.fontStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontVariationSettings = global::CarApp.Droid.Resource.Attribute.fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontWeight = global::CarApp.Droid.Resource.Attribute.fontWeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.foregroundInsidePadding = global::CarApp.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.gapBetweenBars = global::CarApp.Droid.Resource.Attribute.gapBetweenBars;
+			global::Rg.Plugins.Popup.Resource.Attribute.gestureInsetBottomIgnored = global::CarApp.Droid.Resource.Attribute.gestureInsetBottomIgnored;
+			global::Rg.Plugins.Popup.Resource.Attribute.goIcon = global::CarApp.Droid.Resource.Attribute.goIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.haloColor = global::CarApp.Droid.Resource.Attribute.haloColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.haloRadius = global::CarApp.Droid.Resource.Attribute.haloRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.headerLayout = global::CarApp.Droid.Resource.Attribute.headerLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.height = global::CarApp.Droid.Resource.Attribute.height;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperText = global::CarApp.Droid.Resource.Attribute.helperText;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperTextEnabled = global::CarApp.Droid.Resource.Attribute.helperTextEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperTextTextAppearance = global::CarApp.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperTextTextColor = global::CarApp.Droid.Resource.Attribute.helperTextTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.hideMotionSpec = global::CarApp.Droid.Resource.Attribute.hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Attribute.hideOnContentScroll = global::CarApp.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Rg.Plugins.Popup.Resource.Attribute.hideOnScroll = global::CarApp.Droid.Resource.Attribute.hideOnScroll;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintAnimationEnabled = global::CarApp.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintEnabled = global::CarApp.Droid.Resource.Attribute.hintEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintTextAppearance = global::CarApp.Droid.Resource.Attribute.hintTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintTextColor = global::CarApp.Droid.Resource.Attribute.hintTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.homeAsUpIndicator = global::CarApp.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.homeLayout = global::CarApp.Droid.Resource.Attribute.homeLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.horizontalOffset = global::CarApp.Droid.Resource.Attribute.horizontalOffset;
+			global::Rg.Plugins.Popup.Resource.Attribute.hoveredFocusedTranslationZ = global::CarApp.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Attribute.icon = global::CarApp.Droid.Resource.Attribute.icon;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconEndPadding = global::CarApp.Droid.Resource.Attribute.iconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconGravity = global::CarApp.Droid.Resource.Attribute.iconGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconifiedByDefault = global::CarApp.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconPadding = global::CarApp.Droid.Resource.Attribute.iconPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconSize = global::CarApp.Droid.Resource.Attribute.iconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconStartPadding = global::CarApp.Droid.Resource.Attribute.iconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconTint = global::CarApp.Droid.Resource.Attribute.iconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconTintMode = global::CarApp.Droid.Resource.Attribute.iconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.imageButtonStyle = global::CarApp.Droid.Resource.Attribute.imageButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.indeterminateProgressStyle = global::CarApp.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.initialActivityCount = global::CarApp.Droid.Resource.Attribute.initialActivityCount;
+			global::Rg.Plugins.Popup.Resource.Attribute.insetForeground = global::CarApp.Droid.Resource.Attribute.insetForeground;
+			global::Rg.Plugins.Popup.Resource.Attribute.isLightTheme = global::CarApp.Droid.Resource.Attribute.isLightTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.isMaterialTheme = global::CarApp.Droid.Resource.Attribute.isMaterialTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemBackground = global::CarApp.Droid.Resource.Attribute.itemBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemFillColor = global::CarApp.Droid.Resource.Attribute.itemFillColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemHorizontalPadding = global::CarApp.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemHorizontalTranslationEnabled = global::CarApp.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemIconPadding = global::CarApp.Droid.Resource.Attribute.itemIconPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemIconSize = global::CarApp.Droid.Resource.Attribute.itemIconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemIconTint = global::CarApp.Droid.Resource.Attribute.itemIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemMaxLines = global::CarApp.Droid.Resource.Attribute.itemMaxLines;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemPadding = global::CarApp.Droid.Resource.Attribute.itemPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemRippleColor = global::CarApp.Droid.Resource.Attribute.itemRippleColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeAppearance = global::CarApp.Droid.Resource.Attribute.itemShapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeAppearanceOverlay = global::CarApp.Droid.Resource.Attribute.itemShapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeFillColor = global::CarApp.Droid.Resource.Attribute.itemShapeFillColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeInsetBottom = global::CarApp.Droid.Resource.Attribute.itemShapeInsetBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeInsetEnd = global::CarApp.Droid.Resource.Attribute.itemShapeInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeInsetStart = global::CarApp.Droid.Resource.Attribute.itemShapeInsetStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeInsetTop = global::CarApp.Droid.Resource.Attribute.itemShapeInsetTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemSpacing = global::CarApp.Droid.Resource.Attribute.itemSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemStrokeColor = global::CarApp.Droid.Resource.Attribute.itemStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemStrokeWidth = global::CarApp.Droid.Resource.Attribute.itemStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextAppearance = global::CarApp.Droid.Resource.Attribute.itemTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextAppearanceActive = global::CarApp.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextAppearanceInactive = global::CarApp.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextColor = global::CarApp.Droid.Resource.Attribute.itemTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.keylines = global::CarApp.Droid.Resource.Attribute.keylines;
+			global::Rg.Plugins.Popup.Resource.Attribute.labelBehavior = global::CarApp.Droid.Resource.Attribute.labelBehavior;
+			global::Rg.Plugins.Popup.Resource.Attribute.labelStyle = global::CarApp.Droid.Resource.Attribute.labelStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.labelVisibilityMode = global::CarApp.Droid.Resource.Attribute.labelVisibilityMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.lastBaselineToBottomHeight = global::CarApp.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout = global::CarApp.Droid.Resource.Attribute.layout;
+			global::Rg.Plugins.Popup.Resource.Attribute.layoutManager = global::CarApp.Droid.Resource.Attribute.layoutManager;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_anchor = global::CarApp.Droid.Resource.Attribute.layout_anchor;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_anchorGravity = global::CarApp.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_behavior = global::CarApp.Droid.Resource.Attribute.layout_behavior;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_collapseMode = global::CarApp.Droid.Resource.Attribute.layout_collapseMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_collapseParallaxMultiplier = global::CarApp.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_dodgeInsetEdges = global::CarApp.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_insetEdge = global::CarApp.Droid.Resource.Attribute.layout_insetEdge;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_keyline = global::CarApp.Droid.Resource.Attribute.layout_keyline;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_scrollFlags = global::CarApp.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_scrollInterpolator = global::CarApp.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Rg.Plugins.Popup.Resource.Attribute.liftOnScroll = global::CarApp.Droid.Resource.Attribute.liftOnScroll;
+			global::Rg.Plugins.Popup.Resource.Attribute.liftOnScrollTargetViewId = global::CarApp.Droid.Resource.Attribute.liftOnScrollTargetViewId;
+			global::Rg.Plugins.Popup.Resource.Attribute.lineHeight = global::CarApp.Droid.Resource.Attribute.lineHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.lineSpacing = global::CarApp.Droid.Resource.Attribute.lineSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.listChoiceBackgroundIndicator = global::CarApp.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::CarApp.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::Rg.Plugins.Popup.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::CarApp.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::Rg.Plugins.Popup.Resource.Attribute.listDividerAlertDialog = global::CarApp.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Attribute.listItemLayout = global::CarApp.Droid.Resource.Attribute.listItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.listLayout = global::CarApp.Droid.Resource.Attribute.listLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.listMenuViewStyle = global::CarApp.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPopupWindowStyle = global::CarApp.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemHeight = global::CarApp.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemHeightLarge = global::CarApp.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemHeightSmall = global::CarApp.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingEnd = global::CarApp.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingLeft = global::CarApp.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingRight = global::CarApp.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingStart = global::CarApp.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.logo = global::CarApp.Droid.Resource.Attribute.logo;
+			global::Rg.Plugins.Popup.Resource.Attribute.logoDescription = global::CarApp.Droid.Resource.Attribute.logoDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialAlertDialogBodyTextStyle = global::CarApp.Droid.Resource.Attribute.materialAlertDialogBodyTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialAlertDialogTheme = global::CarApp.Droid.Resource.Attribute.materialAlertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialAlertDialogTitleIconStyle = global::CarApp.Droid.Resource.Attribute.materialAlertDialogTitleIconStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialAlertDialogTitlePanelStyle = global::CarApp.Droid.Resource.Attribute.materialAlertDialogTitlePanelStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialAlertDialogTitleTextStyle = global::CarApp.Droid.Resource.Attribute.materialAlertDialogTitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialButtonOutlinedStyle = global::CarApp.Droid.Resource.Attribute.materialButtonOutlinedStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialButtonStyle = global::CarApp.Droid.Resource.Attribute.materialButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialButtonToggleGroupStyle = global::CarApp.Droid.Resource.Attribute.materialButtonToggleGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarDay = global::CarApp.Droid.Resource.Attribute.materialCalendarDay;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarFullscreenTheme = global::CarApp.Droid.Resource.Attribute.materialCalendarFullscreenTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderConfirmButton = global::CarApp.Droid.Resource.Attribute.materialCalendarHeaderConfirmButton;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderDivider = global::CarApp.Droid.Resource.Attribute.materialCalendarHeaderDivider;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderLayout = global::CarApp.Droid.Resource.Attribute.materialCalendarHeaderLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderSelection = global::CarApp.Droid.Resource.Attribute.materialCalendarHeaderSelection;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderTitle = global::CarApp.Droid.Resource.Attribute.materialCalendarHeaderTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderToggleButton = global::CarApp.Droid.Resource.Attribute.materialCalendarHeaderToggleButton;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarStyle = global::CarApp.Droid.Resource.Attribute.materialCalendarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarTheme = global::CarApp.Droid.Resource.Attribute.materialCalendarTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCardViewStyle = global::CarApp.Droid.Resource.Attribute.materialCardViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialThemeOverlay = global::CarApp.Droid.Resource.Attribute.materialThemeOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxActionInlineWidth = global::CarApp.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxButtonHeight = global::CarApp.Droid.Resource.Attribute.maxButtonHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxCharacterCount = global::CarApp.Droid.Resource.Attribute.maxCharacterCount;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxImageSize = global::CarApp.Droid.Resource.Attribute.maxImageSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxLines = global::CarApp.Droid.Resource.Attribute.maxLines;
+			global::Rg.Plugins.Popup.Resource.Attribute.measureWithLargestChild = global::CarApp.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Rg.Plugins.Popup.Resource.Attribute.menu = global::CarApp.Droid.Resource.Attribute.menu;
+			global::Rg.Plugins.Popup.Resource.Attribute.minTouchTargetSize = global::CarApp.Droid.Resource.Attribute.minTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.multiChoiceItemLayout = global::CarApp.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationContentDescription = global::CarApp.Droid.Resource.Attribute.navigationContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationIcon = global::CarApp.Droid.Resource.Attribute.navigationIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationMode = global::CarApp.Droid.Resource.Attribute.navigationMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationViewStyle = global::CarApp.Droid.Resource.Attribute.navigationViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.number = global::CarApp.Droid.Resource.Attribute.number;
+			global::Rg.Plugins.Popup.Resource.Attribute.numericModifiers = global::CarApp.Droid.Resource.Attribute.numericModifiers;
+			global::Rg.Plugins.Popup.Resource.Attribute.overlapAnchor = global::CarApp.Droid.Resource.Attribute.overlapAnchor;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingBottomNoButtons = global::CarApp.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingBottomSystemWindowInsets = global::CarApp.Droid.Resource.Attribute.paddingBottomSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingEnd = global::CarApp.Droid.Resource.Attribute.paddingEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingLeftSystemWindowInsets = global::CarApp.Droid.Resource.Attribute.paddingLeftSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingRightSystemWindowInsets = global::CarApp.Droid.Resource.Attribute.paddingRightSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingStart = global::CarApp.Droid.Resource.Attribute.paddingStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingTopNoTitle = global::CarApp.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.panelBackground = global::CarApp.Droid.Resource.Attribute.panelBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.panelMenuListTheme = global::CarApp.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.panelMenuListWidth = global::CarApp.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleContentDescription = global::CarApp.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleDrawable = global::CarApp.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleEnabled = global::CarApp.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleTint = global::CarApp.Droid.Resource.Attribute.passwordToggleTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleTintMode = global::CarApp.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.placeholderText = global::CarApp.Droid.Resource.Attribute.placeholderText;
+			global::Rg.Plugins.Popup.Resource.Attribute.placeholderTextAppearance = global::CarApp.Droid.Resource.Attribute.placeholderTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.placeholderTextColor = global::CarApp.Droid.Resource.Attribute.placeholderTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupMenuBackground = global::CarApp.Droid.Resource.Attribute.popupMenuBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupMenuStyle = global::CarApp.Droid.Resource.Attribute.popupMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupTheme = global::CarApp.Droid.Resource.Attribute.popupTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupWindowStyle = global::CarApp.Droid.Resource.Attribute.popupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.prefixText = global::CarApp.Droid.Resource.Attribute.prefixText;
+			global::Rg.Plugins.Popup.Resource.Attribute.prefixTextAppearance = global::CarApp.Droid.Resource.Attribute.prefixTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.prefixTextColor = global::CarApp.Droid.Resource.Attribute.prefixTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.preserveIconSpacing = global::CarApp.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.pressedTranslationZ = global::CarApp.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Attribute.progressBarPadding = global::CarApp.Droid.Resource.Attribute.progressBarPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.progressBarStyle = global::CarApp.Droid.Resource.Attribute.progressBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.queryBackground = global::CarApp.Droid.Resource.Attribute.queryBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.queryHint = global::CarApp.Droid.Resource.Attribute.queryHint;
+			global::Rg.Plugins.Popup.Resource.Attribute.radioButtonStyle = global::CarApp.Droid.Resource.Attribute.radioButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.rangeFillColor = global::CarApp.Droid.Resource.Attribute.rangeFillColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.ratingBarStyle = global::CarApp.Droid.Resource.Attribute.ratingBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.ratingBarStyleIndicator = global::CarApp.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.ratingBarStyleSmall = global::CarApp.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.recyclerViewStyle = global::CarApp.Droid.Resource.Attribute.recyclerViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.reverseLayout = global::CarApp.Droid.Resource.Attribute.reverseLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.rippleColor = global::CarApp.Droid.Resource.Attribute.rippleColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrimAnimationDuration = global::CarApp.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrimBackground = global::CarApp.Droid.Resource.Attribute.scrimBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrimVisibleHeightTrigger = global::CarApp.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrollViewStyle = global::CarApp.Droid.Resource.Attribute.scrollViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.searchHintIcon = global::CarApp.Droid.Resource.Attribute.searchHintIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.searchIcon = global::CarApp.Droid.Resource.Attribute.searchIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.searchViewStyle = global::CarApp.Droid.Resource.Attribute.searchViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.seekBarStyle = global::CarApp.Droid.Resource.Attribute.seekBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.selectableItemBackground = global::CarApp.Droid.Resource.Attribute.selectableItemBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.selectableItemBackgroundBorderless = global::CarApp.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Rg.Plugins.Popup.Resource.Attribute.selectionRequired = global::CarApp.Droid.Resource.Attribute.selectionRequired;
+			global::Rg.Plugins.Popup.Resource.Attribute.shapeAppearance = global::CarApp.Droid.Resource.Attribute.shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.shapeAppearanceLargeComponent = global::CarApp.Droid.Resource.Attribute.shapeAppearanceLargeComponent;
+			global::Rg.Plugins.Popup.Resource.Attribute.shapeAppearanceMediumComponent = global::CarApp.Droid.Resource.Attribute.shapeAppearanceMediumComponent;
+			global::Rg.Plugins.Popup.Resource.Attribute.shapeAppearanceOverlay = global::CarApp.Droid.Resource.Attribute.shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.shapeAppearanceSmallComponent = global::CarApp.Droid.Resource.Attribute.shapeAppearanceSmallComponent;
+			global::Rg.Plugins.Popup.Resource.Attribute.showAsAction = global::CarApp.Droid.Resource.Attribute.showAsAction;
+			global::Rg.Plugins.Popup.Resource.Attribute.showDividers = global::CarApp.Droid.Resource.Attribute.showDividers;
+			global::Rg.Plugins.Popup.Resource.Attribute.showMotionSpec = global::CarApp.Droid.Resource.Attribute.showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Attribute.showText = global::CarApp.Droid.Resource.Attribute.showText;
+			global::Rg.Plugins.Popup.Resource.Attribute.showTitle = global::CarApp.Droid.Resource.Attribute.showTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.shrinkMotionSpec = global::CarApp.Droid.Resource.Attribute.shrinkMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Attribute.singleChoiceItemLayout = global::CarApp.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.singleLine = global::CarApp.Droid.Resource.Attribute.singleLine;
+			global::Rg.Plugins.Popup.Resource.Attribute.singleSelection = global::CarApp.Droid.Resource.Attribute.singleSelection;
+			global::Rg.Plugins.Popup.Resource.Attribute.sliderStyle = global::CarApp.Droid.Resource.Attribute.sliderStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.snackbarButtonStyle = global::CarApp.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.snackbarStyle = global::CarApp.Droid.Resource.Attribute.snackbarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.snackbarTextViewStyle = global::CarApp.Droid.Resource.Attribute.snackbarTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.spanCount = global::CarApp.Droid.Resource.Attribute.spanCount;
+			global::Rg.Plugins.Popup.Resource.Attribute.spinBars = global::CarApp.Droid.Resource.Attribute.spinBars;
+			global::Rg.Plugins.Popup.Resource.Attribute.spinnerDropDownItemStyle = global::CarApp.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.spinnerStyle = global::CarApp.Droid.Resource.Attribute.spinnerStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.splitTrack = global::CarApp.Droid.Resource.Attribute.splitTrack;
+			global::Rg.Plugins.Popup.Resource.Attribute.srcCompat = global::CarApp.Droid.Resource.Attribute.srcCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.stackFromEnd = global::CarApp.Droid.Resource.Attribute.stackFromEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.startIconCheckable = global::CarApp.Droid.Resource.Attribute.startIconCheckable;
+			global::Rg.Plugins.Popup.Resource.Attribute.startIconContentDescription = global::CarApp.Droid.Resource.Attribute.startIconContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.startIconDrawable = global::CarApp.Droid.Resource.Attribute.startIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.startIconTint = global::CarApp.Droid.Resource.Attribute.startIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.startIconTintMode = global::CarApp.Droid.Resource.Attribute.startIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_above_anchor = global::CarApp.Droid.Resource.Attribute.state_above_anchor;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_collapsed = global::CarApp.Droid.Resource.Attribute.state_collapsed;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_collapsible = global::CarApp.Droid.Resource.Attribute.state_collapsible;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_dragged = global::CarApp.Droid.Resource.Attribute.state_dragged;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_liftable = global::CarApp.Droid.Resource.Attribute.state_liftable;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_lifted = global::CarApp.Droid.Resource.Attribute.state_lifted;
+			global::Rg.Plugins.Popup.Resource.Attribute.statusBarBackground = global::CarApp.Droid.Resource.Attribute.statusBarBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.statusBarForeground = global::CarApp.Droid.Resource.Attribute.statusBarForeground;
+			global::Rg.Plugins.Popup.Resource.Attribute.statusBarScrim = global::CarApp.Droid.Resource.Attribute.statusBarScrim;
+			global::Rg.Plugins.Popup.Resource.Attribute.strokeColor = global::CarApp.Droid.Resource.Attribute.strokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.strokeWidth = global::CarApp.Droid.Resource.Attribute.strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.subMenuArrow = global::CarApp.Droid.Resource.Attribute.subMenuArrow;
+			global::Rg.Plugins.Popup.Resource.Attribute.submitBackground = global::CarApp.Droid.Resource.Attribute.submitBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitle = global::CarApp.Droid.Resource.Attribute.subtitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitleTextAppearance = global::CarApp.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitleTextColor = global::CarApp.Droid.Resource.Attribute.subtitleTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitleTextStyle = global::CarApp.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.suffixText = global::CarApp.Droid.Resource.Attribute.suffixText;
+			global::Rg.Plugins.Popup.Resource.Attribute.suffixTextAppearance = global::CarApp.Droid.Resource.Attribute.suffixTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.suffixTextColor = global::CarApp.Droid.Resource.Attribute.suffixTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.suggestionRowLayout = global::CarApp.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor = global::CarApp.Droid.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchMinWidth = global::CarApp.Droid.Resource.Attribute.switchMinWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchPadding = global::CarApp.Droid.Resource.Attribute.switchPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchStyle = global::CarApp.Droid.Resource.Attribute.switchStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchTextAppearance = global::CarApp.Droid.Resource.Attribute.switchTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabBackground = global::CarApp.Droid.Resource.Attribute.tabBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabContentStart = global::CarApp.Droid.Resource.Attribute.tabContentStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabGravity = global::CarApp.Droid.Resource.Attribute.tabGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIconTint = global::CarApp.Droid.Resource.Attribute.tabIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIconTintMode = global::CarApp.Droid.Resource.Attribute.tabIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicator = global::CarApp.Droid.Resource.Attribute.tabIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorAnimationDuration = global::CarApp.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorColor = global::CarApp.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorFullWidth = global::CarApp.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorGravity = global::CarApp.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorHeight = global::CarApp.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabInlineLabel = global::CarApp.Droid.Resource.Attribute.tabInlineLabel;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabMaxWidth = global::CarApp.Droid.Resource.Attribute.tabMaxWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabMinWidth = global::CarApp.Droid.Resource.Attribute.tabMinWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabMode = global::CarApp.Droid.Resource.Attribute.tabMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPadding = global::CarApp.Droid.Resource.Attribute.tabPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingBottom = global::CarApp.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingEnd = global::CarApp.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingStart = global::CarApp.Droid.Resource.Attribute.tabPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingTop = global::CarApp.Droid.Resource.Attribute.tabPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabRippleColor = global::CarApp.Droid.Resource.Attribute.tabRippleColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabSelectedTextColor = global::CarApp.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabStyle = global::CarApp.Droid.Resource.Attribute.tabStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabTextAppearance = global::CarApp.Droid.Resource.Attribute.tabTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabTextColor = global::CarApp.Droid.Resource.Attribute.tabTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabUnboundedRipple = global::CarApp.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAllCaps = global::CarApp.Droid.Resource.Attribute.textAllCaps;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceBody1 = global::CarApp.Droid.Resource.Attribute.textAppearanceBody1;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceBody2 = global::CarApp.Droid.Resource.Attribute.textAppearanceBody2;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceButton = global::CarApp.Droid.Resource.Attribute.textAppearanceButton;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceCaption = global::CarApp.Droid.Resource.Attribute.textAppearanceCaption;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline1 = global::CarApp.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline2 = global::CarApp.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline3 = global::CarApp.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline4 = global::CarApp.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline5 = global::CarApp.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline6 = global::CarApp.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceLargePopupMenu = global::CarApp.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceLineHeightEnabled = global::CarApp.Droid.Resource.Attribute.textAppearanceLineHeightEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceListItem = global::CarApp.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceListItemSecondary = global::CarApp.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceListItemSmall = global::CarApp.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceOverline = global::CarApp.Droid.Resource.Attribute.textAppearanceOverline;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearancePopupMenuHeader = global::CarApp.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSearchResultSubtitle = global::CarApp.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSearchResultTitle = global::CarApp.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSmallPopupMenu = global::CarApp.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSubtitle1 = global::CarApp.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSubtitle2 = global::CarApp.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::Rg.Plugins.Popup.Resource.Attribute.textColorAlertDialogListItem = global::CarApp.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Rg.Plugins.Popup.Resource.Attribute.textColorSearchUrl = global::CarApp.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Rg.Plugins.Popup.Resource.Attribute.textEndPadding = global::CarApp.Droid.Resource.Attribute.textEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.textInputLayoutFocusedRectEnabled = global::CarApp.Droid.Resource.Attribute.textInputLayoutFocusedRectEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.textInputStyle = global::CarApp.Droid.Resource.Attribute.textInputStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.textLocale = global::CarApp.Droid.Resource.Attribute.textLocale;
+			global::Rg.Plugins.Popup.Resource.Attribute.textStartPadding = global::CarApp.Droid.Resource.Attribute.textStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.theme = global::CarApp.Droid.Resource.Attribute.theme;
+			global::Rg.Plugins.Popup.Resource.Attribute.themeLineHeight = global::CarApp.Droid.Resource.Attribute.themeLineHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.thickness = global::CarApp.Droid.Resource.Attribute.thickness;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbColor = global::CarApp.Droid.Resource.Attribute.thumbColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbElevation = global::CarApp.Droid.Resource.Attribute.thumbElevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbRadius = global::CarApp.Droid.Resource.Attribute.thumbRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbTextPadding = global::CarApp.Droid.Resource.Attribute.thumbTextPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbTint = global::CarApp.Droid.Resource.Attribute.thumbTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbTintMode = global::CarApp.Droid.Resource.Attribute.thumbTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickColor = global::CarApp.Droid.Resource.Attribute.tickColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickColorActive = global::CarApp.Droid.Resource.Attribute.tickColorActive;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickColorInactive = global::CarApp.Droid.Resource.Attribute.tickColorInactive;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickMark = global::CarApp.Droid.Resource.Attribute.tickMark;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickMarkTint = global::CarApp.Droid.Resource.Attribute.tickMarkTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickMarkTintMode = global::CarApp.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tint = global::CarApp.Droid.Resource.Attribute.tint;
+			global::Rg.Plugins.Popup.Resource.Attribute.tintMode = global::CarApp.Droid.Resource.Attribute.tintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.title = global::CarApp.Droid.Resource.Attribute.title;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleEnabled = global::CarApp.Droid.Resource.Attribute.titleEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMargin = global::CarApp.Droid.Resource.Attribute.titleMargin;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginBottom = global::CarApp.Droid.Resource.Attribute.titleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginEnd = global::CarApp.Droid.Resource.Attribute.titleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMargins = global::CarApp.Droid.Resource.Attribute.titleMargins;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginStart = global::CarApp.Droid.Resource.Attribute.titleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginTop = global::CarApp.Droid.Resource.Attribute.titleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleTextAppearance = global::CarApp.Droid.Resource.Attribute.titleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleTextColor = global::CarApp.Droid.Resource.Attribute.titleTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleTextStyle = global::CarApp.Droid.Resource.Attribute.titleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.toolbarId = global::CarApp.Droid.Resource.Attribute.toolbarId;
+			global::Rg.Plugins.Popup.Resource.Attribute.toolbarNavigationButtonStyle = global::CarApp.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.toolbarStyle = global::CarApp.Droid.Resource.Attribute.toolbarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipForegroundColor = global::CarApp.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipFrameBackground = global::CarApp.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipStyle = global::CarApp.Droid.Resource.Attribute.tooltipStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipText = global::CarApp.Droid.Resource.Attribute.tooltipText;
+			global::Rg.Plugins.Popup.Resource.Attribute.track = global::CarApp.Droid.Resource.Attribute.track;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackColor = global::CarApp.Droid.Resource.Attribute.trackColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackColorActive = global::CarApp.Droid.Resource.Attribute.trackColorActive;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackColorInactive = global::CarApp.Droid.Resource.Attribute.trackColorInactive;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackHeight = global::CarApp.Droid.Resource.Attribute.trackHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackTint = global::CarApp.Droid.Resource.Attribute.trackTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackTintMode = global::CarApp.Droid.Resource.Attribute.trackTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.transitionShapeAppearance = global::CarApp.Droid.Resource.Attribute.transitionShapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.ttcIndex = global::CarApp.Droid.Resource.Attribute.ttcIndex;
+			global::Rg.Plugins.Popup.Resource.Attribute.useCompatPadding = global::CarApp.Droid.Resource.Attribute.useCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.useMaterialThemeColors = global::CarApp.Droid.Resource.Attribute.useMaterialThemeColors;
+			global::Rg.Plugins.Popup.Resource.Attribute.values = global::CarApp.Droid.Resource.Attribute.values;
+			global::Rg.Plugins.Popup.Resource.Attribute.verticalOffset = global::CarApp.Droid.Resource.Attribute.verticalOffset;
+			global::Rg.Plugins.Popup.Resource.Attribute.viewInflaterClass = global::CarApp.Droid.Resource.Attribute.viewInflaterClass;
+			global::Rg.Plugins.Popup.Resource.Attribute.voiceIcon = global::CarApp.Droid.Resource.Attribute.voiceIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowActionBar = global::CarApp.Droid.Resource.Attribute.windowActionBar;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowActionBarOverlay = global::CarApp.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowActionModeOverlay = global::CarApp.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedHeightMajor = global::CarApp.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedHeightMinor = global::CarApp.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedWidthMajor = global::CarApp.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedWidthMinor = global::CarApp.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowMinWidthMajor = global::CarApp.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowMinWidthMinor = global::CarApp.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowNoTitle = global::CarApp.Droid.Resource.Attribute.windowNoTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.yearSelectedStyle = global::CarApp.Droid.Resource.Attribute.yearSelectedStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.yearStyle = global::CarApp.Droid.Resource.Attribute.yearStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.yearTodayStyle = global::CarApp.Droid.Resource.Attribute.yearTodayStyle;
+			global::Rg.Plugins.Popup.Resource.Boolean.abc_action_bar_embed_tabs = global::CarApp.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Rg.Plugins.Popup.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::CarApp.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Rg.Plugins.Popup.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::CarApp.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Rg.Plugins.Popup.Resource.Color.abc_background_cache_hint_selector_material_dark = global::CarApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_background_cache_hint_selector_material_light = global::CarApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_btn_colored_borderless_text_material = global::CarApp.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Rg.Plugins.Popup.Resource.Color.abc_btn_colored_text_material = global::CarApp.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Rg.Plugins.Popup.Resource.Color.abc_color_highlight_material = global::CarApp.Droid.Resource.Color.abc_color_highlight_material;
+			global::Rg.Plugins.Popup.Resource.Color.abc_decor_view_status_guard = global::CarApp.Droid.Resource.Color.abc_decor_view_status_guard;
+			global::Rg.Plugins.Popup.Resource.Color.abc_decor_view_status_guard_light = global::CarApp.Droid.Resource.Color.abc_decor_view_status_guard_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_hint_foreground_material_dark = global::CarApp.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_hint_foreground_material_light = global::CarApp.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_disable_only_material_dark = global::CarApp.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_disable_only_material_light = global::CarApp.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_material_dark = global::CarApp.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_material_light = global::CarApp.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text = global::CarApp.Droid.Resource.Color.abc_search_url_text;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text_normal = global::CarApp.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text_pressed = global::CarApp.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text_selected = global::CarApp.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Rg.Plugins.Popup.Resource.Color.abc_secondary_text_material_dark = global::CarApp.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_secondary_text_material_light = global::CarApp.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_btn_checkable = global::CarApp.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_default = global::CarApp.Droid.Resource.Color.abc_tint_default;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_edittext = global::CarApp.Droid.Resource.Color.abc_tint_edittext;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_seek_thumb = global::CarApp.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_spinner = global::CarApp.Droid.Resource.Color.abc_tint_spinner;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_switch_track = global::CarApp.Droid.Resource.Color.abc_tint_switch_track;
+			global::Rg.Plugins.Popup.Resource.Color.accent_material_dark = global::CarApp.Droid.Resource.Color.accent_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.accent_material_light = global::CarApp.Droid.Resource.Color.accent_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.androidx_core_ripple_material_light = global::CarApp.Droid.Resource.Color.androidx_core_ripple_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.androidx_core_secondary_text_default_material_light = global::CarApp.Droid.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.background_floating_material_dark = global::CarApp.Droid.Resource.Color.background_floating_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.background_floating_material_light = global::CarApp.Droid.Resource.Color.background_floating_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.background_material_dark = global::CarApp.Droid.Resource.Color.background_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.background_material_light = global::CarApp.Droid.Resource.Color.background_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_disabled_material_dark = global::CarApp.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_disabled_material_light = global::CarApp.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_inverse_material_dark = global::CarApp.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_inverse_material_light = global::CarApp.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_material_dark = global::CarApp.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_material_light = global::CarApp.Droid.Resource.Color.bright_foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_bg_grey = global::CarApp.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_divider_color = global::CarApp.Droid.Resource.Color.browser_actions_divider_color;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_text_color = global::CarApp.Droid.Resource.Color.browser_actions_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_title_color = global::CarApp.Droid.Resource.Color.browser_actions_title_color;
+			global::Rg.Plugins.Popup.Resource.Color.button_material_dark = global::CarApp.Droid.Resource.Color.button_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.button_material_light = global::CarApp.Droid.Resource.Color.button_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_dark_background = global::CarApp.Droid.Resource.Color.cardview_dark_background;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_light_background = global::CarApp.Droid.Resource.Color.cardview_light_background;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_shadow_end_color = global::CarApp.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_shadow_start_color = global::CarApp.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Rg.Plugins.Popup.Resource.Color.checkbox_themeable_attribute_color = global::CarApp.Droid.Resource.Color.checkbox_themeable_attribute_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_bottom_navigation_shadow_color = global::CarApp.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_box_stroke_color = global::CarApp.Droid.Resource.Color.design_box_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_background = global::CarApp.Droid.Resource.Color.design_dark_default_color_background;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_error = global::CarApp.Droid.Resource.Color.design_dark_default_color_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_on_background = global::CarApp.Droid.Resource.Color.design_dark_default_color_on_background;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_on_error = global::CarApp.Droid.Resource.Color.design_dark_default_color_on_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_on_primary = global::CarApp.Droid.Resource.Color.design_dark_default_color_on_primary;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_on_secondary = global::CarApp.Droid.Resource.Color.design_dark_default_color_on_secondary;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_on_surface = global::CarApp.Droid.Resource.Color.design_dark_default_color_on_surface;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_primary = global::CarApp.Droid.Resource.Color.design_dark_default_color_primary;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_primary_dark = global::CarApp.Droid.Resource.Color.design_dark_default_color_primary_dark;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_primary_variant = global::CarApp.Droid.Resource.Color.design_dark_default_color_primary_variant;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_secondary = global::CarApp.Droid.Resource.Color.design_dark_default_color_secondary;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_secondary_variant = global::CarApp.Droid.Resource.Color.design_dark_default_color_secondary_variant;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_surface = global::CarApp.Droid.Resource.Color.design_dark_default_color_surface;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_background = global::CarApp.Droid.Resource.Color.design_default_color_background;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_error = global::CarApp.Droid.Resource.Color.design_default_color_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_on_background = global::CarApp.Droid.Resource.Color.design_default_color_on_background;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_on_error = global::CarApp.Droid.Resource.Color.design_default_color_on_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_on_primary = global::CarApp.Droid.Resource.Color.design_default_color_on_primary;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_on_secondary = global::CarApp.Droid.Resource.Color.design_default_color_on_secondary;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_on_surface = global::CarApp.Droid.Resource.Color.design_default_color_on_surface;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_primary = global::CarApp.Droid.Resource.Color.design_default_color_primary;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_primary_dark = global::CarApp.Droid.Resource.Color.design_default_color_primary_dark;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_primary_variant = global::CarApp.Droid.Resource.Color.design_default_color_primary_variant;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_secondary = global::CarApp.Droid.Resource.Color.design_default_color_secondary;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_secondary_variant = global::CarApp.Droid.Resource.Color.design_default_color_secondary_variant;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_surface = global::CarApp.Droid.Resource.Color.design_default_color_surface;
+			global::Rg.Plugins.Popup.Resource.Color.design_error = global::CarApp.Droid.Resource.Color.design_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_shadow_end_color = global::CarApp.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_shadow_mid_color = global::CarApp.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_shadow_start_color = global::CarApp.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_end_inner_color = global::CarApp.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_end_outer_color = global::CarApp.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_top_inner_color = global::CarApp.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_top_outer_color = global::CarApp.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_icon_tint = global::CarApp.Droid.Resource.Color.design_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.design_snackbar_background_color = global::CarApp.Droid.Resource.Color.design_snackbar_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_disabled_material_dark = global::CarApp.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_disabled_material_light = global::CarApp.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_material_dark = global::CarApp.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_material_light = global::CarApp.Droid.Resource.Color.dim_foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.error_color_material_dark = global::CarApp.Droid.Resource.Color.error_color_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.error_color_material_light = global::CarApp.Droid.Resource.Color.error_color_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.foreground_material_dark = global::CarApp.Droid.Resource.Color.foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.foreground_material_light = global::CarApp.Droid.Resource.Color.foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.highlighted_text_material_dark = global::CarApp.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.highlighted_text_material_light = global::CarApp.Droid.Resource.Color.highlighted_text_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.material_blue_grey_800 = global::CarApp.Droid.Resource.Color.material_blue_grey_800;
+			global::Rg.Plugins.Popup.Resource.Color.material_blue_grey_900 = global::CarApp.Droid.Resource.Color.material_blue_grey_900;
+			global::Rg.Plugins.Popup.Resource.Color.material_blue_grey_950 = global::CarApp.Droid.Resource.Color.material_blue_grey_950;
+			global::Rg.Plugins.Popup.Resource.Color.material_deep_teal_200 = global::CarApp.Droid.Resource.Color.material_deep_teal_200;
+			global::Rg.Plugins.Popup.Resource.Color.material_deep_teal_500 = global::CarApp.Droid.Resource.Color.material_deep_teal_500;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_100 = global::CarApp.Droid.Resource.Color.material_grey_100;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_300 = global::CarApp.Droid.Resource.Color.material_grey_300;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_50 = global::CarApp.Droid.Resource.Color.material_grey_50;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_600 = global::CarApp.Droid.Resource.Color.material_grey_600;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_800 = global::CarApp.Droid.Resource.Color.material_grey_800;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_850 = global::CarApp.Droid.Resource.Color.material_grey_850;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_900 = global::CarApp.Droid.Resource.Color.material_grey_900;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_background_disabled = global::CarApp.Droid.Resource.Color.material_on_background_disabled;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_background_emphasis_high_type = global::CarApp.Droid.Resource.Color.material_on_background_emphasis_high_type;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_background_emphasis_medium = global::CarApp.Droid.Resource.Color.material_on_background_emphasis_medium;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_primary_disabled = global::CarApp.Droid.Resource.Color.material_on_primary_disabled;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_primary_emphasis_high_type = global::CarApp.Droid.Resource.Color.material_on_primary_emphasis_high_type;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_primary_emphasis_medium = global::CarApp.Droid.Resource.Color.material_on_primary_emphasis_medium;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_surface_disabled = global::CarApp.Droid.Resource.Color.material_on_surface_disabled;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_surface_emphasis_high_type = global::CarApp.Droid.Resource.Color.material_on_surface_emphasis_high_type;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_surface_emphasis_medium = global::CarApp.Droid.Resource.Color.material_on_surface_emphasis_medium;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_surface_stroke = global::CarApp.Droid.Resource.Color.material_on_surface_stroke;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_active_tick_marks_color = global::CarApp.Droid.Resource.Color.material_slider_active_tick_marks_color;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_active_track_color = global::CarApp.Droid.Resource.Color.material_slider_active_track_color;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_halo_color = global::CarApp.Droid.Resource.Color.material_slider_halo_color;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_inactive_tick_marks_color = global::CarApp.Droid.Resource.Color.material_slider_inactive_tick_marks_color;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_inactive_track_color = global::CarApp.Droid.Resource.Color.material_slider_inactive_track_color;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_thumb_color = global::CarApp.Droid.Resource.Color.material_slider_thumb_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_bg_color_selector = global::CarApp.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_ripple_color = global::CarApp.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_stroke_color_selector = global::CarApp.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_btn_bg_color_selector = global::CarApp.Droid.Resource.Color.mtrl_btn_text_btn_bg_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_btn_ripple_color = global::CarApp.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_color_disabled = global::CarApp.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_color_selector = global::CarApp.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_transparent_bg_color = global::CarApp.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_calendar_item_stroke_color = global::CarApp.Droid.Resource.Color.mtrl_calendar_item_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_calendar_selected_range = global::CarApp.Droid.Resource.Color.mtrl_calendar_selected_range;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_card_view_foreground = global::CarApp.Droid.Resource.Color.mtrl_card_view_foreground;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_card_view_ripple = global::CarApp.Droid.Resource.Color.mtrl_card_view_ripple;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_background_color = global::CarApp.Droid.Resource.Color.mtrl_chip_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_close_icon_tint = global::CarApp.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_surface_color = global::CarApp.Droid.Resource.Color.mtrl_chip_surface_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_text_color = global::CarApp.Droid.Resource.Color.mtrl_chip_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_choice_chip_background_color = global::CarApp.Droid.Resource.Color.mtrl_choice_chip_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_choice_chip_ripple_color = global::CarApp.Droid.Resource.Color.mtrl_choice_chip_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_choice_chip_text_color = global::CarApp.Droid.Resource.Color.mtrl_choice_chip_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_error = global::CarApp.Droid.Resource.Color.mtrl_error;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_fab_bg_color_selector = global::CarApp.Droid.Resource.Color.mtrl_fab_bg_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_fab_icon_text_color_selector = global::CarApp.Droid.Resource.Color.mtrl_fab_icon_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_fab_ripple_color = global::CarApp.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_filled_background_color = global::CarApp.Droid.Resource.Color.mtrl_filled_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_filled_icon_tint = global::CarApp.Droid.Resource.Color.mtrl_filled_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_filled_stroke_color = global::CarApp.Droid.Resource.Color.mtrl_filled_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_indicator_text_color = global::CarApp.Droid.Resource.Color.mtrl_indicator_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_navigation_item_background_color = global::CarApp.Droid.Resource.Color.mtrl_navigation_item_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_navigation_item_icon_tint = global::CarApp.Droid.Resource.Color.mtrl_navigation_item_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_navigation_item_text_color = global::CarApp.Droid.Resource.Color.mtrl_navigation_item_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_on_primary_text_btn_text_color_selector = global::CarApp.Droid.Resource.Color.mtrl_on_primary_text_btn_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_outlined_icon_tint = global::CarApp.Droid.Resource.Color.mtrl_outlined_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_outlined_stroke_color = global::CarApp.Droid.Resource.Color.mtrl_outlined_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_popupmenu_overlay_color = global::CarApp.Droid.Resource.Color.mtrl_popupmenu_overlay_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_scrim_color = global::CarApp.Droid.Resource.Color.mtrl_scrim_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_colored_ripple_color = global::CarApp.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_icon_color_selector = global::CarApp.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::CarApp.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::CarApp.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_ripple_color = global::CarApp.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_default_box_stroke_color = global::CarApp.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_disabled_color = global::CarApp.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::CarApp.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_focused_box_stroke_color = global::CarApp.Droid.Resource.Color.mtrl_textinput_focused_box_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::CarApp.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_text_btn_text_color_selector = global::CarApp.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.notification_action_color_filter = global::CarApp.Droid.Resource.Color.notification_action_color_filter;
+			global::Rg.Plugins.Popup.Resource.Color.notification_icon_bg_color = global::CarApp.Droid.Resource.Color.notification_icon_bg_color;
+			global::Rg.Plugins.Popup.Resource.Color.notification_material_background_media_default_color = global::CarApp.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Rg.Plugins.Popup.Resource.Color.primary_dark_material_dark = global::CarApp.Droid.Resource.Color.primary_dark_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_dark_material_light = global::CarApp.Droid.Resource.Color.primary_dark_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.primary_material_dark = global::CarApp.Droid.Resource.Color.primary_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_material_light = global::CarApp.Droid.Resource.Color.primary_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_default_material_dark = global::CarApp.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_default_material_light = global::CarApp.Droid.Resource.Color.primary_text_default_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_disabled_material_dark = global::CarApp.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_disabled_material_light = global::CarApp.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.radiobutton_themeable_attribute_color = global::CarApp.Droid.Resource.Color.radiobutton_themeable_attribute_color;
+			global::Rg.Plugins.Popup.Resource.Color.ripple_material_dark = global::CarApp.Droid.Resource.Color.ripple_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.ripple_material_light = global::CarApp.Droid.Resource.Color.ripple_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_default_material_dark = global::CarApp.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_default_material_light = global::CarApp.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_disabled_material_dark = global::CarApp.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_disabled_material_light = global::CarApp.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_disabled_material_dark = global::CarApp.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_disabled_material_light = global::CarApp.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_material_dark = global::CarApp.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_material_light = global::CarApp.Droid.Resource.Color.switch_thumb_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_normal_material_dark = global::CarApp.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_normal_material_light = global::CarApp.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.test_mtrl_calendar_day = global::CarApp.Droid.Resource.Color.test_mtrl_calendar_day;
+			global::Rg.Plugins.Popup.Resource.Color.test_mtrl_calendar_day_selected = global::CarApp.Droid.Resource.Color.test_mtrl_calendar_day_selected;
+			global::Rg.Plugins.Popup.Resource.Color.tooltip_background_dark = global::CarApp.Droid.Resource.Color.tooltip_background_dark;
+			global::Rg.Plugins.Popup.Resource.Color.tooltip_background_light = global::CarApp.Droid.Resource.Color.tooltip_background_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_content_inset_material = global::CarApp.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::CarApp.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_default_height_material = global::CarApp.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_default_padding_end_material = global::CarApp.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_default_padding_start_material = global::CarApp.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_elevation_material = global::CarApp.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::CarApp.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::CarApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::CarApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_stacked_max_height = global::CarApp.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::CarApp.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::CarApp.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::CarApp.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_button_min_height_material = global::CarApp.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_button_min_width_material = global::CarApp.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_button_min_width_overflow_material = global::CarApp.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_alert_dialog_button_bar_height = global::CarApp.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_alert_dialog_button_dimen = global::CarApp.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_inset_horizontal_material = global::CarApp.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_inset_vertical_material = global::CarApp.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_padding_horizontal_material = global::CarApp.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_padding_vertical_material = global::CarApp.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::CarApp.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_config_prefDialogWidth = global::CarApp.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_control_corner_material = global::CarApp.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_control_inset_material = global::CarApp.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_control_padding_material = global::CarApp.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_corner_radius_material = global::CarApp.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_height_major = global::CarApp.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_height_minor = global::CarApp.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_width_major = global::CarApp.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_width_minor = global::CarApp.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::CarApp.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::CarApp.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_min_width_major = global::CarApp.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_min_width_minor = global::CarApp.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_padding_material = global::CarApp.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_padding_top_material = global::CarApp.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_title_divider_material = global::CarApp.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_disabled_alpha_material_dark = global::CarApp.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_disabled_alpha_material_light = global::CarApp.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dropdownitem_icon_width = global::CarApp.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dropdownitem_text_padding_left = global::CarApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dropdownitem_text_padding_right = global::CarApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_edit_text_inset_bottom_material = global::CarApp.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::CarApp.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_edit_text_inset_top_material = global::CarApp.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_floating_window_z = global::CarApp.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_height_large_material = global::CarApp.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_height_material = global::CarApp.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_height_small_material = global::CarApp.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_padding_horizontal_material = global::CarApp.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_panel_menu_list_width = global::CarApp.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_progress_bar_height_material = global::CarApp.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_search_view_preferred_height = global::CarApp.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_search_view_preferred_width = global::CarApp.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_seekbar_track_background_height_material = global::CarApp.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_seekbar_track_progress_height_material = global::CarApp.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_select_dialog_padding_start_material = global::CarApp.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_switch_padding = global::CarApp.Droid.Resource.Dimension.abc_switch_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_body_1_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_body_2_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_button_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_caption_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_1_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_2_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_3_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_4_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_headline_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_large_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_medium_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_menu_header_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_menu_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_small_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_subhead_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::CarApp.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_title_material = global::CarApp.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_title_material_toolbar = global::CarApp.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Rg.Plugins.Popup.Resource.Dimension.action_bar_size = global::CarApp.Droid.Resource.Dimension.action_bar_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.appcompat_dialog_background_inset = global::CarApp.Droid.Resource.Dimension.appcompat_dialog_background_inset;
+			global::Rg.Plugins.Popup.Resource.Dimension.browser_actions_context_menu_max_width = global::CarApp.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.browser_actions_context_menu_min_padding = global::CarApp.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.cardview_compat_inset_shadow = global::CarApp.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Rg.Plugins.Popup.Resource.Dimension.cardview_default_elevation = global::CarApp.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.cardview_default_radius = global::CarApp.Droid.Resource.Dimension.cardview_default_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_inset_horizontal_material = global::CarApp.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_inset_vertical_material = global::CarApp.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_padding_horizontal_material = global::CarApp.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_padding_vertical_material = global::CarApp.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_control_corner_material = global::CarApp.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_notification_large_icon_max_height = global::CarApp.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_notification_large_icon_max_width = global::CarApp.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.default_dimension = global::CarApp.Droid.Resource.Dimension.default_dimension;
+			global::Rg.Plugins.Popup.Resource.Dimension.def_drawer_elevation = global::CarApp.Droid.Resource.Dimension.def_drawer_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_appbar_elevation = global::CarApp.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_active_text_size = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_elevation = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_height = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_icon_size = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_item_max_width = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_item_min_width = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_margin = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_shadow_height = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_text_size = global::CarApp.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_sheet_elevation = global::CarApp.Droid.Resource.Dimension.design_bottom_sheet_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_sheet_modal_elevation = global::CarApp.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_sheet_peek_height_min = global::CarApp.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_border_width = global::CarApp.Droid.Resource.Dimension.design_fab_border_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_elevation = global::CarApp.Droid.Resource.Dimension.design_fab_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_image_size = global::CarApp.Droid.Resource.Dimension.design_fab_image_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_size_mini = global::CarApp.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_size_normal = global::CarApp.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_translation_z_hovered_focused = global::CarApp.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_translation_z_pressed = global::CarApp.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_elevation = global::CarApp.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_icon_padding = global::CarApp.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_icon_size = global::CarApp.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_item_horizontal_padding = global::CarApp.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_item_icon_padding = global::CarApp.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_max_width = global::CarApp.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_padding_bottom = global::CarApp.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_separator_vertical_padding = global::CarApp.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_action_inline_max_width = global::CarApp.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_action_text_color_alpha = global::CarApp.Droid.Resource.Dimension.design_snackbar_action_text_color_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_background_corner_radius = global::CarApp.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_elevation = global::CarApp.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::CarApp.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_max_width = global::CarApp.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_min_width = global::CarApp.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_padding_horizontal = global::CarApp.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_padding_vertical = global::CarApp.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::CarApp.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_text_size = global::CarApp.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_max_width = global::CarApp.Droid.Resource.Dimension.design_tab_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_scrollable_min_width = global::CarApp.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_text_size = global::CarApp.Droid.Resource.Dimension.design_tab_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_text_size_2line = global::CarApp.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_textinput_caption_translate_y = global::CarApp.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Rg.Plugins.Popup.Resource.Dimension.disabled_alpha_material_dark = global::CarApp.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.disabled_alpha_material_light = global::CarApp.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.fastscroll_default_thickness = global::CarApp.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Rg.Plugins.Popup.Resource.Dimension.fastscroll_margin = global::CarApp.Droid.Resource.Dimension.fastscroll_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.fastscroll_minimum_range = global::CarApp.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Rg.Plugins.Popup.Resource.Dimension.highlight_alpha_material_colored = global::CarApp.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Rg.Plugins.Popup.Resource.Dimension.highlight_alpha_material_dark = global::CarApp.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.highlight_alpha_material_light = global::CarApp.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_alpha_material_dark = global::CarApp.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_alpha_material_light = global::CarApp.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_pressed_alpha_material_dark = global::CarApp.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_pressed_alpha_material_light = global::CarApp.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::CarApp.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Rg.Plugins.Popup.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::CarApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Rg.Plugins.Popup.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::CarApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Rg.Plugins.Popup.Resource.Dimension.material_emphasis_disabled = global::CarApp.Droid.Resource.Dimension.material_emphasis_disabled;
+			global::Rg.Plugins.Popup.Resource.Dimension.material_emphasis_high_type = global::CarApp.Droid.Resource.Dimension.material_emphasis_high_type;
+			global::Rg.Plugins.Popup.Resource.Dimension.material_emphasis_medium = global::CarApp.Droid.Resource.Dimension.material_emphasis_medium;
+			global::Rg.Plugins.Popup.Resource.Dimension.material_text_view_test_line_height = global::CarApp.Droid.Resource.Dimension.material_text_view_test_line_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.material_text_view_test_line_height_override = global::CarApp.Droid.Resource.Dimension.material_text_view_test_line_height_override;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom = global::CarApp.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_alert_dialog_background_inset_end = global::CarApp.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_end;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_alert_dialog_background_inset_start = global::CarApp.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_start;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_alert_dialog_background_inset_top = global::CarApp.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_alert_dialog_picker_background_inset = global::CarApp.Droid.Resource.Dimension.mtrl_alert_dialog_picker_background_inset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_horizontal_edge_offset = global::CarApp.Droid.Resource.Dimension.mtrl_badge_horizontal_edge_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_long_text_horizontal_padding = global::CarApp.Droid.Resource.Dimension.mtrl_badge_long_text_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_radius = global::CarApp.Droid.Resource.Dimension.mtrl_badge_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset = global::CarApp.Droid.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_text_size = global::CarApp.Droid.Resource.Dimension.mtrl_badge_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_with_text_radius = global::CarApp.Droid.Resource.Dimension.mtrl_badge_with_text_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::CarApp.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin = global::CarApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::CarApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::CarApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::CarApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_height = global::CarApp.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_corner_radius = global::CarApp.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::CarApp.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_disabled_elevation = global::CarApp.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_disabled_z = global::CarApp.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_elevation = global::CarApp.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_focused_z = global::CarApp.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_hovered_z = global::CarApp.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::CarApp.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_icon_padding = global::CarApp.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_inset = global::CarApp.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_letter_spacing = global::CarApp.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_bottom = global::CarApp.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_left = global::CarApp.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_right = global::CarApp.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_top = global::CarApp.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_pressed_z = global::CarApp.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_stroke_size = global::CarApp.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::CarApp.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::CarApp.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::CarApp.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_size = global::CarApp.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_z = global::CarApp.Droid.Resource.Dimension.mtrl_btn_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_action_height = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_action_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_action_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_action_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_bottom_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_bottom_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_content_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_content_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_days_of_week_height = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_days_of_week_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_corner = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_day_corner;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_height = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_day_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_horizontal_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_day_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_today_stroke = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_day_today_stroke;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_vertical_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_day_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_width = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_day_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_dialog_background_inset = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_dialog_background_inset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_content_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_header_content_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_divider_thickness = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_header_divider_thickness;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_height = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_header_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_height_fullscreen = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_header_height_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_selection_line_height = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_header_selection_line_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_text_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_header_text_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_toggle_margin_top = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_landscape_header_width = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_landscape_header_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_month_horizontal_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_month_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_month_vertical_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_month_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_navigation_bottom_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_navigation_bottom_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_navigation_height = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_navigation_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_navigation_top_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_navigation_top_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_text_input_padding_top = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_text_input_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_title_baseline_to_top = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_year_corner = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_year_corner;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_year_height = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_year_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_year_horizontal_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_year_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_year_vertical_padding = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_year_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_year_width = global::CarApp.Droid.Resource.Dimension.mtrl_calendar_year_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_checked_icon_margin = global::CarApp.Droid.Resource.Dimension.mtrl_card_checked_icon_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_checked_icon_size = global::CarApp.Droid.Resource.Dimension.mtrl_card_checked_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_corner_radius = global::CarApp.Droid.Resource.Dimension.mtrl_card_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_dragged_z = global::CarApp.Droid.Resource.Dimension.mtrl_card_dragged_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_elevation = global::CarApp.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_spacing = global::CarApp.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_chip_pressed_translation_z = global::CarApp.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_chip_text_size = global::CarApp.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_edittext_rectangle_top_offset = global::CarApp.Droid.Resource.Dimension.mtrl_edittext_rectangle_top_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::CarApp.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::CarApp.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::CarApp.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_corner_radius = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_elevation = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_end_padding = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_end_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_end_padding_icon = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_end_padding_icon;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_icon_size = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_icon_text_spacing = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_icon_text_spacing;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_min_height = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_min_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_min_width = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_start_padding = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_start_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_start_padding_icon = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_start_padding_icon;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_top_padding = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_top_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_translation_z_base = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_base;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_translation_z_pressed = global::CarApp.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_pressed;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_elevation = global::CarApp.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_min_touch_target = global::CarApp.Droid.Resource.Dimension.mtrl_fab_min_touch_target;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::CarApp.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_translation_z_pressed = global::CarApp.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_high_ripple_default_alpha = global::CarApp.Droid.Resource.Dimension.mtrl_high_ripple_default_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::CarApp.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::CarApp.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::CarApp.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_large_touch_target = global::CarApp.Droid.Resource.Dimension.mtrl_large_touch_target;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_low_ripple_default_alpha = global::CarApp.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::CarApp.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::CarApp.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_low_ripple_pressed_alpha = global::CarApp.Droid.Resource.Dimension.mtrl_low_ripple_pressed_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_min_touch_target_size = global::CarApp.Droid.Resource.Dimension.mtrl_min_touch_target_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_elevation = global::CarApp.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::CarApp.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_icon_padding = global::CarApp.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_icon_size = global::CarApp.Droid.Resource.Dimension.mtrl_navigation_item_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin = global::CarApp.Droid.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin = global::CarApp.Droid.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_shape_corner_size_large_component = global::CarApp.Droid.Resource.Dimension.mtrl_shape_corner_size_large_component;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_shape_corner_size_medium_component = global::CarApp.Droid.Resource.Dimension.mtrl_shape_corner_size_medium_component;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_shape_corner_size_small_component = global::CarApp.Droid.Resource.Dimension.mtrl_shape_corner_size_small_component;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_halo_radius = global::CarApp.Droid.Resource.Dimension.mtrl_slider_halo_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_label_padding = global::CarApp.Droid.Resource.Dimension.mtrl_slider_label_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_label_radius = global::CarApp.Droid.Resource.Dimension.mtrl_slider_label_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_label_square_side = global::CarApp.Droid.Resource.Dimension.mtrl_slider_label_square_side;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_thumb_elevation = global::CarApp.Droid.Resource.Dimension.mtrl_slider_thumb_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_thumb_radius = global::CarApp.Droid.Resource.Dimension.mtrl_slider_thumb_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_track_height = global::CarApp.Droid.Resource.Dimension.mtrl_slider_track_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_track_side_padding = global::CarApp.Droid.Resource.Dimension.mtrl_slider_track_side_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_track_top = global::CarApp.Droid.Resource.Dimension.mtrl_slider_track_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_widget_height = global::CarApp.Droid.Resource.Dimension.mtrl_slider_widget_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::CarApp.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::CarApp.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha = global::CarApp.Droid.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_snackbar_margin = global::CarApp.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_switch_thumb_elevation = global::CarApp.Droid.Resource.Dimension.mtrl_switch_thumb_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::CarApp.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::CarApp.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::CarApp.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::CarApp.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::CarApp.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_counter_margin_start = global::CarApp.Droid.Resource.Dimension.mtrl_textinput_counter_margin_start;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_end_icon_margin_start = global::CarApp.Droid.Resource.Dimension.mtrl_textinput_end_icon_margin_start;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::CarApp.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_start_icon_margin_end = global::CarApp.Droid.Resource.Dimension.mtrl_textinput_start_icon_margin_end;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_toolbar_default_height = global::CarApp.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_tooltip_arrowSize = global::CarApp.Droid.Resource.Dimension.mtrl_tooltip_arrowSize;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_tooltip_cornerSize = global::CarApp.Droid.Resource.Dimension.mtrl_tooltip_cornerSize;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_tooltip_minHeight = global::CarApp.Droid.Resource.Dimension.mtrl_tooltip_minHeight;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_tooltip_minWidth = global::CarApp.Droid.Resource.Dimension.mtrl_tooltip_minWidth;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_tooltip_padding = global::CarApp.Droid.Resource.Dimension.mtrl_tooltip_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_transition_shared_axis_slide_distance = global::CarApp.Droid.Resource.Dimension.mtrl_transition_shared_axis_slide_distance;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_action_icon_size = global::CarApp.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_action_text_size = global::CarApp.Droid.Resource.Dimension.notification_action_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_big_circle_margin = global::CarApp.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_content_margin_start = global::CarApp.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_large_icon_height = global::CarApp.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_large_icon_width = global::CarApp.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_main_column_padding_top = global::CarApp.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_media_narrow_margin = global::CarApp.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_right_icon_size = global::CarApp.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_right_side_padding_top = global::CarApp.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_small_icon_background_padding = global::CarApp.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_small_icon_size_as_large = global::CarApp.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_subtext_size = global::CarApp.Droid.Resource.Dimension.notification_subtext_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_top_pad = global::CarApp.Droid.Resource.Dimension.notification_top_pad;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_top_pad_large_text = global::CarApp.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Rg.Plugins.Popup.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::CarApp.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_corner_radius = global::CarApp.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_horizontal_padding = global::CarApp.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_margin = global::CarApp.Droid.Resource.Dimension.tooltip_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::CarApp.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_precise_anchor_threshold = global::CarApp.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_vertical_padding = global::CarApp.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_y_offset_non_touch = global::CarApp.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_y_offset_touch = global::CarApp.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_action_bar_item_background_material = global::CarApp.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_borderless_material = global::CarApp.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_material = global::CarApp.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_material_anim = global::CarApp.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::CarApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::CarApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_colored_material = global::CarApp.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_default_mtrl_shape = global::CarApp.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_material = global::CarApp.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_material_anim = global::CarApp.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::CarApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::CarApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::CarApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::CarApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_cab_background_internal_bg = global::CarApp.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_cab_background_top_material = global::CarApp.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_control_background_material = global::CarApp.Droid.Resource.Drawable.abc_control_background_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_dialog_material_background = global::CarApp.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_edit_text_material = global::CarApp.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_ab_back_material = global::CarApp.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::CarApp.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_clear_material = global::CarApp.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_go_search_api_material = global::CarApp.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::CarApp.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_overflow_material = global::CarApp.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::CarApp.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_search_api_material = global::CarApp.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_voice_search_api_material = global::CarApp.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_item_background_holo_dark = global::CarApp.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_item_background_holo_light = global::CarApp.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_divider_material = global::CarApp.Droid.Resource.Drawable.abc_list_divider_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_divider_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_focused_holo = global::CarApp.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_longpressed_holo = global::CarApp.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_pressed_holo_dark = global::CarApp.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_pressed_holo_light = global::CarApp.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::CarApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::CarApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::CarApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_disabled_holo_light = global::CarApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_holo_dark = global::CarApp.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_holo_light = global::CarApp.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::CarApp.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_popup_background_mtrl_mult = global::CarApp.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ratingbar_indicator_material = global::CarApp.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ratingbar_material = global::CarApp.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ratingbar_small_material = global::CarApp.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::CarApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::CarApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_seekbar_thumb_material = global::CarApp.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_seekbar_tick_mark_material = global::CarApp.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_seekbar_track_material = global::CarApp.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::CarApp.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_spinner_textfield_background_material = global::CarApp.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_switch_thumb_material = global::CarApp.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_switch_track_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_tab_indicator_material = global::CarApp.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::CarApp.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_search_material = global::CarApp.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_text_cursor_material = global::CarApp.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_vector_test = global::CarApp.Droid.Resource.Drawable.abc_vector_test;
+			global::Rg.Plugins.Popup.Resource.Drawable.avd_hide_password = global::CarApp.Droid.Resource.Drawable.avd_hide_password;
+			global::Rg.Plugins.Popup.Resource.Drawable.avd_show_password = global::CarApp.Droid.Resource.Drawable.avd_show_password;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_checked_mtrl = global::CarApp.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::CarApp.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::CarApp.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::CarApp.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_off_mtrl = global::CarApp.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::CarApp.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_on_mtrl = global::CarApp.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::CarApp.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_fab_background = global::CarApp.Droid.Resource.Drawable.design_fab_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_ic_visibility = global::CarApp.Droid.Resource.Drawable.design_ic_visibility;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_ic_visibility_off = global::CarApp.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_password_eye = global::CarApp.Droid.Resource.Drawable.design_password_eye;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_snackbar_background = global::CarApp.Droid.Resource.Drawable.design_snackbar_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_checked_circle = global::CarApp.Droid.Resource.Drawable.ic_mtrl_checked_circle;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_chip_checked_black = global::CarApp.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_chip_checked_circle = global::CarApp.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_chip_close_circle = global::CarApp.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_calendar_black_24dp = global::CarApp.Droid.Resource.Drawable.material_ic_calendar_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_clear_black_24dp = global::CarApp.Droid.Resource.Drawable.material_ic_clear_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_edit_black_24dp = global::CarApp.Droid.Resource.Drawable.material_ic_edit_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp = global::CarApp.Droid.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp = global::CarApp.Droid.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_menu_arrow_down_black_24dp = global::CarApp.Droid.Resource.Drawable.material_ic_menu_arrow_down_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_menu_arrow_up_black_24dp = global::CarApp.Droid.Resource.Drawable.material_ic_menu_arrow_up_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_dialog_background = global::CarApp.Droid.Resource.Drawable.mtrl_dialog_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_dropdown_arrow = global::CarApp.Droid.Resource.Drawable.mtrl_dropdown_arrow;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_ic_arrow_drop_down = global::CarApp.Droid.Resource.Drawable.mtrl_ic_arrow_drop_down;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_ic_arrow_drop_up = global::CarApp.Droid.Resource.Drawable.mtrl_ic_arrow_drop_up;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_ic_cancel = global::CarApp.Droid.Resource.Drawable.mtrl_ic_cancel;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_ic_error = global::CarApp.Droid.Resource.Drawable.mtrl_ic_error;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_popupmenu_background = global::CarApp.Droid.Resource.Drawable.mtrl_popupmenu_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_popupmenu_background_dark = global::CarApp.Droid.Resource.Drawable.mtrl_popupmenu_background_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_tabs_default_indicator = global::CarApp.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Rg.Plugins.Popup.Resource.Drawable.navigation_empty_icon = global::CarApp.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_action_background = global::CarApp.Droid.Resource.Drawable.notification_action_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg = global::CarApp.Droid.Resource.Drawable.notification_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_low = global::CarApp.Droid.Resource.Drawable.notification_bg_low;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_low_normal = global::CarApp.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_low_pressed = global::CarApp.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_normal = global::CarApp.Droid.Resource.Drawable.notification_bg_normal;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_normal_pressed = global::CarApp.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_icon_background = global::CarApp.Droid.Resource.Drawable.notification_icon_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_template_icon_bg = global::CarApp.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_template_icon_low_bg = global::CarApp.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_tile_bg = global::CarApp.Droid.Resource.Drawable.notification_tile_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notify_panel_notification_icon_bg = global::CarApp.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.test_custom_background = global::CarApp.Droid.Resource.Drawable.test_custom_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.tooltip_frame_dark = global::CarApp.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.tooltip_frame_light = global::CarApp.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_action_clickable_span = global::CarApp.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_0 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_1 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_10 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_11 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_12 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_13 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_14 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_15 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_16 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_17 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_18 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_19 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_2 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_20 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_21 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_22 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_23 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_24 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_25 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_26 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_27 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_28 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_29 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_3 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_30 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_31 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_4 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_5 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_6 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_7 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_8 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_9 = global::CarApp.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Rg.Plugins.Popup.Resource.Id.action0 = global::CarApp.Droid.Resource.Id.action0;
+			global::Rg.Plugins.Popup.Resource.Id.actions = global::CarApp.Droid.Resource.Id.actions;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar = global::CarApp.Droid.Resource.Id.action_bar;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_activity_content = global::CarApp.Droid.Resource.Id.action_bar_activity_content;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_container = global::CarApp.Droid.Resource.Id.action_bar_container;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_root = global::CarApp.Droid.Resource.Id.action_bar_root;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_spinner = global::CarApp.Droid.Resource.Id.action_bar_spinner;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_subtitle = global::CarApp.Droid.Resource.Id.action_bar_subtitle;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_title = global::CarApp.Droid.Resource.Id.action_bar_title;
+			global::Rg.Plugins.Popup.Resource.Id.action_container = global::CarApp.Droid.Resource.Id.action_container;
+			global::Rg.Plugins.Popup.Resource.Id.action_context_bar = global::CarApp.Droid.Resource.Id.action_context_bar;
+			global::Rg.Plugins.Popup.Resource.Id.action_divider = global::CarApp.Droid.Resource.Id.action_divider;
+			global::Rg.Plugins.Popup.Resource.Id.action_image = global::CarApp.Droid.Resource.Id.action_image;
+			global::Rg.Plugins.Popup.Resource.Id.action_menu_divider = global::CarApp.Droid.Resource.Id.action_menu_divider;
+			global::Rg.Plugins.Popup.Resource.Id.action_menu_presenter = global::CarApp.Droid.Resource.Id.action_menu_presenter;
+			global::Rg.Plugins.Popup.Resource.Id.action_mode_bar = global::CarApp.Droid.Resource.Id.action_mode_bar;
+			global::Rg.Plugins.Popup.Resource.Id.action_mode_bar_stub = global::CarApp.Droid.Resource.Id.action_mode_bar_stub;
+			global::Rg.Plugins.Popup.Resource.Id.action_mode_close_button = global::CarApp.Droid.Resource.Id.action_mode_close_button;
+			global::Rg.Plugins.Popup.Resource.Id.action_text = global::CarApp.Droid.Resource.Id.action_text;
+			global::Rg.Plugins.Popup.Resource.Id.activity_chooser_view_content = global::CarApp.Droid.Resource.Id.activity_chooser_view_content;
+			global::Rg.Plugins.Popup.Resource.Id.add = global::CarApp.Droid.Resource.Id.add;
+			global::Rg.Plugins.Popup.Resource.Id.alertTitle = global::CarApp.Droid.Resource.Id.alertTitle;
+			global::Rg.Plugins.Popup.Resource.Id.all = global::CarApp.Droid.Resource.Id.all;
+			global::Rg.Plugins.Popup.Resource.Id.ALT = global::CarApp.Droid.Resource.Id.ALT;
+			global::Rg.Plugins.Popup.Resource.Id.always = global::CarApp.Droid.Resource.Id.always;
+			global::Rg.Plugins.Popup.Resource.Id.async = global::CarApp.Droid.Resource.Id.async;
+			global::Rg.Plugins.Popup.Resource.Id.auto = global::CarApp.Droid.Resource.Id.auto;
+			global::Rg.Plugins.Popup.Resource.Id.beginning = global::CarApp.Droid.Resource.Id.beginning;
+			global::Rg.Plugins.Popup.Resource.Id.blocking = global::CarApp.Droid.Resource.Id.blocking;
+			global::Rg.Plugins.Popup.Resource.Id.bottom = global::CarApp.Droid.Resource.Id.bottom;
+			global::Rg.Plugins.Popup.Resource.Id.bottomtab_navarea = global::CarApp.Droid.Resource.Id.bottomtab_navarea;
+			global::Rg.Plugins.Popup.Resource.Id.bottomtab_tabbar = global::CarApp.Droid.Resource.Id.bottomtab_tabbar;
+			global::Rg.Plugins.Popup.Resource.Id.BOTTOM_END = global::CarApp.Droid.Resource.Id.BOTTOM_END;
+			global::Rg.Plugins.Popup.Resource.Id.BOTTOM_START = global::CarApp.Droid.Resource.Id.BOTTOM_START;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_header_text = global::CarApp.Droid.Resource.Id.browser_actions_header_text;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_items = global::CarApp.Droid.Resource.Id.browser_actions_menu_items;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_item_icon = global::CarApp.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_item_text = global::CarApp.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_view = global::CarApp.Droid.Resource.Id.browser_actions_menu_view;
+			global::Rg.Plugins.Popup.Resource.Id.buttonPanel = global::CarApp.Droid.Resource.Id.buttonPanel;
+			global::Rg.Plugins.Popup.Resource.Id.cancel_action = global::CarApp.Droid.Resource.Id.cancel_action;
+			global::Rg.Plugins.Popup.Resource.Id.cancel_button = global::CarApp.Droid.Resource.Id.cancel_button;
+			global::Rg.Plugins.Popup.Resource.Id.center = global::CarApp.Droid.Resource.Id.center;
+			global::Rg.Plugins.Popup.Resource.Id.center_horizontal = global::CarApp.Droid.Resource.Id.center_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.center_vertical = global::CarApp.Droid.Resource.Id.center_vertical;
+			global::Rg.Plugins.Popup.Resource.Id.checkbox = global::CarApp.Droid.Resource.Id.checkbox;
+			global::Rg.Plugins.Popup.Resource.Id.@checked = global::CarApp.Droid.Resource.Id.@checked;
+			global::Rg.Plugins.Popup.Resource.Id.chip = global::CarApp.Droid.Resource.Id.chip;
+			global::Rg.Plugins.Popup.Resource.Id.chip1 = global::CarApp.Droid.Resource.Id.chip1;
+			global::Rg.Plugins.Popup.Resource.Id.chip2 = global::CarApp.Droid.Resource.Id.chip2;
+			global::Rg.Plugins.Popup.Resource.Id.chip3 = global::CarApp.Droid.Resource.Id.chip3;
+			global::Rg.Plugins.Popup.Resource.Id.chip_group = global::CarApp.Droid.Resource.Id.chip_group;
+			global::Rg.Plugins.Popup.Resource.Id.chronometer = global::CarApp.Droid.Resource.Id.chronometer;
+			global::Rg.Plugins.Popup.Resource.Id.clear_text = global::CarApp.Droid.Resource.Id.clear_text;
+			global::Rg.Plugins.Popup.Resource.Id.clip_horizontal = global::CarApp.Droid.Resource.Id.clip_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.clip_vertical = global::CarApp.Droid.Resource.Id.clip_vertical;
+			global::Rg.Plugins.Popup.Resource.Id.collapseActionView = global::CarApp.Droid.Resource.Id.collapseActionView;
+			global::Rg.Plugins.Popup.Resource.Id.confirm_button = global::CarApp.Droid.Resource.Id.confirm_button;
+			global::Rg.Plugins.Popup.Resource.Id.container = global::CarApp.Droid.Resource.Id.container;
+			global::Rg.Plugins.Popup.Resource.Id.content = global::CarApp.Droid.Resource.Id.content;
+			global::Rg.Plugins.Popup.Resource.Id.contentPanel = global::CarApp.Droid.Resource.Id.contentPanel;
+			global::Rg.Plugins.Popup.Resource.Id.coordinator = global::CarApp.Droid.Resource.Id.coordinator;
+			global::Rg.Plugins.Popup.Resource.Id.CTRL = global::CarApp.Droid.Resource.Id.CTRL;
+			global::Rg.Plugins.Popup.Resource.Id.custom = global::CarApp.Droid.Resource.Id.custom;
+			global::Rg.Plugins.Popup.Resource.Id.customPanel = global::CarApp.Droid.Resource.Id.customPanel;
+			global::Rg.Plugins.Popup.Resource.Id.cut = global::CarApp.Droid.Resource.Id.cut;
+			global::Rg.Plugins.Popup.Resource.Id.date_picker_actions = global::CarApp.Droid.Resource.Id.date_picker_actions;
+			global::Rg.Plugins.Popup.Resource.Id.decor_content_parent = global::CarApp.Droid.Resource.Id.decor_content_parent;
+			global::Rg.Plugins.Popup.Resource.Id.default_activity_button = global::CarApp.Droid.Resource.Id.default_activity_button;
+			global::Rg.Plugins.Popup.Resource.Id.design_bottom_sheet = global::CarApp.Droid.Resource.Id.design_bottom_sheet;
+			global::Rg.Plugins.Popup.Resource.Id.design_menu_item_action_area = global::CarApp.Droid.Resource.Id.design_menu_item_action_area;
+			global::Rg.Plugins.Popup.Resource.Id.design_menu_item_action_area_stub = global::CarApp.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Rg.Plugins.Popup.Resource.Id.design_menu_item_text = global::CarApp.Droid.Resource.Id.design_menu_item_text;
+			global::Rg.Plugins.Popup.Resource.Id.design_navigation_view = global::CarApp.Droid.Resource.Id.design_navigation_view;
+			global::Rg.Plugins.Popup.Resource.Id.dialog_button = global::CarApp.Droid.Resource.Id.dialog_button;
+			global::Rg.Plugins.Popup.Resource.Id.disableHome = global::CarApp.Droid.Resource.Id.disableHome;
+			global::Rg.Plugins.Popup.Resource.Id.dropdown_menu = global::CarApp.Droid.Resource.Id.dropdown_menu;
+			global::Rg.Plugins.Popup.Resource.Id.edit_query = global::CarApp.Droid.Resource.Id.edit_query;
+			global::Rg.Plugins.Popup.Resource.Id.end = global::CarApp.Droid.Resource.Id.end;
+			global::Rg.Plugins.Popup.Resource.Id.end_padder = global::CarApp.Droid.Resource.Id.end_padder;
+			global::Rg.Plugins.Popup.Resource.Id.enterAlways = global::CarApp.Droid.Resource.Id.enterAlways;
+			global::Rg.Plugins.Popup.Resource.Id.enterAlwaysCollapsed = global::CarApp.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Rg.Plugins.Popup.Resource.Id.exitUntilCollapsed = global::CarApp.Droid.Resource.Id.exitUntilCollapsed;
+			global::Rg.Plugins.Popup.Resource.Id.expanded_menu = global::CarApp.Droid.Resource.Id.expanded_menu;
+			global::Rg.Plugins.Popup.Resource.Id.expand_activities_button = global::CarApp.Droid.Resource.Id.expand_activities_button;
+			global::Rg.Plugins.Popup.Resource.Id.fade = global::CarApp.Droid.Resource.Id.fade;
+			global::Rg.Plugins.Popup.Resource.Id.fill = global::CarApp.Droid.Resource.Id.fill;
+			global::Rg.Plugins.Popup.Resource.Id.filled = global::CarApp.Droid.Resource.Id.filled;
+			global::Rg.Plugins.Popup.Resource.Id.fill_horizontal = global::CarApp.Droid.Resource.Id.fill_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.fill_vertical = global::CarApp.Droid.Resource.Id.fill_vertical;
+			global::Rg.Plugins.Popup.Resource.Id.fitToContents = global::CarApp.Droid.Resource.Id.fitToContents;
+			global::Rg.Plugins.Popup.Resource.Id.@fixed = global::CarApp.Droid.Resource.Id.@fixed;
+			global::Rg.Plugins.Popup.Resource.Id.floating = global::CarApp.Droid.Resource.Id.floating;
+			global::Rg.Plugins.Popup.Resource.Id.flyoutcontent_appbar = global::CarApp.Droid.Resource.Id.flyoutcontent_appbar;
+			global::Rg.Plugins.Popup.Resource.Id.forever = global::CarApp.Droid.Resource.Id.forever;
+			global::Rg.Plugins.Popup.Resource.Id.fragment_container_view_tag = global::CarApp.Droid.Resource.Id.fragment_container_view_tag;
+			global::Rg.Plugins.Popup.Resource.Id.FUNCTION = global::CarApp.Droid.Resource.Id.FUNCTION;
+			global::Rg.Plugins.Popup.Resource.Id.ghost_view = global::CarApp.Droid.Resource.Id.ghost_view;
+			global::Rg.Plugins.Popup.Resource.Id.ghost_view_holder = global::CarApp.Droid.Resource.Id.ghost_view_holder;
+			global::Rg.Plugins.Popup.Resource.Id.gone = global::CarApp.Droid.Resource.Id.gone;
+			global::Rg.Plugins.Popup.Resource.Id.group_divider = global::CarApp.Droid.Resource.Id.group_divider;
+			global::Rg.Plugins.Popup.Resource.Id.hideable = global::CarApp.Droid.Resource.Id.hideable;
+			global::Rg.Plugins.Popup.Resource.Id.home = global::CarApp.Droid.Resource.Id.home;
+			global::Rg.Plugins.Popup.Resource.Id.homeAsUp = global::CarApp.Droid.Resource.Id.homeAsUp;
+			global::Rg.Plugins.Popup.Resource.Id.icon = global::CarApp.Droid.Resource.Id.icon;
+			global::Rg.Plugins.Popup.Resource.Id.icon_group = global::CarApp.Droid.Resource.Id.icon_group;
+			global::Rg.Plugins.Popup.Resource.Id.ifRoom = global::CarApp.Droid.Resource.Id.ifRoom;
+			global::Rg.Plugins.Popup.Resource.Id.image = global::CarApp.Droid.Resource.Id.image;
+			global::Rg.Plugins.Popup.Resource.Id.info = global::CarApp.Droid.Resource.Id.info;
+			global::Rg.Plugins.Popup.Resource.Id.italic = global::CarApp.Droid.Resource.Id.italic;
+			global::Rg.Plugins.Popup.Resource.Id.item_touch_helper_previous_elevation = global::CarApp.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Rg.Plugins.Popup.Resource.Id.labeled = global::CarApp.Droid.Resource.Id.labeled;
+			global::Rg.Plugins.Popup.Resource.Id.left = global::CarApp.Droid.Resource.Id.left;
+			global::Rg.Plugins.Popup.Resource.Id.line1 = global::CarApp.Droid.Resource.Id.line1;
+			global::Rg.Plugins.Popup.Resource.Id.line3 = global::CarApp.Droid.Resource.Id.line3;
+			global::Rg.Plugins.Popup.Resource.Id.listMode = global::CarApp.Droid.Resource.Id.listMode;
+			global::Rg.Plugins.Popup.Resource.Id.list_item = global::CarApp.Droid.Resource.Id.list_item;
+			global::Rg.Plugins.Popup.Resource.Id.main_appbar = global::CarApp.Droid.Resource.Id.main_appbar;
+			global::Rg.Plugins.Popup.Resource.Id.main_tablayout = global::CarApp.Droid.Resource.Id.main_tablayout;
+			global::Rg.Plugins.Popup.Resource.Id.main_toolbar = global::CarApp.Droid.Resource.Id.main_toolbar;
+			global::Rg.Plugins.Popup.Resource.Id.main_viewpager = global::CarApp.Droid.Resource.Id.main_viewpager;
+			global::Rg.Plugins.Popup.Resource.Id.masked = global::CarApp.Droid.Resource.Id.masked;
+			global::Rg.Plugins.Popup.Resource.Id.media_actions = global::CarApp.Droid.Resource.Id.media_actions;
+			global::Rg.Plugins.Popup.Resource.Id.media_controller_compat_view_tag = global::CarApp.Droid.Resource.Id.media_controller_compat_view_tag;
+			global::Rg.Plugins.Popup.Resource.Id.message = global::CarApp.Droid.Resource.Id.message;
+			global::Rg.Plugins.Popup.Resource.Id.META = global::CarApp.Droid.Resource.Id.META;
+			global::Rg.Plugins.Popup.Resource.Id.middle = global::CarApp.Droid.Resource.Id.middle;
+			global::Rg.Plugins.Popup.Resource.Id.mini = global::CarApp.Droid.Resource.Id.mini;
+			global::Rg.Plugins.Popup.Resource.Id.month_grid = global::CarApp.Droid.Resource.Id.month_grid;
+			global::Rg.Plugins.Popup.Resource.Id.month_navigation_bar = global::CarApp.Droid.Resource.Id.month_navigation_bar;
+			global::Rg.Plugins.Popup.Resource.Id.month_navigation_fragment_toggle = global::CarApp.Droid.Resource.Id.month_navigation_fragment_toggle;
+			global::Rg.Plugins.Popup.Resource.Id.month_navigation_next = global::CarApp.Droid.Resource.Id.month_navigation_next;
+			global::Rg.Plugins.Popup.Resource.Id.month_navigation_previous = global::CarApp.Droid.Resource.Id.month_navigation_previous;
+			global::Rg.Plugins.Popup.Resource.Id.month_title = global::CarApp.Droid.Resource.Id.month_title;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_days_of_week = global::CarApp.Droid.Resource.Id.mtrl_calendar_days_of_week;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_day_selector_frame = global::CarApp.Droid.Resource.Id.mtrl_calendar_day_selector_frame;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_frame = global::CarApp.Droid.Resource.Id.mtrl_calendar_frame;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_main_pane = global::CarApp.Droid.Resource.Id.mtrl_calendar_main_pane;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_months = global::CarApp.Droid.Resource.Id.mtrl_calendar_months;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_selection_frame = global::CarApp.Droid.Resource.Id.mtrl_calendar_selection_frame;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_text_input_frame = global::CarApp.Droid.Resource.Id.mtrl_calendar_text_input_frame;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_year_selector_frame = global::CarApp.Droid.Resource.Id.mtrl_calendar_year_selector_frame;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_card_checked_layer_id = global::CarApp.Droid.Resource.Id.mtrl_card_checked_layer_id;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_child_content_container = global::CarApp.Droid.Resource.Id.mtrl_child_content_container;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_internal_children_alpha_tag = global::CarApp.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_motion_snapshot_view = global::CarApp.Droid.Resource.Id.mtrl_motion_snapshot_view;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_fullscreen = global::CarApp.Droid.Resource.Id.mtrl_picker_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_header = global::CarApp.Droid.Resource.Id.mtrl_picker_header;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_header_selection_text = global::CarApp.Droid.Resource.Id.mtrl_picker_header_selection_text;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_header_title_and_selection = global::CarApp.Droid.Resource.Id.mtrl_picker_header_title_and_selection;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_header_toggle = global::CarApp.Droid.Resource.Id.mtrl_picker_header_toggle;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_text_input_date = global::CarApp.Droid.Resource.Id.mtrl_picker_text_input_date;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_text_input_range_end = global::CarApp.Droid.Resource.Id.mtrl_picker_text_input_range_end;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_text_input_range_start = global::CarApp.Droid.Resource.Id.mtrl_picker_text_input_range_start;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_title_text = global::CarApp.Droid.Resource.Id.mtrl_picker_title_text;
+			global::Rg.Plugins.Popup.Resource.Id.multiply = global::CarApp.Droid.Resource.Id.multiply;
+			global::Rg.Plugins.Popup.Resource.Id.navigation_header_container = global::CarApp.Droid.Resource.Id.navigation_header_container;
+			global::Rg.Plugins.Popup.Resource.Id.never = global::CarApp.Droid.Resource.Id.never;
+			global::Rg.Plugins.Popup.Resource.Id.none = global::CarApp.Droid.Resource.Id.none;
+			global::Rg.Plugins.Popup.Resource.Id.normal = global::CarApp.Droid.Resource.Id.normal;
+			global::Rg.Plugins.Popup.Resource.Id.noScroll = global::CarApp.Droid.Resource.Id.noScroll;
+			global::Rg.Plugins.Popup.Resource.Id.notification_background = global::CarApp.Droid.Resource.Id.notification_background;
+			global::Rg.Plugins.Popup.Resource.Id.notification_main_column = global::CarApp.Droid.Resource.Id.notification_main_column;
+			global::Rg.Plugins.Popup.Resource.Id.notification_main_column_container = global::CarApp.Droid.Resource.Id.notification_main_column_container;
+			global::Rg.Plugins.Popup.Resource.Id.off = global::CarApp.Droid.Resource.Id.off;
+			global::Rg.Plugins.Popup.Resource.Id.on = global::CarApp.Droid.Resource.Id.on;
+			global::Rg.Plugins.Popup.Resource.Id.outline = global::CarApp.Droid.Resource.Id.outline;
+			global::Rg.Plugins.Popup.Resource.Id.parallax = global::CarApp.Droid.Resource.Id.parallax;
+			global::Rg.Plugins.Popup.Resource.Id.parentPanel = global::CarApp.Droid.Resource.Id.parentPanel;
+			global::Rg.Plugins.Popup.Resource.Id.parent_matrix = global::CarApp.Droid.Resource.Id.parent_matrix;
+			global::Rg.Plugins.Popup.Resource.Id.password_toggle = global::CarApp.Droid.Resource.Id.password_toggle;
+			global::Rg.Plugins.Popup.Resource.Id.peekHeight = global::CarApp.Droid.Resource.Id.peekHeight;
+			global::Rg.Plugins.Popup.Resource.Id.pin = global::CarApp.Droid.Resource.Id.pin;
+			global::Rg.Plugins.Popup.Resource.Id.progress_circular = global::CarApp.Droid.Resource.Id.progress_circular;
+			global::Rg.Plugins.Popup.Resource.Id.progress_horizontal = global::CarApp.Droid.Resource.Id.progress_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.radio = global::CarApp.Droid.Resource.Id.radio;
+			global::Rg.Plugins.Popup.Resource.Id.right = global::CarApp.Droid.Resource.Id.right;
+			global::Rg.Plugins.Popup.Resource.Id.right_icon = global::CarApp.Droid.Resource.Id.right_icon;
+			global::Rg.Plugins.Popup.Resource.Id.right_side = global::CarApp.Droid.Resource.Id.right_side;
+			global::Rg.Plugins.Popup.Resource.Id.rounded = global::CarApp.Droid.Resource.Id.rounded;
+			global::Rg.Plugins.Popup.Resource.Id.row_index_key = global::CarApp.Droid.Resource.Id.row_index_key;
+			global::Rg.Plugins.Popup.Resource.Id.save_non_transition_alpha = global::CarApp.Droid.Resource.Id.save_non_transition_alpha;
+			global::Rg.Plugins.Popup.Resource.Id.save_overlay_view = global::CarApp.Droid.Resource.Id.save_overlay_view;
+			global::Rg.Plugins.Popup.Resource.Id.scale = global::CarApp.Droid.Resource.Id.scale;
+			global::Rg.Plugins.Popup.Resource.Id.screen = global::CarApp.Droid.Resource.Id.screen;
+			global::Rg.Plugins.Popup.Resource.Id.scroll = global::CarApp.Droid.Resource.Id.scroll;
+			global::Rg.Plugins.Popup.Resource.Id.scrollable = global::CarApp.Droid.Resource.Id.scrollable;
+			global::Rg.Plugins.Popup.Resource.Id.scrollIndicatorDown = global::CarApp.Droid.Resource.Id.scrollIndicatorDown;
+			global::Rg.Plugins.Popup.Resource.Id.scrollIndicatorUp = global::CarApp.Droid.Resource.Id.scrollIndicatorUp;
+			global::Rg.Plugins.Popup.Resource.Id.scrollView = global::CarApp.Droid.Resource.Id.scrollView;
+			global::Rg.Plugins.Popup.Resource.Id.search_badge = global::CarApp.Droid.Resource.Id.search_badge;
+			global::Rg.Plugins.Popup.Resource.Id.search_bar = global::CarApp.Droid.Resource.Id.search_bar;
+			global::Rg.Plugins.Popup.Resource.Id.search_button = global::CarApp.Droid.Resource.Id.search_button;
+			global::Rg.Plugins.Popup.Resource.Id.search_close_btn = global::CarApp.Droid.Resource.Id.search_close_btn;
+			global::Rg.Plugins.Popup.Resource.Id.search_edit_frame = global::CarApp.Droid.Resource.Id.search_edit_frame;
+			global::Rg.Plugins.Popup.Resource.Id.search_go_btn = global::CarApp.Droid.Resource.Id.search_go_btn;
+			global::Rg.Plugins.Popup.Resource.Id.search_mag_icon = global::CarApp.Droid.Resource.Id.search_mag_icon;
+			global::Rg.Plugins.Popup.Resource.Id.search_plate = global::CarApp.Droid.Resource.Id.search_plate;
+			global::Rg.Plugins.Popup.Resource.Id.search_src_text = global::CarApp.Droid.Resource.Id.search_src_text;
+			global::Rg.Plugins.Popup.Resource.Id.search_voice_btn = global::CarApp.Droid.Resource.Id.search_voice_btn;
+			global::Rg.Plugins.Popup.Resource.Id.selected = global::CarApp.Droid.Resource.Id.selected;
+			global::Rg.Plugins.Popup.Resource.Id.select_dialog_listview = global::CarApp.Droid.Resource.Id.select_dialog_listview;
+			global::Rg.Plugins.Popup.Resource.Id.shellcontent_appbar = global::CarApp.Droid.Resource.Id.shellcontent_appbar;
+			global::Rg.Plugins.Popup.Resource.Id.shellcontent_toolbar = global::CarApp.Droid.Resource.Id.shellcontent_toolbar;
+			global::Rg.Plugins.Popup.Resource.Id.SHIFT = global::CarApp.Droid.Resource.Id.SHIFT;
+			global::Rg.Plugins.Popup.Resource.Id.shortcut = global::CarApp.Droid.Resource.Id.shortcut;
+			global::Rg.Plugins.Popup.Resource.Id.showCustom = global::CarApp.Droid.Resource.Id.showCustom;
+			global::Rg.Plugins.Popup.Resource.Id.showHome = global::CarApp.Droid.Resource.Id.showHome;
+			global::Rg.Plugins.Popup.Resource.Id.showTitle = global::CarApp.Droid.Resource.Id.showTitle;
+			global::Rg.Plugins.Popup.Resource.Id.skipCollapsed = global::CarApp.Droid.Resource.Id.skipCollapsed;
+			global::Rg.Plugins.Popup.Resource.Id.slide = global::CarApp.Droid.Resource.Id.slide;
+			global::Rg.Plugins.Popup.Resource.Id.sliding_tabs = global::CarApp.Droid.Resource.Id.sliding_tabs;
+			global::Rg.Plugins.Popup.Resource.Id.snackbar_action = global::CarApp.Droid.Resource.Id.snackbar_action;
+			global::Rg.Plugins.Popup.Resource.Id.snackbar_text = global::CarApp.Droid.Resource.Id.snackbar_text;
+			global::Rg.Plugins.Popup.Resource.Id.snap = global::CarApp.Droid.Resource.Id.snap;
+			global::Rg.Plugins.Popup.Resource.Id.snapMargins = global::CarApp.Droid.Resource.Id.snapMargins;
+			global::Rg.Plugins.Popup.Resource.Id.spacer = global::CarApp.Droid.Resource.Id.spacer;
+			global::Rg.Plugins.Popup.Resource.Id.split_action_bar = global::CarApp.Droid.Resource.Id.split_action_bar;
+			global::Rg.Plugins.Popup.Resource.Id.src_atop = global::CarApp.Droid.Resource.Id.src_atop;
+			global::Rg.Plugins.Popup.Resource.Id.src_in = global::CarApp.Droid.Resource.Id.src_in;
+			global::Rg.Plugins.Popup.Resource.Id.src_over = global::CarApp.Droid.Resource.Id.src_over;
+			global::Rg.Plugins.Popup.Resource.Id.start = global::CarApp.Droid.Resource.Id.start;
+			global::Rg.Plugins.Popup.Resource.Id.status_bar_latest_event_content = global::CarApp.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Rg.Plugins.Popup.Resource.Id.stretch = global::CarApp.Droid.Resource.Id.stretch;
+			global::Rg.Plugins.Popup.Resource.Id.submenuarrow = global::CarApp.Droid.Resource.Id.submenuarrow;
+			global::Rg.Plugins.Popup.Resource.Id.submit_area = global::CarApp.Droid.Resource.Id.submit_area;
+			global::Rg.Plugins.Popup.Resource.Id.SYM = global::CarApp.Droid.Resource.Id.SYM;
+			global::Rg.Plugins.Popup.Resource.Id.tabMode = global::CarApp.Droid.Resource.Id.tabMode;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_actions = global::CarApp.Droid.Resource.Id.tag_accessibility_actions;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_clickable_spans = global::CarApp.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_heading = global::CarApp.Droid.Resource.Id.tag_accessibility_heading;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_pane_title = global::CarApp.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Rg.Plugins.Popup.Resource.Id.tag_screen_reader_focusable = global::CarApp.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Rg.Plugins.Popup.Resource.Id.tag_transition_group = global::CarApp.Droid.Resource.Id.tag_transition_group;
+			global::Rg.Plugins.Popup.Resource.Id.tag_unhandled_key_event_manager = global::CarApp.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Rg.Plugins.Popup.Resource.Id.tag_unhandled_key_listeners = global::CarApp.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Rg.Plugins.Popup.Resource.Id.test_checkbox_android_button_tint = global::CarApp.Droid.Resource.Id.test_checkbox_android_button_tint;
+			global::Rg.Plugins.Popup.Resource.Id.test_checkbox_app_button_tint = global::CarApp.Droid.Resource.Id.test_checkbox_app_button_tint;
+			global::Rg.Plugins.Popup.Resource.Id.test_radiobutton_android_button_tint = global::CarApp.Droid.Resource.Id.test_radiobutton_android_button_tint;
+			global::Rg.Plugins.Popup.Resource.Id.test_radiobutton_app_button_tint = global::CarApp.Droid.Resource.Id.test_radiobutton_app_button_tint;
+			global::Rg.Plugins.Popup.Resource.Id.text = global::CarApp.Droid.Resource.Id.text;
+			global::Rg.Plugins.Popup.Resource.Id.text2 = global::CarApp.Droid.Resource.Id.text2;
+			global::Rg.Plugins.Popup.Resource.Id.textEnd = global::CarApp.Droid.Resource.Id.textEnd;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_counter = global::CarApp.Droid.Resource.Id.textinput_counter;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_error = global::CarApp.Droid.Resource.Id.textinput_error;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_helper_text = global::CarApp.Droid.Resource.Id.textinput_helper_text;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_placeholder = global::CarApp.Droid.Resource.Id.textinput_placeholder;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_prefix_text = global::CarApp.Droid.Resource.Id.textinput_prefix_text;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_suffix_text = global::CarApp.Droid.Resource.Id.textinput_suffix_text;
+			global::Rg.Plugins.Popup.Resource.Id.textSpacerNoButtons = global::CarApp.Droid.Resource.Id.textSpacerNoButtons;
+			global::Rg.Plugins.Popup.Resource.Id.textSpacerNoTitle = global::CarApp.Droid.Resource.Id.textSpacerNoTitle;
+			global::Rg.Plugins.Popup.Resource.Id.textStart = global::CarApp.Droid.Resource.Id.textStart;
+			global::Rg.Plugins.Popup.Resource.Id.text_input_end_icon = global::CarApp.Droid.Resource.Id.text_input_end_icon;
+			global::Rg.Plugins.Popup.Resource.Id.text_input_start_icon = global::CarApp.Droid.Resource.Id.text_input_start_icon;
+			global::Rg.Plugins.Popup.Resource.Id.time = global::CarApp.Droid.Resource.Id.time;
+			global::Rg.Plugins.Popup.Resource.Id.title = global::CarApp.Droid.Resource.Id.title;
+			global::Rg.Plugins.Popup.Resource.Id.titleDividerNoCustom = global::CarApp.Droid.Resource.Id.titleDividerNoCustom;
+			global::Rg.Plugins.Popup.Resource.Id.title_template = global::CarApp.Droid.Resource.Id.title_template;
+			global::Rg.Plugins.Popup.Resource.Id.toolbar = global::CarApp.Droid.Resource.Id.toolbar;
+			global::Rg.Plugins.Popup.Resource.Id.top = global::CarApp.Droid.Resource.Id.top;
+			global::Rg.Plugins.Popup.Resource.Id.topPanel = global::CarApp.Droid.Resource.Id.topPanel;
+			global::Rg.Plugins.Popup.Resource.Id.TOP_END = global::CarApp.Droid.Resource.Id.TOP_END;
+			global::Rg.Plugins.Popup.Resource.Id.TOP_START = global::CarApp.Droid.Resource.Id.TOP_START;
+			global::Rg.Plugins.Popup.Resource.Id.touch_outside = global::CarApp.Droid.Resource.Id.touch_outside;
+			global::Rg.Plugins.Popup.Resource.Id.transition_current_scene = global::CarApp.Droid.Resource.Id.transition_current_scene;
+			global::Rg.Plugins.Popup.Resource.Id.transition_layout_save = global::CarApp.Droid.Resource.Id.transition_layout_save;
+			global::Rg.Plugins.Popup.Resource.Id.transition_position = global::CarApp.Droid.Resource.Id.transition_position;
+			global::Rg.Plugins.Popup.Resource.Id.transition_scene_layoutid_cache = global::CarApp.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Rg.Plugins.Popup.Resource.Id.transition_transform = global::CarApp.Droid.Resource.Id.transition_transform;
+			global::Rg.Plugins.Popup.Resource.Id.@unchecked = global::CarApp.Droid.Resource.Id.@unchecked;
+			global::Rg.Plugins.Popup.Resource.Id.uniform = global::CarApp.Droid.Resource.Id.uniform;
+			global::Rg.Plugins.Popup.Resource.Id.unlabeled = global::CarApp.Droid.Resource.Id.unlabeled;
+			global::Rg.Plugins.Popup.Resource.Id.up = global::CarApp.Droid.Resource.Id.up;
+			global::Rg.Plugins.Popup.Resource.Id.useLogo = global::CarApp.Droid.Resource.Id.useLogo;
+			global::Rg.Plugins.Popup.Resource.Id.view_offset_helper = global::CarApp.Droid.Resource.Id.view_offset_helper;
+			global::Rg.Plugins.Popup.Resource.Id.view_tree_saved_state_registry_owner = global::CarApp.Droid.Resource.Id.view_tree_saved_state_registry_owner;
+			global::Rg.Plugins.Popup.Resource.Id.visible = global::CarApp.Droid.Resource.Id.visible;
+			global::Rg.Plugins.Popup.Resource.Id.visible_removing_fragment_view_tag = global::CarApp.Droid.Resource.Id.visible_removing_fragment_view_tag;
+			global::Rg.Plugins.Popup.Resource.Id.withinBounds = global::CarApp.Droid.Resource.Id.withinBounds;
+			global::Rg.Plugins.Popup.Resource.Id.withText = global::CarApp.Droid.Resource.Id.withText;
+			global::Rg.Plugins.Popup.Resource.Id.wrap_content = global::CarApp.Droid.Resource.Id.wrap_content;
+			global::Rg.Plugins.Popup.Resource.Id.zero_corner_chip = global::CarApp.Droid.Resource.Id.zero_corner_chip;
+			global::Rg.Plugins.Popup.Resource.Integer.abc_config_activityDefaultDur = global::CarApp.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Rg.Plugins.Popup.Resource.Integer.abc_config_activityShortDur = global::CarApp.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Rg.Plugins.Popup.Resource.Integer.app_bar_elevation_anim_duration = global::CarApp.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.bottom_sheet_slide_duration = global::CarApp.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.cancel_button_image_alpha = global::CarApp.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Rg.Plugins.Popup.Resource.Integer.config_tooltipAnimTime = global::CarApp.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Rg.Plugins.Popup.Resource.Integer.design_snackbar_text_max_lines = global::CarApp.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Rg.Plugins.Popup.Resource.Integer.design_tab_indicator_anim_duration_ms = global::CarApp.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.hide_password_duration = global::CarApp.Droid.Resource.Integer.hide_password_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_badge_max_character_count = global::CarApp.Droid.Resource.Integer.mtrl_badge_max_character_count;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_btn_anim_delay_ms = global::CarApp.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_btn_anim_duration_ms = global::CarApp.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_calendar_header_orientation = global::CarApp.Droid.Resource.Integer.mtrl_calendar_header_orientation;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_calendar_selection_text_lines = global::CarApp.Droid.Resource.Integer.mtrl_calendar_selection_text_lines;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_calendar_year_selector_span = global::CarApp.Droid.Resource.Integer.mtrl_calendar_year_selector_span;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_card_anim_delay_ms = global::CarApp.Droid.Resource.Integer.mtrl_card_anim_delay_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_card_anim_duration_ms = global::CarApp.Droid.Resource.Integer.mtrl_card_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_chip_anim_duration = global::CarApp.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::CarApp.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.show_password_duration = global::CarApp.Droid.Resource.Integer.show_password_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.status_bar_notification_info_maxnum = global::CarApp.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::CarApp.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::CarApp.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::CarApp.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::CarApp.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::CarApp.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::CarApp.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.fast_out_slow_in = global::CarApp.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_fast_out_linear_in = global::CarApp.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_fast_out_slow_in = global::CarApp.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_linear = global::CarApp.Droid.Resource.Interpolator.mtrl_linear;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_linear_out_slow_in = global::CarApp.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_bar_title_item = global::CarApp.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_bar_up_container = global::CarApp.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_menu_item_layout = global::CarApp.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_menu_layout = global::CarApp.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_mode_bar = global::CarApp.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_mode_close_item_material = global::CarApp.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_activity_chooser_view = global::CarApp.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_activity_chooser_view_list_item = global::CarApp.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_alert_dialog_button_bar_material = global::CarApp.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_alert_dialog_material = global::CarApp.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_alert_dialog_title_material = global::CarApp.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_cascading_menu_item_layout = global::CarApp.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_dialog_title_material = global::CarApp.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_expanded_menu_layout = global::CarApp.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_checkbox = global::CarApp.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_icon = global::CarApp.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_layout = global::CarApp.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_radio = global::CarApp.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_popup_menu_header_item_layout = global::CarApp.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_popup_menu_item_layout = global::CarApp.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_content_include = global::CarApp.Droid.Resource.Layout.abc_screen_content_include;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_simple = global::CarApp.Droid.Resource.Layout.abc_screen_simple;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_simple_overlay_action_mode = global::CarApp.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_toolbar = global::CarApp.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_search_dropdown_item_icons_2line = global::CarApp.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_search_view = global::CarApp.Droid.Resource.Layout.abc_search_view;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_select_dialog_material = global::CarApp.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_tooltip = global::CarApp.Droid.Resource.Layout.abc_tooltip;
+			global::Rg.Plugins.Popup.Resource.Layout.BottomTabLayout = global::CarApp.Droid.Resource.Layout.BottomTabLayout;
+			global::Rg.Plugins.Popup.Resource.Layout.browser_actions_context_menu_page = global::CarApp.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Rg.Plugins.Popup.Resource.Layout.browser_actions_context_menu_row = global::CarApp.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Rg.Plugins.Popup.Resource.Layout.custom_dialog = global::CarApp.Droid.Resource.Layout.custom_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.design_bottom_navigation_item = global::CarApp.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Rg.Plugins.Popup.Resource.Layout.design_bottom_sheet_dialog = global::CarApp.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_snackbar = global::CarApp.Droid.Resource.Layout.design_layout_snackbar;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_snackbar_include = global::CarApp.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_tab_icon = global::CarApp.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_tab_text = global::CarApp.Droid.Resource.Layout.design_layout_tab_text;
+			global::Rg.Plugins.Popup.Resource.Layout.design_menu_item_action_area = global::CarApp.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item = global::CarApp.Droid.Resource.Layout.design_navigation_item;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item_header = global::CarApp.Droid.Resource.Layout.design_navigation_item_header;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item_separator = global::CarApp.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item_subheader = global::CarApp.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_menu = global::CarApp.Droid.Resource.Layout.design_navigation_menu;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_menu_item = global::CarApp.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Rg.Plugins.Popup.Resource.Layout.design_text_input_end_icon = global::CarApp.Droid.Resource.Layout.design_text_input_end_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.design_text_input_start_icon = global::CarApp.Droid.Resource.Layout.design_text_input_start_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.FallbackTabbarDoNotUse = global::CarApp.Droid.Resource.Layout.FallbackTabbarDoNotUse;
+			global::Rg.Plugins.Popup.Resource.Layout.FallbackToolbarDoNotUse = global::CarApp.Droid.Resource.Layout.FallbackToolbarDoNotUse;
+			global::Rg.Plugins.Popup.Resource.Layout.FlyoutContent = global::CarApp.Droid.Resource.Layout.FlyoutContent;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_dialog = global::CarApp.Droid.Resource.Layout.mtrl_alert_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_dialog_actions = global::CarApp.Droid.Resource.Layout.mtrl_alert_dialog_actions;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_dialog_title = global::CarApp.Droid.Resource.Layout.mtrl_alert_dialog_title;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_select_dialog_item = global::CarApp.Droid.Resource.Layout.mtrl_alert_select_dialog_item;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_select_dialog_multichoice = global::CarApp.Droid.Resource.Layout.mtrl_alert_select_dialog_multichoice;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_select_dialog_singlechoice = global::CarApp.Droid.Resource.Layout.mtrl_alert_select_dialog_singlechoice;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_day = global::CarApp.Droid.Resource.Layout.mtrl_calendar_day;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_days_of_week = global::CarApp.Droid.Resource.Layout.mtrl_calendar_days_of_week;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_day_of_week = global::CarApp.Droid.Resource.Layout.mtrl_calendar_day_of_week;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_horizontal = global::CarApp.Droid.Resource.Layout.mtrl_calendar_horizontal;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_month = global::CarApp.Droid.Resource.Layout.mtrl_calendar_month;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_months = global::CarApp.Droid.Resource.Layout.mtrl_calendar_months;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_month_labeled = global::CarApp.Droid.Resource.Layout.mtrl_calendar_month_labeled;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_month_navigation = global::CarApp.Droid.Resource.Layout.mtrl_calendar_month_navigation;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_vertical = global::CarApp.Droid.Resource.Layout.mtrl_calendar_vertical;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_year = global::CarApp.Droid.Resource.Layout.mtrl_calendar_year;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_layout_snackbar = global::CarApp.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_layout_snackbar_include = global::CarApp.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_actions = global::CarApp.Droid.Resource.Layout.mtrl_picker_actions;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_dialog = global::CarApp.Droid.Resource.Layout.mtrl_picker_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_fullscreen = global::CarApp.Droid.Resource.Layout.mtrl_picker_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_header_dialog = global::CarApp.Droid.Resource.Layout.mtrl_picker_header_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_header_fullscreen = global::CarApp.Droid.Resource.Layout.mtrl_picker_header_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_header_selection_text = global::CarApp.Droid.Resource.Layout.mtrl_picker_header_selection_text;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_header_title_text = global::CarApp.Droid.Resource.Layout.mtrl_picker_header_title_text;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_header_toggle = global::CarApp.Droid.Resource.Layout.mtrl_picker_header_toggle;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_text_input_date = global::CarApp.Droid.Resource.Layout.mtrl_picker_text_input_date;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_text_input_date_range = global::CarApp.Droid.Resource.Layout.mtrl_picker_text_input_date_range;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_action = global::CarApp.Droid.Resource.Layout.notification_action;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_action_tombstone = global::CarApp.Droid.Resource.Layout.notification_action_tombstone;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_media_action = global::CarApp.Droid.Resource.Layout.notification_media_action;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_media_cancel_action = global::CarApp.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media = global::CarApp.Droid.Resource.Layout.notification_template_big_media;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media_custom = global::CarApp.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media_narrow = global::CarApp.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media_narrow_custom = global::CarApp.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_custom_big = global::CarApp.Droid.Resource.Layout.notification_template_custom_big;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_icon_group = global::CarApp.Droid.Resource.Layout.notification_template_icon_group;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_lines_media = global::CarApp.Droid.Resource.Layout.notification_template_lines_media;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_media = global::CarApp.Droid.Resource.Layout.notification_template_media;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_media_custom = global::CarApp.Droid.Resource.Layout.notification_template_media_custom;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_part_chronometer = global::CarApp.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_part_time = global::CarApp.Droid.Resource.Layout.notification_template_part_time;
+			global::Rg.Plugins.Popup.Resource.Layout.RootLayout = global::CarApp.Droid.Resource.Layout.RootLayout;
+			global::Rg.Plugins.Popup.Resource.Layout.select_dialog_item_material = global::CarApp.Droid.Resource.Layout.select_dialog_item_material;
+			global::Rg.Plugins.Popup.Resource.Layout.select_dialog_multichoice_material = global::CarApp.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Rg.Plugins.Popup.Resource.Layout.select_dialog_singlechoice_material = global::CarApp.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Rg.Plugins.Popup.Resource.Layout.ShellContent = global::CarApp.Droid.Resource.Layout.ShellContent;
+			global::Rg.Plugins.Popup.Resource.Layout.support_simple_spinner_dropdown_item = global::CarApp.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Rg.Plugins.Popup.Resource.Layout.Tabbar = global::CarApp.Droid.Resource.Layout.Tabbar;
+			global::Rg.Plugins.Popup.Resource.Layout.test_action_chip = global::CarApp.Droid.Resource.Layout.test_action_chip;
+			global::Rg.Plugins.Popup.Resource.Layout.test_chip_zero_corner_radius = global::CarApp.Droid.Resource.Layout.test_chip_zero_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Layout.test_design_checkbox = global::CarApp.Droid.Resource.Layout.test_design_checkbox;
+			global::Rg.Plugins.Popup.Resource.Layout.test_design_radiobutton = global::CarApp.Droid.Resource.Layout.test_design_radiobutton;
+			global::Rg.Plugins.Popup.Resource.Layout.test_reflow_chipgroup = global::CarApp.Droid.Resource.Layout.test_reflow_chipgroup;
+			global::Rg.Plugins.Popup.Resource.Layout.test_toolbar = global::CarApp.Droid.Resource.Layout.test_toolbar;
+			global::Rg.Plugins.Popup.Resource.Layout.test_toolbar_custom_background = global::CarApp.Droid.Resource.Layout.test_toolbar_custom_background;
+			global::Rg.Plugins.Popup.Resource.Layout.test_toolbar_elevation = global::CarApp.Droid.Resource.Layout.test_toolbar_elevation;
+			global::Rg.Plugins.Popup.Resource.Layout.test_toolbar_surface = global::CarApp.Droid.Resource.Layout.test_toolbar_surface;
+			global::Rg.Plugins.Popup.Resource.Layout.text_view_without_line_height = global::CarApp.Droid.Resource.Layout.text_view_without_line_height;
+			global::Rg.Plugins.Popup.Resource.Layout.text_view_with_line_height_from_appearance = global::CarApp.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
+			global::Rg.Plugins.Popup.Resource.Layout.text_view_with_line_height_from_layout = global::CarApp.Droid.Resource.Layout.text_view_with_line_height_from_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.text_view_with_line_height_from_style = global::CarApp.Droid.Resource.Layout.text_view_with_line_height_from_style;
+			global::Rg.Plugins.Popup.Resource.Layout.text_view_with_theme_line_height = global::CarApp.Droid.Resource.Layout.text_view_with_theme_line_height;
+			global::Rg.Plugins.Popup.Resource.Layout.Toolbar = global::CarApp.Droid.Resource.Layout.Toolbar;
+			global::Rg.Plugins.Popup.Resource.Plurals.mtrl_badge_content_description = global::CarApp.Droid.Resource.Plurals.mtrl_badge_content_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_bar_home_description = global::CarApp.Droid.Resource.String.abc_action_bar_home_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_bar_up_description = global::CarApp.Droid.Resource.String.abc_action_bar_up_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_menu_overflow_description = global::CarApp.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_mode_done = global::CarApp.Droid.Resource.String.abc_action_mode_done;
+			global::Rg.Plugins.Popup.Resource.String.abc_activitychooserview_choose_application = global::CarApp.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Rg.Plugins.Popup.Resource.String.abc_activity_chooser_view_see_all = global::CarApp.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Rg.Plugins.Popup.Resource.String.abc_capital_off = global::CarApp.Droid.Resource.String.abc_capital_off;
+			global::Rg.Plugins.Popup.Resource.String.abc_capital_on = global::CarApp.Droid.Resource.String.abc_capital_on;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_alt_shortcut_label = global::CarApp.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_ctrl_shortcut_label = global::CarApp.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_delete_shortcut_label = global::CarApp.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_enter_shortcut_label = global::CarApp.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_function_shortcut_label = global::CarApp.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_meta_shortcut_label = global::CarApp.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_shift_shortcut_label = global::CarApp.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_space_shortcut_label = global::CarApp.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_sym_shortcut_label = global::CarApp.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_prepend_shortcut_label = global::CarApp.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_clear = global::CarApp.Droid.Resource.String.abc_searchview_description_clear;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_query = global::CarApp.Droid.Resource.String.abc_searchview_description_query;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_search = global::CarApp.Droid.Resource.String.abc_searchview_description_search;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_submit = global::CarApp.Droid.Resource.String.abc_searchview_description_submit;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_voice = global::CarApp.Droid.Resource.String.abc_searchview_description_voice;
+			global::Rg.Plugins.Popup.Resource.String.abc_search_hint = global::CarApp.Droid.Resource.String.abc_search_hint;
+			global::Rg.Plugins.Popup.Resource.String.abc_shareactionprovider_share_with = global::CarApp.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Rg.Plugins.Popup.Resource.String.abc_shareactionprovider_share_with_application = global::CarApp.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Rg.Plugins.Popup.Resource.String.abc_toolbar_collapse_description = global::CarApp.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Rg.Plugins.Popup.Resource.String.appbar_scrolling_view_behavior = global::CarApp.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Rg.Plugins.Popup.Resource.String.bottom_sheet_behavior = global::CarApp.Droid.Resource.String.bottom_sheet_behavior;
+			global::Rg.Plugins.Popup.Resource.String.character_counter_content_description = global::CarApp.Droid.Resource.String.character_counter_content_description;
+			global::Rg.Plugins.Popup.Resource.String.character_counter_overflowed_content_description = global::CarApp.Droid.Resource.String.character_counter_overflowed_content_description;
+			global::Rg.Plugins.Popup.Resource.String.character_counter_pattern = global::CarApp.Droid.Resource.String.character_counter_pattern;
+			global::Rg.Plugins.Popup.Resource.String.chip_text = global::CarApp.Droid.Resource.String.chip_text;
+			global::Rg.Plugins.Popup.Resource.String.clear_text_end_icon_content_description = global::CarApp.Droid.Resource.String.clear_text_end_icon_content_description;
+			global::Rg.Plugins.Popup.Resource.String.copy_toast_msg = global::CarApp.Droid.Resource.String.copy_toast_msg;
+			global::Rg.Plugins.Popup.Resource.String.error_icon_content_description = global::CarApp.Droid.Resource.String.error_icon_content_description;
+			global::Rg.Plugins.Popup.Resource.String.exposed_dropdown_menu_content_description = global::CarApp.Droid.Resource.String.exposed_dropdown_menu_content_description;
+			global::Rg.Plugins.Popup.Resource.String.fab_transformation_scrim_behavior = global::CarApp.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::Rg.Plugins.Popup.Resource.String.fab_transformation_sheet_behavior = global::CarApp.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::Rg.Plugins.Popup.Resource.String.fallback_menu_item_copy_link = global::CarApp.Droid.Resource.String.fallback_menu_item_copy_link;
+			global::Rg.Plugins.Popup.Resource.String.fallback_menu_item_open_in_browser = global::CarApp.Droid.Resource.String.fallback_menu_item_open_in_browser;
+			global::Rg.Plugins.Popup.Resource.String.fallback_menu_item_share_link = global::CarApp.Droid.Resource.String.fallback_menu_item_share_link;
+			global::Rg.Plugins.Popup.Resource.String.hide_bottom_view_on_scroll_behavior = global::CarApp.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Rg.Plugins.Popup.Resource.String.icon_content_description = global::CarApp.Droid.Resource.String.icon_content_description;
+			global::Rg.Plugins.Popup.Resource.String.item_view_role_description = global::CarApp.Droid.Resource.String.item_view_role_description;
+			global::Rg.Plugins.Popup.Resource.String.material_slider_range_end = global::CarApp.Droid.Resource.String.material_slider_range_end;
+			global::Rg.Plugins.Popup.Resource.String.material_slider_range_start = global::CarApp.Droid.Resource.String.material_slider_range_start;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_badge_numberless_content_description = global::CarApp.Droid.Resource.String.mtrl_badge_numberless_content_description;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_chip_close_icon_content_description = global::CarApp.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_exceed_max_badge_number_content_description = global::CarApp.Droid.Resource.String.mtrl_exceed_max_badge_number_content_description;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_exceed_max_badge_number_suffix = global::CarApp.Droid.Resource.String.mtrl_exceed_max_badge_number_suffix;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_a11y_next_month = global::CarApp.Droid.Resource.String.mtrl_picker_a11y_next_month;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_a11y_prev_month = global::CarApp.Droid.Resource.String.mtrl_picker_a11y_prev_month;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_announce_current_selection = global::CarApp.Droid.Resource.String.mtrl_picker_announce_current_selection;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_cancel = global::CarApp.Droid.Resource.String.mtrl_picker_cancel;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_confirm = global::CarApp.Droid.Resource.String.mtrl_picker_confirm;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_date_header_selected = global::CarApp.Droid.Resource.String.mtrl_picker_date_header_selected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_date_header_title = global::CarApp.Droid.Resource.String.mtrl_picker_date_header_title;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_date_header_unselected = global::CarApp.Droid.Resource.String.mtrl_picker_date_header_unselected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_day_of_week_column_header = global::CarApp.Droid.Resource.String.mtrl_picker_day_of_week_column_header;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_invalid_format = global::CarApp.Droid.Resource.String.mtrl_picker_invalid_format;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_invalid_format_example = global::CarApp.Droid.Resource.String.mtrl_picker_invalid_format_example;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_invalid_format_use = global::CarApp.Droid.Resource.String.mtrl_picker_invalid_format_use;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_invalid_range = global::CarApp.Droid.Resource.String.mtrl_picker_invalid_range;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_navigate_to_year_description = global::CarApp.Droid.Resource.String.mtrl_picker_navigate_to_year_description;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_out_of_range = global::CarApp.Droid.Resource.String.mtrl_picker_out_of_range;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_range_header_only_end_selected = global::CarApp.Droid.Resource.String.mtrl_picker_range_header_only_end_selected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_range_header_only_start_selected = global::CarApp.Droid.Resource.String.mtrl_picker_range_header_only_start_selected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_range_header_selected = global::CarApp.Droid.Resource.String.mtrl_picker_range_header_selected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_range_header_title = global::CarApp.Droid.Resource.String.mtrl_picker_range_header_title;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_range_header_unselected = global::CarApp.Droid.Resource.String.mtrl_picker_range_header_unselected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_save = global::CarApp.Droid.Resource.String.mtrl_picker_save;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_date_hint = global::CarApp.Droid.Resource.String.mtrl_picker_text_input_date_hint;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_date_range_end_hint = global::CarApp.Droid.Resource.String.mtrl_picker_text_input_date_range_end_hint;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_date_range_start_hint = global::CarApp.Droid.Resource.String.mtrl_picker_text_input_date_range_start_hint;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_day_abbr = global::CarApp.Droid.Resource.String.mtrl_picker_text_input_day_abbr;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_month_abbr = global::CarApp.Droid.Resource.String.mtrl_picker_text_input_month_abbr;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_year_abbr = global::CarApp.Droid.Resource.String.mtrl_picker_text_input_year_abbr;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_toggle_to_calendar_input_mode = global::CarApp.Droid.Resource.String.mtrl_picker_toggle_to_calendar_input_mode;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_toggle_to_day_selection = global::CarApp.Droid.Resource.String.mtrl_picker_toggle_to_day_selection;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_toggle_to_text_input_mode = global::CarApp.Droid.Resource.String.mtrl_picker_toggle_to_text_input_mode;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_toggle_to_year_selection = global::CarApp.Droid.Resource.String.mtrl_picker_toggle_to_year_selection;
+			global::Rg.Plugins.Popup.Resource.String.overflow_tab_title = global::CarApp.Droid.Resource.String.overflow_tab_title;
+			global::Rg.Plugins.Popup.Resource.String.password_toggle_content_description = global::CarApp.Droid.Resource.String.password_toggle_content_description;
+			global::Rg.Plugins.Popup.Resource.String.path_password_eye = global::CarApp.Droid.Resource.String.path_password_eye;
+			global::Rg.Plugins.Popup.Resource.String.path_password_eye_mask_strike_through = global::CarApp.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Rg.Plugins.Popup.Resource.String.path_password_eye_mask_visible = global::CarApp.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Rg.Plugins.Popup.Resource.String.path_password_strike_through = global::CarApp.Droid.Resource.String.path_password_strike_through;
+			global::Rg.Plugins.Popup.Resource.String.search_menu_title = global::CarApp.Droid.Resource.String.search_menu_title;
+			global::Rg.Plugins.Popup.Resource.String.status_bar_notification_info_overflow = global::CarApp.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Rg.Plugins.Popup.Resource.Style.AlertDialog_AppCompat = global::CarApp.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.AlertDialog_AppCompat_Light = global::CarApp.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.AndroidThemeColorAccentYellow = global::CarApp.Droid.Resource.Style.AndroidThemeColorAccentYellow;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_AppCompat_Dialog = global::CarApp.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_AppCompat_DropDownUp = global::CarApp.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_AppCompat_Tooltip = global::CarApp.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_Design_BottomSheetDialog = global::CarApp.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_MaterialComponents_BottomSheetDialog = global::CarApp.Droid.Resource.Style.Animation_MaterialComponents_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.AppCompatDialogStyle = global::CarApp.Droid.Resource.Style.AppCompatDialogStyle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_AlertDialog_AppCompat = global::CarApp.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_AlertDialog_AppCompat_Light = global::CarApp.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Animation_AppCompat_Dialog = global::CarApp.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::CarApp.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Animation_AppCompat_Tooltip = global::CarApp.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Base_CardView = global::CarApp.Droid.Resource.Style.Base_CardView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::CarApp.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_DialogWindowTitle_AppCompat = global::CarApp.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon = global::CarApp.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel = global::CarApp.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::Rg.Plugins.Popup.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text = global::CarApp.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Button = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Large = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Small = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Title = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CarApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_MaterialComponents_Badge = global::CarApp.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Badge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_MaterialComponents_Button = global::CarApp.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6 = global::CarApp.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2 = global::CarApp.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CarApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CarApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::CarApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::CarApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::CarApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::CarApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::CarApp.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::CarApp.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::CarApp.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents = global::CarApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::CarApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::CarApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge = global::CarApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::CarApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::CarApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::CarApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = global::CarApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::CarApp.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat = global::CarApp.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::CarApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat_Light = global::CarApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::CarApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_MaterialComponents = global::CarApp.Droid.Resource.Style.Base_V21_Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog = global::CarApp.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_MaterialComponents_Light = global::CarApp.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog = global::CarApp.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V22_Theme_AppCompat = global::CarApp.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V22_Theme_AppCompat_Light = global::CarApp.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V23_Theme_AppCompat = global::CarApp.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V23_Theme_AppCompat_Light = global::CarApp.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V26_Theme_AppCompat = global::CarApp.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V26_Theme_AppCompat_Light = global::CarApp.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::CarApp.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V28_Theme_AppCompat = global::CarApp.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V28_Theme_AppCompat_Light = global::CarApp.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::CarApp.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat = global::CarApp.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::CarApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat_Light = global::CarApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::CarApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::CarApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::CarApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::CarApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionButton = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionMode = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Small = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_EditText = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ImageButton = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListView = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_RatingBar = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SearchView = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SeekBar = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Spinner = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_TextView = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Toolbar = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::CarApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_Design_TabLayout = global::CarApp.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_Chip = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_PopupMenu = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_Slider = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_Slider;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_TextView = global::CarApp.Droid.Resource.Style.Base_Widget_MaterialComponents_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.CardView = global::CarApp.Droid.Resource.Style.CardView;
+			global::Rg.Plugins.Popup.Resource.Style.CardView_Dark = global::CarApp.Droid.Resource.Style.CardView_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.CardView_Light = global::CarApp.Droid.Resource.Style.CardView_Light;
+			global::Rg.Plugins.Popup.Resource.Style.collectionViewTheme = global::CarApp.Droid.Resource.Style.collectionViewTheme;
+			global::Rg.Plugins.Popup.Resource.Style.EmptyTheme = global::CarApp.Droid.Resource.Style.EmptyTheme;
+			global::Rg.Plugins.Popup.Resource.Style.MainTheme = global::CarApp.Droid.Resource.Style.MainTheme;
+			global::Rg.Plugins.Popup.Resource.Style.MainTheme_Base = global::CarApp.Droid.Resource.Style.MainTheme_Base;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents = global::CarApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text = global::CarApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = global::CarApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = global::CarApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon = global::CarApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = global::CarApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel = global::CarApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = global::CarApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text = global::CarApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = global::CarApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_AppCompat = global::CarApp.Droid.Resource.Style.Platform_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_AppCompat_Light = global::CarApp.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents = global::CarApp.Droid.Resource.Style.Platform_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents_Dialog = global::CarApp.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents_Light = global::CarApp.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::CarApp.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_ThemeOverlay_AppCompat = global::CarApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::CarApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::CarApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V21_AppCompat = global::CarApp.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V21_AppCompat_Light = global::CarApp.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V25_AppCompat = global::CarApp.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V25_AppCompat_Light = global::CarApp.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_Widget_AppCompat_Spinner = global::CarApp.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::CarApp.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::CarApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Rg.Plugins.Popup.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::CarApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::CarApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.scrollViewScrollBars = global::CarApp.Droid.Resource.Style.scrollViewScrollBars;
+			global::Rg.Plugins.Popup.Resource.Style.scrollViewTheme = global::CarApp.Droid.Resource.Style.scrollViewTheme;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_Cut = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::CarApp.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents = global::CarApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::CarApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::CarApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::CarApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::CarApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip = global::CarApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.TestStyleWithLineHeight = global::CarApp.Droid.Resource.Style.TestStyleWithLineHeight;
+			global::Rg.Plugins.Popup.Resource.Style.TestStyleWithLineHeightAppearance = global::CarApp.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
+			global::Rg.Plugins.Popup.Resource.Style.TestStyleWithoutLineHeight = global::CarApp.Droid.Resource.Style.TestStyleWithoutLineHeight;
+			global::Rg.Plugins.Popup.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::CarApp.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
+			global::Rg.Plugins.Popup.Resource.Style.TestThemeWithLineHeight = global::CarApp.Droid.Resource.Style.TestThemeWithLineHeight;
+			global::Rg.Plugins.Popup.Resource.Style.TestThemeWithLineHeightDisabled = global::CarApp.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
+			global::Rg.Plugins.Popup.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::CarApp.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::Rg.Plugins.Popup.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::CarApp.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
+			global::Rg.Plugins.Popup.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::CarApp.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
+			global::Rg.Plugins.Popup.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::CarApp.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
+			global::Rg.Plugins.Popup.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::CarApp.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Body1 = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Body2 = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Button = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Caption = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display1 = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display2 = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display3 = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display4 = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Headline = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Large = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Medium = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Menu = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Small = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Subhead = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Title = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Tooltip = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CarApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification = global::CarApp.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Info = global::CarApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::CarApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::CarApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::CarApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Media = global::CarApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Time = global::CarApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::CarApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Title = global::CarApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::CarApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::CarApp.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Counter = global::CarApp.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Counter_Overflow = global::CarApp.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Error = global::CarApp.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_HelperText = global::CarApp.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Hint = global::CarApp.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Placeholder = global::CarApp.Droid.Resource.Style.TextAppearance_Design_Placeholder;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Prefix = global::CarApp.Droid.Resource.Style.TextAppearance_Design_Prefix;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Snackbar_Message = global::CarApp.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Suffix = global::CarApp.Droid.Resource.Style.TextAppearance_Design_Suffix;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Tab = global::CarApp.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Badge = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Badge;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Button = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Caption = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Chip = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Overline = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Tooltip = global::CarApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CarApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CarApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::CarApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlayColorAccentRed = global::CarApp.Droid.Resource.Style.ThemeOverlayColorAccentRed;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat = global::CarApp.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::CarApp.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dark = global::CarApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::CarApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::CarApp.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::CarApp.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::CarApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::CarApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Light = global::CarApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_Design_TextInputEditText = global::CarApp.Droid.Resource.Style.ThemeOverlay_Design_TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface = global::CarApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat = global::CarApp.Droid.Resource.Style.Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_CompactMenu = global::CarApp.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight = global::CarApp.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::CarApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::CarApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::CarApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::CarApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::CarApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::CarApp.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Dialog = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::CarApp.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Dialog_Alert = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Empty = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Empty;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_Dialog = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::CarApp.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_NoActionBar = global::CarApp.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design = global::CarApp.Droid.Resource.Style.Theme_Design;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_BottomSheetDialog = global::CarApp.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_Light = global::CarApp.Droid.Resource.Style.Theme_Design_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::CarApp.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_Light_NoActionBar = global::CarApp.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_NoActionBar = global::CarApp.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_CompactMenu = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_NoActionBar = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::CarApp.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionButton = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionMode = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActivityChooserView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ButtonBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Borderless = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Colored = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Small = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::CarApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::CarApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::CarApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::CarApp.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::CarApp.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_EditText = global::CarApp.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ImageButton = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionButton = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_SearchView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListMenuView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListPopupWindow = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListView_DropDown = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListView_Menu = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_PopupMenu = global::CarApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::CarApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_PopupWindow = global::CarApp.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ProgressBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::CarApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_RatingBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::CarApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_RatingBar_Small = global::CarApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SearchView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SeekBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::CarApp.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_TextView = global::CarApp.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::CarApp.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Toolbar = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::CarApp.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Compat_NotificationActionContainer = global::CarApp.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Compat_NotificationActionText = global::CarApp.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_AppBarLayout = global::CarApp.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_BottomNavigationView = global::CarApp.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_BottomSheet_Modal = global::CarApp.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_CollapsingToolbar = global::CarApp.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_FloatingActionButton = global::CarApp.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_NavigationView = global::CarApp.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::CarApp.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_Snackbar = global::CarApp.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_TabLayout = global::CarApp.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_TextInputEditText = global::CarApp.Droid.Resource.Style.Widget_Design_TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_TextInputLayout = global::CarApp.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ActionBar_Primary = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ActionBar_Solid = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ActionBar_Surface = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Badge = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Badge;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomSheet = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_Icon = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CardView = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CheckedTextView = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_CheckedTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ChipGroup = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Action = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_NavigationView = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_PopupMenu = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ShapeableImageView = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_ShapeableImageView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Slider = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Slider;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Snackbar = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Snackbar_TextView = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TabLayout = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextView = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Toolbar = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Toolbar_Primary = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Toolbar_Surface = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Tooltip = global::CarApp.Droid.Resource.Style.Widget_MaterialComponents_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Support_CoordinatorLayout = global::CarApp.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar = global::CarApp.Droid.Resource.Styleable.ActionBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBarLayout = global::CarApp.Droid.Resource.Styleable.ActionBarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::CarApp.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_background = global::CarApp.Droid.Resource.Styleable.ActionBar_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_backgroundSplit = global::CarApp.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_backgroundStacked = global::CarApp.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetEnd = global::CarApp.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::CarApp.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetLeft = global::CarApp.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetRight = global::CarApp.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetStart = global::CarApp.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::CarApp.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_customNavigationLayout = global::CarApp.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_displayOptions = global::CarApp.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_divider = global::CarApp.Droid.Resource.Styleable.ActionBar_divider;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_elevation = global::CarApp.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_height = global::CarApp.Droid.Resource.Styleable.ActionBar_height;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_hideOnContentScroll = global::CarApp.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_homeAsUpIndicator = global::CarApp.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_homeLayout = global::CarApp.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_icon = global::CarApp.Droid.Resource.Styleable.ActionBar_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::CarApp.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_itemPadding = global::CarApp.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_logo = global::CarApp.Droid.Resource.Styleable.ActionBar_logo;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_navigationMode = global::CarApp.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_popupTheme = global::CarApp.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_progressBarPadding = global::CarApp.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_progressBarStyle = global::CarApp.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_subtitle = global::CarApp.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_subtitleTextStyle = global::CarApp.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_title = global::CarApp.Droid.Resource.Styleable.ActionBar_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_titleTextStyle = global::CarApp.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMenuItemView = global::CarApp.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMenuItemView_android_minWidth = global::CarApp.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMenuView = global::CarApp.Droid.Resource.Styleable.ActionMenuView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode = global::CarApp.Droid.Resource.Styleable.ActionMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_background = global::CarApp.Droid.Resource.Styleable.ActionMode_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_backgroundSplit = global::CarApp.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_closeItemLayout = global::CarApp.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_height = global::CarApp.Droid.Resource.Styleable.ActionMode_height;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_subtitleTextStyle = global::CarApp.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_titleTextStyle = global::CarApp.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActivityChooserView = global::CarApp.Droid.Resource.Styleable.ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::CarApp.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActivityChooserView_initialActivityCount = global::CarApp.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog = global::CarApp.Droid.Resource.Styleable.AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_android_layout = global::CarApp.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_buttonIconDimen = global::CarApp.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::CarApp.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_listItemLayout = global::CarApp.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_listLayout = global::CarApp.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::CarApp.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_showTitle = global::CarApp.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::CarApp.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableItem = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::CarApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout = global::CarApp.Droid.Resource.Styleable.AppBarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates = global::CarApp.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::CarApp.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::CarApp.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_liftable = global::CarApp.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_lifted = global::CarApp.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_android_background = global::CarApp.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::CarApp.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::CarApp.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_elevation = global::CarApp.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_expanded = global::CarApp.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_Layout = global::CarApp.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::CarApp.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::CarApp.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_liftOnScroll = global::CarApp.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId = global::CarApp.Droid.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_statusBarForeground = global::CarApp.Droid.Resource.Styleable.AppBarLayout_statusBarForeground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView = global::CarApp.Droid.Resource.Styleable.AppCompatImageView;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_android_src = global::CarApp.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_srcCompat = global::CarApp.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_tint = global::CarApp.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_tintMode = global::CarApp.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar = global::CarApp.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_android_thumb = global::CarApp.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_tickMark = global::CarApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::CarApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::CarApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper = global::CarApp.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::CarApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::CarApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::CarApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::CarApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::CarApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::CarApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::CarApp.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView = global::CarApp.Droid.Resource.Styleable.AppCompatTextView;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_android_textAppearance = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableTint = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableTintMode = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_fontFamily = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_lineHeight = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_textAllCaps = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_textLocale = global::CarApp.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme = global::CarApp.Droid.Resource.Styleable.AppCompatTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarDivider = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarSize = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTheme = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeBackground = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_checkboxStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorAccent = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorControlActivated = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorControlNormal = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorError = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorPrimary = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_controlBackground = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dialogTheme = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dividerVertical = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_editTextBackground = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_editTextColor = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_editTextStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_panelBackground = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_searchViewStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_seekBarStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_spinnerStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_switchStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_toolbarStyle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowActionBar = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowNoTitle = global::CarApp.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge = global::CarApp.Droid.Resource.Styleable.Badge;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_backgroundColor = global::CarApp.Droid.Resource.Styleable.Badge_backgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_badgeGravity = global::CarApp.Droid.Resource.Styleable.Badge_badgeGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_badgeTextColor = global::CarApp.Droid.Resource.Styleable.Badge_badgeTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_horizontalOffset = global::CarApp.Droid.Resource.Styleable.Badge_horizontalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_maxCharacterCount = global::CarApp.Droid.Resource.Styleable.Badge_maxCharacterCount;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_number = global::CarApp.Droid.Resource.Styleable.Badge_number;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_verticalOffset = global::CarApp.Droid.Resource.Styleable.Badge_verticalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar = global::CarApp.Droid.Resource.Styleable.BottomAppBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_backgroundTint = global::CarApp.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_elevation = global::CarApp.Droid.Resource.Styleable.BottomAppBar_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::CarApp.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabAnimationMode = global::CarApp.Droid.Resource.Styleable.BottomAppBar_fabAnimationMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabCradleMargin = global::CarApp.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::CarApp.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::CarApp.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_hideOnScroll = global::CarApp.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets = global::CarApp.Droid.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets = global::CarApp.Droid.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets = global::CarApp.Droid.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView = global::CarApp.Droid.Resource.Styleable.BottomNavigationView;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::CarApp.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay = global::CarApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.ButtonBarLayout = global::CarApp.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ButtonBarLayout_allowStacking = global::CarApp.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView = global::CarApp.Droid.Resource.Styleable.CardView;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_android_minHeight = global::CarApp.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_android_minWidth = global::CarApp.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardBackgroundColor = global::CarApp.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardCornerRadius = global::CarApp.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardElevation = global::CarApp.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardMaxElevation = global::CarApp.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardPreventCornerOverlap = global::CarApp.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardUseCompatPadding = global::CarApp.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPadding = global::CarApp.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingBottom = global::CarApp.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingLeft = global::CarApp.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingRight = global::CarApp.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingTop = global::CarApp.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip = global::CarApp.Droid.Resource.Styleable.Chip;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup = global::CarApp.Droid.Resource.Styleable.ChipGroup;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_checkedChip = global::CarApp.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_chipSpacing = global::CarApp.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::CarApp.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_chipSpacingVertical = global::CarApp.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_selectionRequired = global::CarApp.Droid.Resource.Styleable.ChipGroup_selectionRequired;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_singleLine = global::CarApp.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_singleSelection = global::CarApp.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_checkable = global::CarApp.Droid.Resource.Styleable.Chip_android_checkable;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_ellipsize = global::CarApp.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_maxWidth = global::CarApp.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_text = global::CarApp.Droid.Resource.Styleable.Chip_android_text;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_textAppearance = global::CarApp.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_textColor = global::CarApp.Droid.Resource.Styleable.Chip_android_textColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIcon = global::CarApp.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIconEnabled = global::CarApp.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIconTint = global::CarApp.Droid.Resource.Styleable.Chip_checkedIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIconVisible = global::CarApp.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipBackgroundColor = global::CarApp.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipCornerRadius = global::CarApp.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipEndPadding = global::CarApp.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIcon = global::CarApp.Droid.Resource.Styleable.Chip_chipIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconEnabled = global::CarApp.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconSize = global::CarApp.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconTint = global::CarApp.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconVisible = global::CarApp.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipMinHeight = global::CarApp.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipMinTouchTargetSize = global::CarApp.Droid.Resource.Styleable.Chip_chipMinTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipStartPadding = global::CarApp.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipStrokeColor = global::CarApp.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipStrokeWidth = global::CarApp.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipSurfaceColor = global::CarApp.Droid.Resource.Styleable.Chip_chipSurfaceColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIcon = global::CarApp.Droid.Resource.Styleable.Chip_closeIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconEnabled = global::CarApp.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconEndPadding = global::CarApp.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconSize = global::CarApp.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconStartPadding = global::CarApp.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconTint = global::CarApp.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconVisible = global::CarApp.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_ensureMinTouchTargetSize = global::CarApp.Droid.Resource.Styleable.Chip_ensureMinTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_hideMotionSpec = global::CarApp.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_iconEndPadding = global::CarApp.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_iconStartPadding = global::CarApp.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_rippleColor = global::CarApp.Droid.Resource.Styleable.Chip_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_shapeAppearance = global::CarApp.Droid.Resource.Styleable.Chip_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_shapeAppearanceOverlay = global::CarApp.Droid.Resource.Styleable.Chip_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_showMotionSpec = global::CarApp.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_textEndPadding = global::CarApp.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_textStartPadding = global::CarApp.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_Layout = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_maxLines = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_maxLines;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_title = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::CarApp.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem = global::CarApp.Droid.Resource.Styleable.ColorStateListItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem_alpha = global::CarApp.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem_android_alpha = global::CarApp.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem_android_color = global::CarApp.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton = global::CarApp.Droid.Resource.Styleable.CompoundButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_android_button = global::CarApp.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_buttonCompat = global::CarApp.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_buttonTint = global::CarApp.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_buttonTintMode = global::CarApp.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_keylines = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::CarApp.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle = global::CarApp.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::CarApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::CarApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_barLength = global::CarApp.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_color = global::CarApp.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_drawableSize = global::CarApp.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::CarApp.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_spinBars = global::CarApp.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_thickness = global::CarApp.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerLayout = global::CarApp.Droid.Resource.Styleable.DrawerLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerLayout_elevation = global::CarApp.Droid.Resource.Styleable.DrawerLayout_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton = global::CarApp.Droid.Resource.Styleable.ExtendedFloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout = global::CarApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide = global::CarApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink = global::CarApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_elevation = global::CarApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec = global::CarApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec = global::CarApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec = global::CarApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec = global::CarApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton = global::CarApp.Droid.Resource.Styleable.FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_android_enabled = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_backgroundTint = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_borderWidth = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_elevation = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_fabCustomSize = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_fabSize = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_maxImageSize = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_rippleColor = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_shapeAppearance = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_showMotionSpec = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_useCompatPadding = global::CarApp.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.FlowLayout = global::CarApp.Droid.Resource.Styleable.FlowLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.FlowLayout_itemSpacing = global::CarApp.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.FlowLayout_lineSpacing = global::CarApp.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily = global::CarApp.Droid.Resource.Styleable.FontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont = global::CarApp.Droid.Resource.Styleable.FontFamilyFont;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_font = global::CarApp.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_fontStyle = global::CarApp.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::CarApp.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_fontWeight = global::CarApp.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::CarApp.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_font = global::CarApp.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_fontStyle = global::CarApp.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::CarApp.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_fontWeight = global::CarApp.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_ttcIndex = global::CarApp.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderAuthority = global::CarApp.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderCerts = global::CarApp.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::CarApp.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::CarApp.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderPackage = global::CarApp.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderQuery = global::CarApp.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout = global::CarApp.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::CarApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::CarApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::CarApp.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Fragment = global::CarApp.Droid.Resource.Styleable.Fragment;
+			global::Rg.Plugins.Popup.Resource.Styleable.FragmentContainerView = global::CarApp.Droid.Resource.Styleable.FragmentContainerView;
+			global::Rg.Plugins.Popup.Resource.Styleable.FragmentContainerView_android_name = global::CarApp.Droid.Resource.Styleable.FragmentContainerView_android_name;
+			global::Rg.Plugins.Popup.Resource.Styleable.FragmentContainerView_android_tag = global::CarApp.Droid.Resource.Styleable.FragmentContainerView_android_tag;
+			global::Rg.Plugins.Popup.Resource.Styleable.Fragment_android_id = global::CarApp.Droid.Resource.Styleable.Fragment_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.Fragment_android_name = global::CarApp.Droid.Resource.Styleable.Fragment_android_name;
+			global::Rg.Plugins.Popup.Resource.Styleable.Fragment_android_tag = global::CarApp.Droid.Resource.Styleable.Fragment_android_tag;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor = global::CarApp.Droid.Resource.Styleable.GradientColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColorItem = global::CarApp.Droid.Resource.Styleable.GradientColorItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColorItem_android_color = global::CarApp.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColorItem_android_offset = global::CarApp.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_centerColor = global::CarApp.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_centerX = global::CarApp.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_centerY = global::CarApp.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_endColor = global::CarApp.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_endX = global::CarApp.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_endY = global::CarApp.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_gradientRadius = global::CarApp.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_startColor = global::CarApp.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_startX = global::CarApp.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_startY = global::CarApp.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_tileMode = global::CarApp.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_type = global::CarApp.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Rg.Plugins.Popup.Resource.Styleable.Insets = global::CarApp.Droid.Resource.Styleable.Insets;
+			global::Rg.Plugins.Popup.Resource.Styleable.Insets_paddingBottomSystemWindowInsets = global::CarApp.Droid.Resource.Styleable.Insets_paddingBottomSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.Insets_paddingLeftSystemWindowInsets = global::CarApp.Droid.Resource.Styleable.Insets_paddingLeftSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.Insets_paddingRightSystemWindowInsets = global::CarApp.Droid.Resource.Styleable.Insets_paddingRightSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.ItemsViewRendererTheme = global::CarApp.Droid.Resource.Styleable.ItemsViewRendererTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle = global::CarApp.Droid.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_gravity = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_orientation = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_divider = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_showDividers = global::CarApp.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Rg.Plugins.Popup.Resource.Styleable.ListPopupWindow = global::CarApp.Droid.Resource.Styleable.ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::CarApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::CarApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialog = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop = global::CarApp.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAutoCompleteTextView = global::CarApp.Droid.Resource.Styleable.MaterialAutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType = global::CarApp.Droid.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton = global::CarApp.Droid.Resource.Styleable.MaterialButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButtonToggleGroup = global::CarApp.Droid.Resource.Styleable.MaterialButtonToggleGroup;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButtonToggleGroup_checkedButton = global::CarApp.Droid.Resource.Styleable.MaterialButtonToggleGroup_checkedButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired = global::CarApp.Droid.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButtonToggleGroup_singleSelection = global::CarApp.Droid.Resource.Styleable.MaterialButtonToggleGroup_singleSelection;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_background = global::CarApp.Droid.Resource.Styleable.MaterialButton_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_checkable = global::CarApp.Droid.Resource.Styleable.MaterialButton_android_checkable;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetBottom = global::CarApp.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetLeft = global::CarApp.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetRight = global::CarApp.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetTop = global::CarApp.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_backgroundTint = global::CarApp.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_backgroundTintMode = global::CarApp.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_cornerRadius = global::CarApp.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_elevation = global::CarApp.Droid.Resource.Styleable.MaterialButton_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_icon = global::CarApp.Droid.Resource.Styleable.MaterialButton_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconGravity = global::CarApp.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconPadding = global::CarApp.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconSize = global::CarApp.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconTint = global::CarApp.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconTintMode = global::CarApp.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_rippleColor = global::CarApp.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_shapeAppearance = global::CarApp.Droid.Resource.Styleable.MaterialButton_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_shapeAppearanceOverlay = global::CarApp.Droid.Resource.Styleable.MaterialButton_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_strokeColor = global::CarApp.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_strokeWidth = global::CarApp.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar = global::CarApp.Droid.Resource.Styleable.MaterialCalendar;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_android_insetBottom = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem_android_insetBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_android_insetLeft = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem_android_insetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_android_insetRight = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem_android_insetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_android_insetTop = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem_android_insetTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemFillColor = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem_itemFillColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemStrokeColor = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemTextColor = global::CarApp.Droid.Resource.Styleable.MaterialCalendarItem_itemTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_android_windowFullscreen = global::CarApp.Droid.Resource.Styleable.MaterialCalendar_android_windowFullscreen;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_dayInvalidStyle = global::CarApp.Droid.Resource.Styleable.MaterialCalendar_dayInvalidStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_daySelectedStyle = global::CarApp.Droid.Resource.Styleable.MaterialCalendar_daySelectedStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_dayStyle = global::CarApp.Droid.Resource.Styleable.MaterialCalendar_dayStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_dayTodayStyle = global::CarApp.Droid.Resource.Styleable.MaterialCalendar_dayTodayStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_rangeFillColor = global::CarApp.Droid.Resource.Styleable.MaterialCalendar_rangeFillColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_yearSelectedStyle = global::CarApp.Droid.Resource.Styleable.MaterialCalendar_yearSelectedStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_yearStyle = global::CarApp.Droid.Resource.Styleable.MaterialCalendar_yearStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_yearTodayStyle = global::CarApp.Droid.Resource.Styleable.MaterialCalendar_yearTodayStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView = global::CarApp.Droid.Resource.Styleable.MaterialCardView;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_android_checkable = global::CarApp.Droid.Resource.Styleable.MaterialCardView_android_checkable;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_cardForegroundColor = global::CarApp.Droid.Resource.Styleable.MaterialCardView_cardForegroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_checkedIcon = global::CarApp.Droid.Resource.Styleable.MaterialCardView_checkedIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_checkedIconTint = global::CarApp.Droid.Resource.Styleable.MaterialCardView_checkedIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_rippleColor = global::CarApp.Droid.Resource.Styleable.MaterialCardView_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_shapeAppearance = global::CarApp.Droid.Resource.Styleable.MaterialCardView_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay = global::CarApp.Droid.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_state_dragged = global::CarApp.Droid.Resource.Styleable.MaterialCardView_state_dragged;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_strokeColor = global::CarApp.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_strokeWidth = global::CarApp.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCheckBox = global::CarApp.Droid.Resource.Styleable.MaterialCheckBox;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCheckBox_buttonTint = global::CarApp.Droid.Resource.Styleable.MaterialCheckBox_buttonTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors = global::CarApp.Droid.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialRadioButton = global::CarApp.Droid.Resource.Styleable.MaterialRadioButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialRadioButton_buttonTint = global::CarApp.Droid.Resource.Styleable.MaterialRadioButton_buttonTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors = global::CarApp.Droid.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialShape = global::CarApp.Droid.Resource.Styleable.MaterialShape;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialShape_shapeAppearance = global::CarApp.Droid.Resource.Styleable.MaterialShape_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialShape_shapeAppearanceOverlay = global::CarApp.Droid.Resource.Styleable.MaterialShape_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextAppearance = global::CarApp.Droid.Resource.Styleable.MaterialTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextAppearance_android_lineHeight = global::CarApp.Droid.Resource.Styleable.MaterialTextAppearance_android_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextAppearance_lineHeight = global::CarApp.Droid.Resource.Styleable.MaterialTextAppearance_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextView = global::CarApp.Droid.Resource.Styleable.MaterialTextView;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextView_android_lineHeight = global::CarApp.Droid.Resource.Styleable.MaterialTextView_android_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextView_android_textAppearance = global::CarApp.Droid.Resource.Styleable.MaterialTextView_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextView_lineHeight = global::CarApp.Droid.Resource.Styleable.MaterialTextView_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup = global::CarApp.Droid.Resource.Styleable.MenuGroup;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_checkableBehavior = global::CarApp.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_enabled = global::CarApp.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_id = global::CarApp.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_menuCategory = global::CarApp.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_orderInCategory = global::CarApp.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_visible = global::CarApp.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem = global::CarApp.Droid.Resource.Styleable.MenuItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_actionLayout = global::CarApp.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_actionProviderClass = global::CarApp.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_actionViewClass = global::CarApp.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_alphabeticModifiers = global::CarApp.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::CarApp.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_checkable = global::CarApp.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_checked = global::CarApp.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_enabled = global::CarApp.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_icon = global::CarApp.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_id = global::CarApp.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_menuCategory = global::CarApp.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_numericShortcut = global::CarApp.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_onClick = global::CarApp.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_orderInCategory = global::CarApp.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_title = global::CarApp.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_titleCondensed = global::CarApp.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_visible = global::CarApp.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_contentDescription = global::CarApp.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_iconTint = global::CarApp.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_iconTintMode = global::CarApp.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_numericModifiers = global::CarApp.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_showAsAction = global::CarApp.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_tooltipText = global::CarApp.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView = global::CarApp.Droid.Resource.Styleable.MenuView;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_headerBackground = global::CarApp.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_horizontalDivider = global::CarApp.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_itemBackground = global::CarApp.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::CarApp.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_itemTextAppearance = global::CarApp.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_verticalDivider = global::CarApp.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_windowAnimationStyle = global::CarApp.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_preserveIconSpacing = global::CarApp.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_subMenuArrow = global::CarApp.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView = global::CarApp.Droid.Resource.Styleable.NavigationView;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_android_background = global::CarApp.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::CarApp.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_android_maxWidth = global::CarApp.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_elevation = global::CarApp.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_headerLayout = global::CarApp.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemBackground = global::CarApp.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemHorizontalPadding = global::CarApp.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemIconPadding = global::CarApp.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemIconSize = global::CarApp.Droid.Resource.Styleable.NavigationView_itemIconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemIconTint = global::CarApp.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemMaxLines = global::CarApp.Droid.Resource.Styleable.NavigationView_itemMaxLines;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeAppearance = global::CarApp.Droid.Resource.Styleable.NavigationView_itemShapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay = global::CarApp.Droid.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeFillColor = global::CarApp.Droid.Resource.Styleable.NavigationView_itemShapeFillColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeInsetBottom = global::CarApp.Droid.Resource.Styleable.NavigationView_itemShapeInsetBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeInsetEnd = global::CarApp.Droid.Resource.Styleable.NavigationView_itemShapeInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeInsetStart = global::CarApp.Droid.Resource.Styleable.NavigationView_itemShapeInsetStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeInsetTop = global::CarApp.Droid.Resource.Styleable.NavigationView_itemShapeInsetTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemTextAppearance = global::CarApp.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemTextColor = global::CarApp.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_menu = global::CarApp.Droid.Resource.Styleable.NavigationView_menu;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow = global::CarApp.Droid.Resource.Styleable.PopupWindow;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindowBackgroundState = global::CarApp.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::CarApp.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::CarApp.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow_android_popupBackground = global::CarApp.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow_overlapAnchor = global::CarApp.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Rg.Plugins.Popup.Resource.Styleable.RangeSlider = global::CarApp.Droid.Resource.Styleable.RangeSlider;
+			global::Rg.Plugins.Popup.Resource.Styleable.RangeSlider_values = global::CarApp.Droid.Resource.Styleable.RangeSlider_values;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecycleListView = global::CarApp.Droid.Resource.Styleable.RecycleListView;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::CarApp.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::CarApp.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView = global::CarApp.Droid.Resource.Styleable.RecyclerView;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_android_clipToPadding = global::CarApp.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_android_descendantFocusability = global::CarApp.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_android_orientation = global::CarApp.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollEnabled = global::CarApp.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::CarApp.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::CarApp.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::CarApp.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::CarApp.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_layoutManager = global::CarApp.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_reverseLayout = global::CarApp.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_spanCount = global::CarApp.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_stackFromEnd = global::CarApp.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrimInsetsFrameLayout = global::CarApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::CarApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrollingViewBehavior_Layout = global::CarApp.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::CarApp.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrollViewRendererTheme = global::CarApp.Droid.Resource.Styleable.ScrollViewRendererTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle = global::CarApp.Droid.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView = global::CarApp.Droid.Resource.Styleable.SearchView;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_focusable = global::CarApp.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_imeOptions = global::CarApp.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_inputType = global::CarApp.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_maxWidth = global::CarApp.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_closeIcon = global::CarApp.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_commitIcon = global::CarApp.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_defaultQueryHint = global::CarApp.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_goIcon = global::CarApp.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_iconifiedByDefault = global::CarApp.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_layout = global::CarApp.Droid.Resource.Styleable.SearchView_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_queryBackground = global::CarApp.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_queryHint = global::CarApp.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_searchHintIcon = global::CarApp.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_searchIcon = global::CarApp.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_submitBackground = global::CarApp.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_suggestionRowLayout = global::CarApp.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_voiceIcon = global::CarApp.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeableImageView = global::CarApp.Droid.Resource.Styleable.ShapeableImageView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeableImageView_shapeAppearance = global::CarApp.Droid.Resource.Styleable.ShapeableImageView_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay = global::CarApp.Droid.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeableImageView_strokeColor = global::CarApp.Droid.Resource.Styleable.ShapeableImageView_strokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeableImageView_strokeWidth = global::CarApp.Droid.Resource.Styleable.ShapeableImageView_strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance = global::CarApp.Droid.Resource.Styleable.ShapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerFamily = global::CarApp.Droid.Resource.Styleable.ShapeAppearance_cornerFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft = global::CarApp.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight = global::CarApp.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft = global::CarApp.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight = global::CarApp.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerSize = global::CarApp.Droid.Resource.Styleable.ShapeAppearance_cornerSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft = global::CarApp.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight = global::CarApp.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft = global::CarApp.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerSizeTopRight = global::CarApp.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider = global::CarApp.Droid.Resource.Styleable.Slider;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_android_enabled = global::CarApp.Droid.Resource.Styleable.Slider_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_android_stepSize = global::CarApp.Droid.Resource.Styleable.Slider_android_stepSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_android_value = global::CarApp.Droid.Resource.Styleable.Slider_android_value;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_android_valueFrom = global::CarApp.Droid.Resource.Styleable.Slider_android_valueFrom;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_android_valueTo = global::CarApp.Droid.Resource.Styleable.Slider_android_valueTo;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_haloColor = global::CarApp.Droid.Resource.Styleable.Slider_haloColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_haloRadius = global::CarApp.Droid.Resource.Styleable.Slider_haloRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_labelBehavior = global::CarApp.Droid.Resource.Styleable.Slider_labelBehavior;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_labelStyle = global::CarApp.Droid.Resource.Styleable.Slider_labelStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_thumbColor = global::CarApp.Droid.Resource.Styleable.Slider_thumbColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_thumbElevation = global::CarApp.Droid.Resource.Styleable.Slider_thumbElevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_thumbRadius = global::CarApp.Droid.Resource.Styleable.Slider_thumbRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_tickColor = global::CarApp.Droid.Resource.Styleable.Slider_tickColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_tickColorActive = global::CarApp.Droid.Resource.Styleable.Slider_tickColorActive;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_tickColorInactive = global::CarApp.Droid.Resource.Styleable.Slider_tickColorInactive;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_trackColor = global::CarApp.Droid.Resource.Styleable.Slider_trackColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_trackColorActive = global::CarApp.Droid.Resource.Styleable.Slider_trackColorActive;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_trackColorInactive = global::CarApp.Droid.Resource.Styleable.Slider_trackColorInactive;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_trackHeight = global::CarApp.Droid.Resource.Styleable.Slider_trackHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar = global::CarApp.Droid.Resource.Styleable.Snackbar;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout = global::CarApp.Droid.Resource.Styleable.SnackbarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_actionTextColorAlpha = global::CarApp.Droid.Resource.Styleable.SnackbarLayout_actionTextColorAlpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_android_maxWidth = global::CarApp.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_animationMode = global::CarApp.Droid.Resource.Styleable.SnackbarLayout_animationMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha = global::CarApp.Droid.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_backgroundTint = global::CarApp.Droid.Resource.Styleable.SnackbarLayout_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_backgroundTintMode = global::CarApp.Droid.Resource.Styleable.SnackbarLayout_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_elevation = global::CarApp.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::CarApp.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar_snackbarButtonStyle = global::CarApp.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar_snackbarStyle = global::CarApp.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar_snackbarTextViewStyle = global::CarApp.Droid.Resource.Styleable.Snackbar_snackbarTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner = global::CarApp.Droid.Resource.Styleable.Spinner;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_dropDownWidth = global::CarApp.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_entries = global::CarApp.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_popupBackground = global::CarApp.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_prompt = global::CarApp.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_popupTheme = global::CarApp.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable = global::CarApp.Droid.Resource.Styleable.StateListDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawableItem = global::CarApp.Droid.Resource.Styleable.StateListDrawableItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawableItem_android_drawable = global::CarApp.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_constantSize = global::CarApp.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_dither = global::CarApp.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::CarApp.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::CarApp.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_variablePadding = global::CarApp.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_visible = global::CarApp.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwipeRefreshLayout = global::CarApp.Droid.Resource.Styleable.SwipeRefreshLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor = global::CarApp.Droid.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat = global::CarApp.Droid.Resource.Styleable.SwitchCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_android_textOff = global::CarApp.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_android_textOn = global::CarApp.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_android_thumb = global::CarApp.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_showText = global::CarApp.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_splitTrack = global::CarApp.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_switchMinWidth = global::CarApp.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_switchPadding = global::CarApp.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_switchTextAppearance = global::CarApp.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_thumbTextPadding = global::CarApp.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_thumbTint = global::CarApp.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_thumbTintMode = global::CarApp.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_track = global::CarApp.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_trackTint = global::CarApp.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_trackTintMode = global::CarApp.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchMaterial = global::CarApp.Droid.Resource.Styleable.SwitchMaterial;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchMaterial_useMaterialThemeColors = global::CarApp.Droid.Resource.Styleable.SwitchMaterial_useMaterialThemeColors;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem = global::CarApp.Droid.Resource.Styleable.TabItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem_android_icon = global::CarApp.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem_android_layout = global::CarApp.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem_android_text = global::CarApp.Droid.Resource.Styleable.TabItem_android_text;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout = global::CarApp.Droid.Resource.Styleable.TabLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabBackground = global::CarApp.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabContentStart = global::CarApp.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabGravity = global::CarApp.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIconTint = global::CarApp.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIconTintMode = global::CarApp.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicator = global::CarApp.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::CarApp.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorColor = global::CarApp.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::CarApp.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorGravity = global::CarApp.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorHeight = global::CarApp.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabInlineLabel = global::CarApp.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabMaxWidth = global::CarApp.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabMinWidth = global::CarApp.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabMode = global::CarApp.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPadding = global::CarApp.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingBottom = global::CarApp.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingEnd = global::CarApp.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingStart = global::CarApp.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingTop = global::CarApp.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabRippleColor = global::CarApp.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabSelectedTextColor = global::CarApp.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabTextAppearance = global::CarApp.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabTextColor = global::CarApp.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabUnboundedRipple = global::CarApp.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance = global::CarApp.Droid.Resource.Styleable.TextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_fontFamily = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowColor = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowDx = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowDy = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowRadius = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textColor = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textColorHint = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textColorLink = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textFontWeight = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textSize = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textStyle = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_typeface = global::CarApp.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_fontFamily = global::CarApp.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_fontVariationSettings = global::CarApp.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_textAllCaps = global::CarApp.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_textLocale = global::CarApp.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputEditText = global::CarApp.Droid.Resource.Styleable.TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled = global::CarApp.Droid.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout = global::CarApp.Droid.Resource.Styleable.TextInputLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_android_enabled = global::CarApp.Droid.Resource.Styleable.TextInputLayout_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_android_hint = global::CarApp.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_android_textColorHint = global::CarApp.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxStrokeColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxStrokeErrorColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxStrokeErrorColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused = global::CarApp.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterEnabled = global::CarApp.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterMaxLength = global::CarApp.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::CarApp.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterOverflowTextColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterTextAppearance = global::CarApp.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterTextColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_counterTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconCheckable = global::CarApp.Droid.Resource.Styleable.TextInputLayout_endIconCheckable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconContentDescription = global::CarApp.Droid.Resource.Styleable.TextInputLayout_endIconContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconDrawable = global::CarApp.Droid.Resource.Styleable.TextInputLayout_endIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconMode = global::CarApp.Droid.Resource.Styleable.TextInputLayout_endIconMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconTint = global::CarApp.Droid.Resource.Styleable.TextInputLayout_endIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconTintMode = global::CarApp.Droid.Resource.Styleable.TextInputLayout_endIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorContentDescription = global::CarApp.Droid.Resource.Styleable.TextInputLayout_errorContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorEnabled = global::CarApp.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorIconDrawable = global::CarApp.Droid.Resource.Styleable.TextInputLayout_errorIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorIconTint = global::CarApp.Droid.Resource.Styleable.TextInputLayout_errorIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorIconTintMode = global::CarApp.Droid.Resource.Styleable.TextInputLayout_errorIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorTextAppearance = global::CarApp.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorTextColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_errorTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperText = global::CarApp.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperTextEnabled = global::CarApp.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::CarApp.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperTextTextColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_helperTextTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::CarApp.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintEnabled = global::CarApp.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintTextAppearance = global::CarApp.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintTextColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_hintTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::CarApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::CarApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::CarApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleTint = global::CarApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::CarApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_placeholderText = global::CarApp.Droid.Resource.Styleable.TextInputLayout_placeholderText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_placeholderTextAppearance = global::CarApp.Droid.Resource.Styleable.TextInputLayout_placeholderTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_placeholderTextColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_placeholderTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_prefixText = global::CarApp.Droid.Resource.Styleable.TextInputLayout_prefixText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_prefixTextAppearance = global::CarApp.Droid.Resource.Styleable.TextInputLayout_prefixTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_prefixTextColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_prefixTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_shapeAppearance = global::CarApp.Droid.Resource.Styleable.TextInputLayout_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay = global::CarApp.Droid.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_startIconCheckable = global::CarApp.Droid.Resource.Styleable.TextInputLayout_startIconCheckable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_startIconContentDescription = global::CarApp.Droid.Resource.Styleable.TextInputLayout_startIconContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_startIconDrawable = global::CarApp.Droid.Resource.Styleable.TextInputLayout_startIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_startIconTint = global::CarApp.Droid.Resource.Styleable.TextInputLayout_startIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_startIconTintMode = global::CarApp.Droid.Resource.Styleable.TextInputLayout_startIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_suffixText = global::CarApp.Droid.Resource.Styleable.TextInputLayout_suffixText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_suffixTextAppearance = global::CarApp.Droid.Resource.Styleable.TextInputLayout_suffixTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_suffixTextColor = global::CarApp.Droid.Resource.Styleable.TextInputLayout_suffixTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement = global::CarApp.Droid.Resource.Styleable.ThemeEnforcement;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::CarApp.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::CarApp.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::CarApp.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar = global::CarApp.Droid.Resource.Styleable.Toolbar;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_android_gravity = global::CarApp.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_android_minHeight = global::CarApp.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_buttonGravity = global::CarApp.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_collapseContentDescription = global::CarApp.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_collapseIcon = global::CarApp.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetEnd = global::CarApp.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::CarApp.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetLeft = global::CarApp.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetRight = global::CarApp.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetStart = global::CarApp.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::CarApp.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_logo = global::CarApp.Droid.Resource.Styleable.Toolbar_logo;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_logoDescription = global::CarApp.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_maxButtonHeight = global::CarApp.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_menu = global::CarApp.Droid.Resource.Styleable.Toolbar_menu;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_navigationContentDescription = global::CarApp.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_navigationIcon = global::CarApp.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_popupTheme = global::CarApp.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_subtitle = global::CarApp.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_subtitleTextAppearance = global::CarApp.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_subtitleTextColor = global::CarApp.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_title = global::CarApp.Droid.Resource.Styleable.Toolbar_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMargin = global::CarApp.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginBottom = global::CarApp.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginEnd = global::CarApp.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMargins = global::CarApp.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginStart = global::CarApp.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginTop = global::CarApp.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleTextAppearance = global::CarApp.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleTextColor = global::CarApp.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip = global::CarApp.Droid.Resource.Styleable.Tooltip;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_layout_margin = global::CarApp.Droid.Resource.Styleable.Tooltip_android_layout_margin;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_minHeight = global::CarApp.Droid.Resource.Styleable.Tooltip_android_minHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_minWidth = global::CarApp.Droid.Resource.Styleable.Tooltip_android_minWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_padding = global::CarApp.Droid.Resource.Styleable.Tooltip_android_padding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_text = global::CarApp.Droid.Resource.Styleable.Tooltip_android_text;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_textAppearance = global::CarApp.Droid.Resource.Styleable.Tooltip_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_backgroundTint = global::CarApp.Droid.Resource.Styleable.Tooltip_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.View = global::CarApp.Droid.Resource.Styleable.View;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper = global::CarApp.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper_android_background = global::CarApp.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::CarApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::CarApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewPager2 = global::CarApp.Droid.Resource.Styleable.ViewPager2;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewPager2_android_orientation = global::CarApp.Droid.Resource.Styleable.ViewPager2_android_orientation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat = global::CarApp.Droid.Resource.Styleable.ViewStubCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat_android_id = global::CarApp.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat_android_inflatedId = global::CarApp.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat_android_layout = global::CarApp.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_android_focusable = global::CarApp.Droid.Resource.Styleable.View_android_focusable;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_android_theme = global::CarApp.Droid.Resource.Styleable.View_android_theme;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_paddingEnd = global::CarApp.Droid.Resource.Styleable.View_paddingEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_paddingStart = global::CarApp.Droid.Resource.Styleable.View_paddingStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_theme = global::CarApp.Droid.Resource.Styleable.View_theme;
+			global::Rg.Plugins.Popup.Resource.Xml.image_share_filepaths = global::CarApp.Droid.Resource.Xml.image_share_filepaths;
+			global::Rg.Plugins.Popup.Resource.Xml.standalone_badge = global::CarApp.Droid.Resource.Xml.standalone_badge;
+			global::Rg.Plugins.Popup.Resource.Xml.standalone_badge_gravity_bottom_end = global::CarApp.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
+			global::Rg.Plugins.Popup.Resource.Xml.standalone_badge_gravity_bottom_start = global::CarApp.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
+			global::Rg.Plugins.Popup.Resource.Xml.standalone_badge_gravity_top_start = global::CarApp.Droid.Resource.Xml.standalone_badge_gravity_top_start;
+			global::Rg.Plugins.Popup.Resource.Xml.standalone_badge_offset = global::CarApp.Droid.Resource.Xml.standalone_badge_offset;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar1 = global::CarApp.Droid.Resource.Drawable.Avatar1;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar10 = global::CarApp.Droid.Resource.Drawable.Avatar10;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar11 = global::CarApp.Droid.Resource.Drawable.Avatar11;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar12 = global::CarApp.Droid.Resource.Drawable.Avatar12;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar13 = global::CarApp.Droid.Resource.Drawable.Avatar13;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar14 = global::CarApp.Droid.Resource.Drawable.Avatar14;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar15 = global::CarApp.Droid.Resource.Drawable.Avatar15;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar16 = global::CarApp.Droid.Resource.Drawable.Avatar16;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar17 = global::CarApp.Droid.Resource.Drawable.Avatar17;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar18 = global::CarApp.Droid.Resource.Drawable.Avatar18;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar19 = global::CarApp.Droid.Resource.Drawable.Avatar19;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar2 = global::CarApp.Droid.Resource.Drawable.Avatar2;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar20 = global::CarApp.Droid.Resource.Drawable.Avatar20;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar21 = global::CarApp.Droid.Resource.Drawable.Avatar21;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar22 = global::CarApp.Droid.Resource.Drawable.Avatar22;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar23 = global::CarApp.Droid.Resource.Drawable.Avatar23;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar24 = global::CarApp.Droid.Resource.Drawable.Avatar24;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar25 = global::CarApp.Droid.Resource.Drawable.Avatar25;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar26 = global::CarApp.Droid.Resource.Drawable.Avatar26;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar27 = global::CarApp.Droid.Resource.Drawable.Avatar27;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar28 = global::CarApp.Droid.Resource.Drawable.Avatar28;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar29 = global::CarApp.Droid.Resource.Drawable.Avatar29;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar3 = global::CarApp.Droid.Resource.Drawable.Avatar3;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar30 = global::CarApp.Droid.Resource.Drawable.Avatar30;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar4 = global::CarApp.Droid.Resource.Drawable.Avatar4;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar5 = global::CarApp.Droid.Resource.Drawable.Avatar5;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar6 = global::CarApp.Droid.Resource.Drawable.Avatar6;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar7 = global::CarApp.Droid.Resource.Drawable.Avatar7;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar8 = global::CarApp.Droid.Resource.Drawable.Avatar8;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar9 = global::CarApp.Droid.Resource.Drawable.Avatar9;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.input_layout_drop_down_icon = global::CarApp.Droid.Resource.Drawable.input_layout_drop_down_icon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::CarApp.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::CarApp.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.clear_button_icon = global::CarApp.Droid.Resource.Drawable.clear_button_icon;
+			global::Syncfusion.ListView.XForms.Android.Resource.String.ApplicationName = global::CarApp.Droid.Resource.String.ApplicationName;
+			global::Syncfusion.ListView.XForms.Android.Resource.String.Hello = global::CarApp.Droid.Resource.String.Hello;
+			global::Syncfusion.ListView.XForms.Android.Resource.String.Load_More = global::CarApp.Droid.Resource.String.Load_More;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::CarApp.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::CarApp.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::CarApp.Droid.Resource.Attribute.fontProviderAuthority;
@@ -16538,1003 +20178,1105 @@ namespace CarApp.Droid
 			public const int abc_vector_test = 2131165268;
 			
 			// aapt resource value: 0x7F070055
-			public const int avd_hide_password = 2131165269;
+			public const int Avatar1 = 2131165269;
 			
 			// aapt resource value: 0x7F070056
-			public const int avd_show_password = 2131165270;
+			public const int Avatar10 = 2131165270;
 			
 			// aapt resource value: 0x7F070057
-			public const int btn_checkbox_checked_mtrl = 2131165271;
+			public const int Avatar11 = 2131165271;
 			
 			// aapt resource value: 0x7F070058
-			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165272;
+			public const int Avatar12 = 2131165272;
 			
 			// aapt resource value: 0x7F070059
-			public const int btn_checkbox_unchecked_mtrl = 2131165273;
+			public const int Avatar13 = 2131165273;
 			
 			// aapt resource value: 0x7F07005A
-			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165274;
+			public const int Avatar14 = 2131165274;
 			
 			// aapt resource value: 0x7F07005B
-			public const int btn_radio_off_mtrl = 2131165275;
+			public const int Avatar15 = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int btn_radio_off_to_on_mtrl_animation = 2131165276;
+			public const int Avatar16 = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int btn_radio_on_mtrl = 2131165277;
+			public const int Avatar17 = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int btn_radio_on_to_off_mtrl_animation = 2131165278;
+			public const int Avatar18 = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int car_logo = 2131165279;
+			public const int Avatar19 = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int common_full_open_on_phone = 2131165280;
+			public const int Avatar2 = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int common_google_signin_btn_icon_dark = 2131165281;
+			public const int Avatar20 = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int common_google_signin_btn_icon_dark_focused = 2131165282;
+			public const int Avatar21 = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int common_google_signin_btn_icon_dark_normal = 2131165283;
+			public const int Avatar22 = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int common_google_signin_btn_icon_dark_normal_background = 2131165284;
+			public const int Avatar23 = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int common_google_signin_btn_icon_disabled = 2131165285;
+			public const int Avatar24 = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int common_google_signin_btn_icon_light = 2131165286;
+			public const int Avatar25 = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int common_google_signin_btn_icon_light_focused = 2131165287;
+			public const int Avatar26 = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int common_google_signin_btn_icon_light_normal = 2131165288;
+			public const int Avatar27 = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int common_google_signin_btn_icon_light_normal_background = 2131165289;
+			public const int Avatar28 = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int common_google_signin_btn_text_dark = 2131165290;
+			public const int Avatar29 = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int common_google_signin_btn_text_dark_focused = 2131165291;
+			public const int Avatar3 = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int common_google_signin_btn_text_dark_normal = 2131165292;
+			public const int Avatar30 = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int common_google_signin_btn_text_dark_normal_background = 2131165293;
+			public const int Avatar4 = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int common_google_signin_btn_text_disabled = 2131165294;
+			public const int Avatar5 = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int common_google_signin_btn_text_light = 2131165295;
+			public const int Avatar6 = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int common_google_signin_btn_text_light_focused = 2131165296;
+			public const int Avatar7 = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int common_google_signin_btn_text_light_normal = 2131165297;
+			public const int Avatar8 = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int common_google_signin_btn_text_light_normal_background = 2131165298;
+			public const int Avatar9 = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int design_fab_background = 2131165299;
+			public const int avd_hide_password = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int design_ic_visibility = 2131165300;
+			public const int avd_show_password = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int design_ic_visibility_off = 2131165301;
+			public const int btn_checkbox_checked_mtrl = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int design_password_eye = 2131165302;
+			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int design_snackbar_background = 2131165303;
+			public const int btn_checkbox_unchecked_mtrl = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int flag_ad = 2131165304;
+			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int flag_ae = 2131165305;
+			public const int btn_radio_off_mtrl = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int flag_af = 2131165306;
+			public const int btn_radio_off_to_on_mtrl_animation = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int flag_ag = 2131165307;
+			public const int btn_radio_on_mtrl = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int flag_ai = 2131165308;
+			public const int btn_radio_on_to_off_mtrl_animation = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int flag_al = 2131165309;
+			public const int car_logo = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int flag_am = 2131165310;
+			public const int clear_button_icon = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int flag_an = 2131165311;
+			public const int common_full_open_on_phone = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int flag_ao = 2131165312;
+			public const int common_google_signin_btn_icon_dark = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int flag_aq = 2131165313;
+			public const int common_google_signin_btn_icon_dark_focused = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int flag_ar = 2131165314;
+			public const int common_google_signin_btn_icon_dark_normal = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int flag_as = 2131165315;
+			public const int common_google_signin_btn_icon_dark_normal_background = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int flag_at = 2131165316;
+			public const int common_google_signin_btn_icon_disabled = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int flag_au = 2131165317;
+			public const int common_google_signin_btn_icon_light = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int flag_aw = 2131165318;
+			public const int common_google_signin_btn_icon_light_focused = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int flag_ax = 2131165319;
+			public const int common_google_signin_btn_icon_light_normal = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int flag_az = 2131165320;
+			public const int common_google_signin_btn_icon_light_normal_background = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int flag_ba = 2131165321;
+			public const int common_google_signin_btn_text_dark = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int flag_bb = 2131165322;
+			public const int common_google_signin_btn_text_dark_focused = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int flag_bd = 2131165323;
+			public const int common_google_signin_btn_text_dark_normal = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int flag_be = 2131165324;
+			public const int common_google_signin_btn_text_dark_normal_background = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int flag_bf = 2131165325;
+			public const int common_google_signin_btn_text_disabled = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int flag_bg = 2131165326;
+			public const int common_google_signin_btn_text_light = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int flag_bh = 2131165327;
+			public const int common_google_signin_btn_text_light_focused = 2131165327;
 			
 			// aapt resource value: 0x7F070090
-			public const int flag_bi = 2131165328;
+			public const int common_google_signin_btn_text_light_normal = 2131165328;
 			
 			// aapt resource value: 0x7F070091
-			public const int flag_bj = 2131165329;
+			public const int common_google_signin_btn_text_light_normal_background = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int flag_bl = 2131165330;
+			public const int design_fab_background = 2131165330;
 			
 			// aapt resource value: 0x7F070093
-			public const int flag_bm = 2131165331;
+			public const int design_ic_visibility = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int flag_bn = 2131165332;
+			public const int design_ic_visibility_off = 2131165332;
 			
 			// aapt resource value: 0x7F070095
-			public const int flag_bo = 2131165333;
+			public const int design_password_eye = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int flag_bq = 2131165334;
+			public const int design_snackbar_background = 2131165334;
 			
 			// aapt resource value: 0x7F070097
-			public const int flag_br = 2131165335;
+			public const int flag_ad = 2131165335;
 			
 			// aapt resource value: 0x7F070098
-			public const int flag_bs = 2131165336;
+			public const int flag_ae = 2131165336;
 			
 			// aapt resource value: 0x7F070099
-			public const int flag_bt = 2131165337;
+			public const int flag_af = 2131165337;
 			
 			// aapt resource value: 0x7F07009A
-			public const int flag_bv = 2131165338;
+			public const int flag_ag = 2131165338;
 			
 			// aapt resource value: 0x7F07009B
-			public const int flag_bw = 2131165339;
+			public const int flag_ai = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int flag_by = 2131165340;
+			public const int flag_al = 2131165340;
 			
 			// aapt resource value: 0x7F07009D
-			public const int flag_bz = 2131165341;
+			public const int flag_am = 2131165341;
 			
 			// aapt resource value: 0x7F07009E
-			public const int flag_ca = 2131165342;
+			public const int flag_an = 2131165342;
 			
 			// aapt resource value: 0x7F07009F
-			public const int flag_cc = 2131165343;
+			public const int flag_ao = 2131165343;
 			
 			// aapt resource value: 0x7F0700A0
-			public const int flag_cd = 2131165344;
+			public const int flag_aq = 2131165344;
 			
 			// aapt resource value: 0x7F0700A1
-			public const int flag_cf = 2131165345;
+			public const int flag_ar = 2131165345;
 			
 			// aapt resource value: 0x7F0700A2
-			public const int flag_cg = 2131165346;
+			public const int flag_as = 2131165346;
 			
 			// aapt resource value: 0x7F0700A3
-			public const int flag_ch = 2131165347;
+			public const int flag_at = 2131165347;
 			
 			// aapt resource value: 0x7F0700A4
-			public const int flag_ci = 2131165348;
+			public const int flag_au = 2131165348;
 			
 			// aapt resource value: 0x7F0700A5
-			public const int flag_ck = 2131165349;
+			public const int flag_aw = 2131165349;
 			
 			// aapt resource value: 0x7F0700A6
-			public const int flag_cl = 2131165350;
+			public const int flag_ax = 2131165350;
 			
 			// aapt resource value: 0x7F0700A7
-			public const int flag_cm = 2131165351;
+			public const int flag_az = 2131165351;
 			
 			// aapt resource value: 0x7F0700A8
-			public const int flag_cn = 2131165352;
+			public const int flag_ba = 2131165352;
 			
 			// aapt resource value: 0x7F0700A9
-			public const int flag_co = 2131165353;
+			public const int flag_bb = 2131165353;
 			
 			// aapt resource value: 0x7F0700AA
-			public const int flag_cr = 2131165354;
+			public const int flag_bd = 2131165354;
 			
 			// aapt resource value: 0x7F0700AB
-			public const int flag_cu = 2131165355;
+			public const int flag_be = 2131165355;
 			
 			// aapt resource value: 0x7F0700AC
-			public const int flag_cv = 2131165356;
+			public const int flag_bf = 2131165356;
 			
 			// aapt resource value: 0x7F0700AD
-			public const int flag_cw = 2131165357;
+			public const int flag_bg = 2131165357;
 			
 			// aapt resource value: 0x7F0700AE
-			public const int flag_cx = 2131165358;
+			public const int flag_bh = 2131165358;
 			
 			// aapt resource value: 0x7F0700AF
-			public const int flag_cy = 2131165359;
+			public const int flag_bi = 2131165359;
 			
 			// aapt resource value: 0x7F0700B0
-			public const int flag_cz = 2131165360;
+			public const int flag_bj = 2131165360;
 			
 			// aapt resource value: 0x7F0700B1
-			public const int flag_de = 2131165361;
+			public const int flag_bl = 2131165361;
 			
 			// aapt resource value: 0x7F0700B2
-			public const int flag_dj = 2131165362;
+			public const int flag_bm = 2131165362;
 			
 			// aapt resource value: 0x7F0700B3
-			public const int flag_dk = 2131165363;
+			public const int flag_bn = 2131165363;
 			
 			// aapt resource value: 0x7F0700B4
-			public const int flag_dm = 2131165364;
+			public const int flag_bo = 2131165364;
 			
 			// aapt resource value: 0x7F0700B5
-			public const int flag_do = 2131165365;
+			public const int flag_bq = 2131165365;
 			
 			// aapt resource value: 0x7F0700B6
-			public const int flag_dz = 2131165366;
+			public const int flag_br = 2131165366;
 			
 			// aapt resource value: 0x7F0700B7
-			public const int flag_ec = 2131165367;
+			public const int flag_bs = 2131165367;
 			
 			// aapt resource value: 0x7F0700B8
-			public const int flag_ee = 2131165368;
+			public const int flag_bt = 2131165368;
 			
 			// aapt resource value: 0x7F0700B9
-			public const int flag_eg = 2131165369;
+			public const int flag_bv = 2131165369;
 			
 			// aapt resource value: 0x7F0700BA
-			public const int flag_eh = 2131165370;
+			public const int flag_bw = 2131165370;
 			
 			// aapt resource value: 0x7F0700BB
-			public const int flag_er = 2131165371;
+			public const int flag_by = 2131165371;
 			
 			// aapt resource value: 0x7F0700BC
-			public const int flag_es = 2131165372;
+			public const int flag_bz = 2131165372;
 			
 			// aapt resource value: 0x7F0700BD
-			public const int flag_et = 2131165373;
+			public const int flag_ca = 2131165373;
 			
 			// aapt resource value: 0x7F0700BE
-			public const int flag_eu = 2131165374;
+			public const int flag_cc = 2131165374;
 			
 			// aapt resource value: 0x7F0700BF
-			public const int flag_fi = 2131165375;
+			public const int flag_cd = 2131165375;
 			
 			// aapt resource value: 0x7F0700C0
-			public const int flag_fj = 2131165376;
+			public const int flag_cf = 2131165376;
 			
 			// aapt resource value: 0x7F0700C1
-			public const int flag_fk = 2131165377;
+			public const int flag_cg = 2131165377;
 			
 			// aapt resource value: 0x7F0700C2
-			public const int flag_fm = 2131165378;
+			public const int flag_ch = 2131165378;
 			
 			// aapt resource value: 0x7F0700C3
-			public const int flag_fo = 2131165379;
+			public const int flag_ci = 2131165379;
 			
 			// aapt resource value: 0x7F0700C4
-			public const int flag_fr = 2131165380;
+			public const int flag_ck = 2131165380;
 			
 			// aapt resource value: 0x7F0700C5
-			public const int flag_ga = 2131165381;
+			public const int flag_cl = 2131165381;
 			
 			// aapt resource value: 0x7F0700C6
-			public const int flag_gb = 2131165382;
+			public const int flag_cm = 2131165382;
 			
 			// aapt resource value: 0x7F0700C7
-			public const int flag_gd = 2131165383;
+			public const int flag_cn = 2131165383;
 			
 			// aapt resource value: 0x7F0700C8
-			public const int flag_ge = 2131165384;
+			public const int flag_co = 2131165384;
 			
 			// aapt resource value: 0x7F0700C9
-			public const int flag_gf = 2131165385;
+			public const int flag_cr = 2131165385;
 			
 			// aapt resource value: 0x7F0700CA
-			public const int flag_gg = 2131165386;
+			public const int flag_cu = 2131165386;
 			
 			// aapt resource value: 0x7F0700CB
-			public const int flag_gh = 2131165387;
+			public const int flag_cv = 2131165387;
 			
 			// aapt resource value: 0x7F0700CC
-			public const int flag_gi = 2131165388;
+			public const int flag_cw = 2131165388;
 			
 			// aapt resource value: 0x7F0700CD
-			public const int flag_gl = 2131165389;
+			public const int flag_cx = 2131165389;
 			
 			// aapt resource value: 0x7F0700CE
-			public const int flag_gm = 2131165390;
+			public const int flag_cy = 2131165390;
 			
 			// aapt resource value: 0x7F0700CF
-			public const int flag_gn = 2131165391;
+			public const int flag_cz = 2131165391;
 			
 			// aapt resource value: 0x7F0700D0
-			public const int flag_gp = 2131165392;
+			public const int flag_de = 2131165392;
 			
 			// aapt resource value: 0x7F0700D1
-			public const int flag_gq = 2131165393;
+			public const int flag_dj = 2131165393;
 			
 			// aapt resource value: 0x7F0700D2
-			public const int flag_gr = 2131165394;
+			public const int flag_dk = 2131165394;
 			
 			// aapt resource value: 0x7F0700D3
-			public const int flag_gs = 2131165395;
+			public const int flag_dm = 2131165395;
 			
 			// aapt resource value: 0x7F0700D4
-			public const int flag_gt = 2131165396;
+			public const int flag_do = 2131165396;
 			
 			// aapt resource value: 0x7F0700D5
-			public const int flag_gu = 2131165397;
+			public const int flag_dz = 2131165397;
 			
 			// aapt resource value: 0x7F0700D6
-			public const int flag_gw = 2131165398;
+			public const int flag_ec = 2131165398;
 			
 			// aapt resource value: 0x7F0700D7
-			public const int flag_gy = 2131165399;
+			public const int flag_ee = 2131165399;
 			
 			// aapt resource value: 0x7F0700D8
-			public const int flag_hk = 2131165400;
+			public const int flag_eg = 2131165400;
 			
 			// aapt resource value: 0x7F0700D9
-			public const int flag_hm = 2131165401;
+			public const int flag_eh = 2131165401;
 			
 			// aapt resource value: 0x7F0700DA
-			public const int flag_hn = 2131165402;
+			public const int flag_er = 2131165402;
 			
 			// aapt resource value: 0x7F0700DB
-			public const int flag_hr = 2131165403;
+			public const int flag_es = 2131165403;
 			
 			// aapt resource value: 0x7F0700DC
-			public const int flag_ht = 2131165404;
+			public const int flag_et = 2131165404;
 			
 			// aapt resource value: 0x7F0700DD
-			public const int flag_hu = 2131165405;
+			public const int flag_eu = 2131165405;
 			
 			// aapt resource value: 0x7F0700DE
-			public const int flag_id = 2131165406;
+			public const int flag_fi = 2131165406;
 			
 			// aapt resource value: 0x7F0700DF
-			public const int flag_ie = 2131165407;
+			public const int flag_fj = 2131165407;
 			
 			// aapt resource value: 0x7F0700E0
-			public const int flag_il = 2131165408;
+			public const int flag_fk = 2131165408;
 			
 			// aapt resource value: 0x7F0700E1
-			public const int flag_im = 2131165409;
+			public const int flag_fm = 2131165409;
 			
 			// aapt resource value: 0x7F0700E2
-			public const int flag_in = 2131165410;
+			public const int flag_fo = 2131165410;
 			
 			// aapt resource value: 0x7F0700E3
-			public const int flag_io = 2131165411;
+			public const int flag_fr = 2131165411;
 			
 			// aapt resource value: 0x7F0700E4
-			public const int flag_iq = 2131165412;
+			public const int flag_ga = 2131165412;
 			
 			// aapt resource value: 0x7F0700E5
-			public const int flag_ir = 2131165413;
+			public const int flag_gb = 2131165413;
 			
 			// aapt resource value: 0x7F0700E6
-			public const int flag_is = 2131165414;
+			public const int flag_gd = 2131165414;
 			
 			// aapt resource value: 0x7F0700E7
-			public const int flag_it = 2131165415;
+			public const int flag_ge = 2131165415;
 			
 			// aapt resource value: 0x7F0700E8
-			public const int flag_je = 2131165416;
+			public const int flag_gf = 2131165416;
 			
 			// aapt resource value: 0x7F0700E9
-			public const int flag_jm = 2131165417;
+			public const int flag_gg = 2131165417;
 			
 			// aapt resource value: 0x7F0700EA
-			public const int flag_jo = 2131165418;
+			public const int flag_gh = 2131165418;
 			
 			// aapt resource value: 0x7F0700EB
-			public const int flag_jp = 2131165419;
+			public const int flag_gi = 2131165419;
 			
 			// aapt resource value: 0x7F0700EC
-			public const int flag_ke = 2131165420;
+			public const int flag_gl = 2131165420;
 			
 			// aapt resource value: 0x7F0700ED
-			public const int flag_kg = 2131165421;
+			public const int flag_gm = 2131165421;
 			
 			// aapt resource value: 0x7F0700EE
-			public const int flag_kh = 2131165422;
+			public const int flag_gn = 2131165422;
 			
 			// aapt resource value: 0x7F0700EF
-			public const int flag_ki = 2131165423;
+			public const int flag_gp = 2131165423;
 			
 			// aapt resource value: 0x7F0700F0
-			public const int flag_km = 2131165424;
+			public const int flag_gq = 2131165424;
 			
 			// aapt resource value: 0x7F0700F1
-			public const int flag_kn = 2131165425;
+			public const int flag_gr = 2131165425;
 			
 			// aapt resource value: 0x7F0700F2
-			public const int flag_kp = 2131165426;
+			public const int flag_gs = 2131165426;
 			
 			// aapt resource value: 0x7F0700F3
-			public const int flag_kr = 2131165427;
+			public const int flag_gt = 2131165427;
 			
 			// aapt resource value: 0x7F0700F4
-			public const int flag_kw = 2131165428;
+			public const int flag_gu = 2131165428;
 			
 			// aapt resource value: 0x7F0700F5
-			public const int flag_ky = 2131165429;
+			public const int flag_gw = 2131165429;
 			
 			// aapt resource value: 0x7F0700F6
-			public const int flag_kz = 2131165430;
+			public const int flag_gy = 2131165430;
 			
 			// aapt resource value: 0x7F0700F7
-			public const int flag_la = 2131165431;
+			public const int flag_hk = 2131165431;
 			
 			// aapt resource value: 0x7F0700F8
-			public const int flag_lb = 2131165432;
+			public const int flag_hm = 2131165432;
 			
 			// aapt resource value: 0x7F0700F9
-			public const int flag_lc = 2131165433;
+			public const int flag_hn = 2131165433;
 			
 			// aapt resource value: 0x7F0700FA
-			public const int flag_li = 2131165434;
+			public const int flag_hr = 2131165434;
 			
 			// aapt resource value: 0x7F0700FB
-			public const int flag_lk = 2131165435;
+			public const int flag_ht = 2131165435;
 			
 			// aapt resource value: 0x7F0700FC
-			public const int flag_lr = 2131165436;
+			public const int flag_hu = 2131165436;
 			
 			// aapt resource value: 0x7F0700FD
-			public const int flag_ls = 2131165437;
+			public const int flag_id = 2131165437;
 			
 			// aapt resource value: 0x7F0700FE
-			public const int flag_lt = 2131165438;
+			public const int flag_ie = 2131165438;
 			
 			// aapt resource value: 0x7F0700FF
-			public const int flag_lu = 2131165439;
+			public const int flag_il = 2131165439;
 			
 			// aapt resource value: 0x7F070100
-			public const int flag_lv = 2131165440;
+			public const int flag_im = 2131165440;
 			
 			// aapt resource value: 0x7F070101
-			public const int flag_ly = 2131165441;
+			public const int flag_in = 2131165441;
 			
 			// aapt resource value: 0x7F070102
-			public const int flag_ma = 2131165442;
+			public const int flag_io = 2131165442;
 			
 			// aapt resource value: 0x7F070103
-			public const int flag_mc = 2131165443;
+			public const int flag_iq = 2131165443;
 			
 			// aapt resource value: 0x7F070104
-			public const int flag_md = 2131165444;
+			public const int flag_ir = 2131165444;
 			
 			// aapt resource value: 0x7F070105
-			public const int flag_me = 2131165445;
+			public const int flag_is = 2131165445;
 			
 			// aapt resource value: 0x7F070106
-			public const int flag_mf = 2131165446;
+			public const int flag_it = 2131165446;
 			
 			// aapt resource value: 0x7F070107
-			public const int flag_mg = 2131165447;
+			public const int flag_je = 2131165447;
 			
 			// aapt resource value: 0x7F070108
-			public const int flag_mh = 2131165448;
+			public const int flag_jm = 2131165448;
 			
 			// aapt resource value: 0x7F070109
-			public const int flag_mk = 2131165449;
+			public const int flag_jo = 2131165449;
 			
 			// aapt resource value: 0x7F07010A
-			public const int flag_ml = 2131165450;
+			public const int flag_jp = 2131165450;
 			
 			// aapt resource value: 0x7F07010B
-			public const int flag_mm = 2131165451;
+			public const int flag_ke = 2131165451;
 			
 			// aapt resource value: 0x7F07010C
-			public const int flag_mn = 2131165452;
+			public const int flag_kg = 2131165452;
 			
 			// aapt resource value: 0x7F07010D
-			public const int flag_mo = 2131165453;
+			public const int flag_kh = 2131165453;
 			
 			// aapt resource value: 0x7F07010E
-			public const int flag_mp = 2131165454;
+			public const int flag_ki = 2131165454;
 			
 			// aapt resource value: 0x7F07010F
-			public const int flag_mq = 2131165455;
+			public const int flag_km = 2131165455;
 			
 			// aapt resource value: 0x7F070110
-			public const int flag_mr = 2131165456;
+			public const int flag_kn = 2131165456;
 			
 			// aapt resource value: 0x7F070111
-			public const int flag_ms = 2131165457;
+			public const int flag_kp = 2131165457;
 			
 			// aapt resource value: 0x7F070112
-			public const int flag_mt = 2131165458;
+			public const int flag_kr = 2131165458;
 			
 			// aapt resource value: 0x7F070113
-			public const int flag_mu = 2131165459;
+			public const int flag_kw = 2131165459;
 			
 			// aapt resource value: 0x7F070114
-			public const int flag_mv = 2131165460;
+			public const int flag_ky = 2131165460;
 			
 			// aapt resource value: 0x7F070115
-			public const int flag_mw = 2131165461;
+			public const int flag_kz = 2131165461;
 			
 			// aapt resource value: 0x7F070116
-			public const int flag_mx = 2131165462;
+			public const int flag_la = 2131165462;
 			
 			// aapt resource value: 0x7F070117
-			public const int flag_my = 2131165463;
+			public const int flag_lb = 2131165463;
 			
 			// aapt resource value: 0x7F070118
-			public const int flag_mz = 2131165464;
+			public const int flag_lc = 2131165464;
 			
 			// aapt resource value: 0x7F070119
-			public const int flag_na = 2131165465;
+			public const int flag_li = 2131165465;
 			
 			// aapt resource value: 0x7F07011A
-			public const int flag_nc = 2131165466;
+			public const int flag_lk = 2131165466;
 			
 			// aapt resource value: 0x7F07011B
-			public const int flag_ne = 2131165467;
+			public const int flag_lr = 2131165467;
 			
 			// aapt resource value: 0x7F07011C
-			public const int flag_nf = 2131165468;
+			public const int flag_ls = 2131165468;
 			
 			// aapt resource value: 0x7F07011D
-			public const int flag_ng = 2131165469;
+			public const int flag_lt = 2131165469;
 			
 			// aapt resource value: 0x7F07011E
-			public const int flag_ni = 2131165470;
+			public const int flag_lu = 2131165470;
 			
 			// aapt resource value: 0x7F07011F
-			public const int flag_nl = 2131165471;
+			public const int flag_lv = 2131165471;
 			
 			// aapt resource value: 0x7F070120
-			public const int flag_no = 2131165472;
+			public const int flag_ly = 2131165472;
 			
 			// aapt resource value: 0x7F070121
-			public const int flag_np = 2131165473;
+			public const int flag_ma = 2131165473;
 			
 			// aapt resource value: 0x7F070122
-			public const int flag_nr = 2131165474;
+			public const int flag_mc = 2131165474;
 			
 			// aapt resource value: 0x7F070123
-			public const int flag_nu = 2131165475;
+			public const int flag_md = 2131165475;
 			
 			// aapt resource value: 0x7F070124
-			public const int flag_nz = 2131165476;
+			public const int flag_me = 2131165476;
 			
 			// aapt resource value: 0x7F070125
-			public const int flag_om = 2131165477;
+			public const int flag_mf = 2131165477;
 			
 			// aapt resource value: 0x7F070126
-			public const int flag_pa = 2131165478;
+			public const int flag_mg = 2131165478;
 			
 			// aapt resource value: 0x7F070127
-			public const int flag_pe = 2131165479;
+			public const int flag_mh = 2131165479;
 			
 			// aapt resource value: 0x7F070128
-			public const int flag_pf = 2131165480;
+			public const int flag_mk = 2131165480;
 			
 			// aapt resource value: 0x7F070129
-			public const int flag_pg = 2131165481;
+			public const int flag_ml = 2131165481;
 			
 			// aapt resource value: 0x7F07012A
-			public const int flag_ph = 2131165482;
+			public const int flag_mm = 2131165482;
 			
 			// aapt resource value: 0x7F07012B
-			public const int flag_pk = 2131165483;
+			public const int flag_mn = 2131165483;
 			
 			// aapt resource value: 0x7F07012C
-			public const int flag_pl = 2131165484;
+			public const int flag_mo = 2131165484;
 			
 			// aapt resource value: 0x7F07012D
-			public const int flag_pm = 2131165485;
+			public const int flag_mp = 2131165485;
 			
 			// aapt resource value: 0x7F07012E
-			public const int flag_pn = 2131165486;
+			public const int flag_mq = 2131165486;
 			
 			// aapt resource value: 0x7F07012F
-			public const int flag_pr = 2131165487;
+			public const int flag_mr = 2131165487;
 			
 			// aapt resource value: 0x7F070130
-			public const int flag_ps = 2131165488;
+			public const int flag_ms = 2131165488;
 			
 			// aapt resource value: 0x7F070131
-			public const int flag_pt = 2131165489;
+			public const int flag_mt = 2131165489;
 			
 			// aapt resource value: 0x7F070132
-			public const int flag_pw = 2131165490;
+			public const int flag_mu = 2131165490;
 			
 			// aapt resource value: 0x7F070133
-			public const int flag_py = 2131165491;
+			public const int flag_mv = 2131165491;
 			
 			// aapt resource value: 0x7F070134
-			public const int flag_qa = 2131165492;
+			public const int flag_mw = 2131165492;
 			
 			// aapt resource value: 0x7F070135
-			public const int flag_re = 2131165493;
+			public const int flag_mx = 2131165493;
 			
 			// aapt resource value: 0x7F070136
-			public const int flag_ro = 2131165494;
+			public const int flag_my = 2131165494;
 			
 			// aapt resource value: 0x7F070137
-			public const int flag_rs = 2131165495;
+			public const int flag_mz = 2131165495;
 			
 			// aapt resource value: 0x7F070138
-			public const int flag_ru = 2131165496;
+			public const int flag_na = 2131165496;
 			
 			// aapt resource value: 0x7F070139
-			public const int flag_rw = 2131165497;
+			public const int flag_nc = 2131165497;
 			
 			// aapt resource value: 0x7F07013A
-			public const int flag_sa = 2131165498;
+			public const int flag_ne = 2131165498;
 			
 			// aapt resource value: 0x7F07013B
-			public const int flag_sb = 2131165499;
+			public const int flag_nf = 2131165499;
 			
 			// aapt resource value: 0x7F07013C
-			public const int flag_sc = 2131165500;
+			public const int flag_ng = 2131165500;
 			
 			// aapt resource value: 0x7F07013D
-			public const int flag_sd = 2131165501;
+			public const int flag_ni = 2131165501;
 			
 			// aapt resource value: 0x7F07013E
-			public const int flag_se = 2131165502;
+			public const int flag_nl = 2131165502;
 			
 			// aapt resource value: 0x7F07013F
-			public const int flag_sg = 2131165503;
+			public const int flag_no = 2131165503;
 			
 			// aapt resource value: 0x7F070140
-			public const int flag_sh = 2131165504;
+			public const int flag_np = 2131165504;
 			
 			// aapt resource value: 0x7F070141
-			public const int flag_si = 2131165505;
+			public const int flag_nr = 2131165505;
 			
 			// aapt resource value: 0x7F070142
-			public const int flag_sj = 2131165506;
+			public const int flag_nu = 2131165506;
 			
 			// aapt resource value: 0x7F070143
-			public const int flag_sk = 2131165507;
+			public const int flag_nz = 2131165507;
 			
 			// aapt resource value: 0x7F070144
-			public const int flag_sl = 2131165508;
+			public const int flag_om = 2131165508;
 			
 			// aapt resource value: 0x7F070145
-			public const int flag_sm = 2131165509;
+			public const int flag_pa = 2131165509;
 			
 			// aapt resource value: 0x7F070146
-			public const int flag_sn = 2131165510;
+			public const int flag_pe = 2131165510;
 			
 			// aapt resource value: 0x7F070147
-			public const int flag_so = 2131165511;
+			public const int flag_pf = 2131165511;
 			
 			// aapt resource value: 0x7F070148
-			public const int flag_sr = 2131165512;
+			public const int flag_pg = 2131165512;
 			
 			// aapt resource value: 0x7F070149
-			public const int flag_ss = 2131165513;
+			public const int flag_ph = 2131165513;
 			
 			// aapt resource value: 0x7F07014A
-			public const int flag_st = 2131165514;
+			public const int flag_pk = 2131165514;
 			
 			// aapt resource value: 0x7F07014B
-			public const int flag_sv = 2131165515;
+			public const int flag_pl = 2131165515;
 			
 			// aapt resource value: 0x7F07014C
-			public const int flag_sx = 2131165516;
+			public const int flag_pm = 2131165516;
 			
 			// aapt resource value: 0x7F07014D
-			public const int flag_sy = 2131165517;
+			public const int flag_pn = 2131165517;
 			
 			// aapt resource value: 0x7F07014E
-			public const int flag_sz = 2131165518;
+			public const int flag_pr = 2131165518;
 			
 			// aapt resource value: 0x7F07014F
-			public const int flag_tc = 2131165519;
+			public const int flag_ps = 2131165519;
 			
 			// aapt resource value: 0x7F070150
-			public const int flag_td = 2131165520;
+			public const int flag_pt = 2131165520;
 			
 			// aapt resource value: 0x7F070151
-			public const int flag_tf = 2131165521;
+			public const int flag_pw = 2131165521;
 			
 			// aapt resource value: 0x7F070152
-			public const int flag_tg = 2131165522;
+			public const int flag_py = 2131165522;
 			
 			// aapt resource value: 0x7F070153
-			public const int flag_th = 2131165523;
+			public const int flag_qa = 2131165523;
 			
 			// aapt resource value: 0x7F070154
-			public const int flag_tj = 2131165524;
+			public const int flag_re = 2131165524;
 			
 			// aapt resource value: 0x7F070155
-			public const int flag_tk = 2131165525;
+			public const int flag_ro = 2131165525;
 			
 			// aapt resource value: 0x7F070156
-			public const int flag_tl = 2131165526;
+			public const int flag_rs = 2131165526;
 			
 			// aapt resource value: 0x7F070157
-			public const int flag_tm = 2131165527;
+			public const int flag_ru = 2131165527;
 			
 			// aapt resource value: 0x7F070158
-			public const int flag_tn = 2131165528;
+			public const int flag_rw = 2131165528;
 			
 			// aapt resource value: 0x7F070159
-			public const int flag_to = 2131165529;
+			public const int flag_sa = 2131165529;
 			
 			// aapt resource value: 0x7F07015A
-			public const int flag_tr = 2131165530;
+			public const int flag_sb = 2131165530;
 			
 			// aapt resource value: 0x7F07015B
-			public const int flag_tt = 2131165531;
+			public const int flag_sc = 2131165531;
 			
 			// aapt resource value: 0x7F07015C
-			public const int flag_tv = 2131165532;
+			public const int flag_sd = 2131165532;
 			
 			// aapt resource value: 0x7F07015D
-			public const int flag_tw = 2131165533;
+			public const int flag_se = 2131165533;
 			
 			// aapt resource value: 0x7F07015E
-			public const int flag_tz = 2131165534;
+			public const int flag_sg = 2131165534;
 			
 			// aapt resource value: 0x7F07015F
-			public const int flag_ua = 2131165535;
+			public const int flag_sh = 2131165535;
 			
 			// aapt resource value: 0x7F070160
-			public const int flag_ug = 2131165536;
+			public const int flag_si = 2131165536;
 			
 			// aapt resource value: 0x7F070161
-			public const int flag_um = 2131165537;
+			public const int flag_sj = 2131165537;
 			
 			// aapt resource value: 0x7F070162
-			public const int flag_us = 2131165538;
+			public const int flag_sk = 2131165538;
 			
 			// aapt resource value: 0x7F070163
-			public const int flag_uy = 2131165539;
+			public const int flag_sl = 2131165539;
 			
 			// aapt resource value: 0x7F070164
-			public const int flag_uz = 2131165540;
+			public const int flag_sm = 2131165540;
 			
 			// aapt resource value: 0x7F070165
-			public const int flag_va = 2131165541;
+			public const int flag_sn = 2131165541;
 			
 			// aapt resource value: 0x7F070166
-			public const int flag_vc = 2131165542;
+			public const int flag_so = 2131165542;
 			
 			// aapt resource value: 0x7F070167
-			public const int flag_ve = 2131165543;
+			public const int flag_sr = 2131165543;
 			
 			// aapt resource value: 0x7F070168
-			public const int flag_vg = 2131165544;
+			public const int flag_ss = 2131165544;
 			
 			// aapt resource value: 0x7F070169
-			public const int flag_vi = 2131165545;
+			public const int flag_st = 2131165545;
 			
 			// aapt resource value: 0x7F07016A
-			public const int flag_vn = 2131165546;
+			public const int flag_sv = 2131165546;
 			
 			// aapt resource value: 0x7F07016B
-			public const int flag_vu = 2131165547;
+			public const int flag_sx = 2131165547;
 			
 			// aapt resource value: 0x7F07016C
-			public const int flag_wf = 2131165548;
+			public const int flag_sy = 2131165548;
 			
 			// aapt resource value: 0x7F07016D
-			public const int flag_ws = 2131165549;
+			public const int flag_sz = 2131165549;
 			
 			// aapt resource value: 0x7F07016E
-			public const int flag_xk = 2131165550;
+			public const int flag_tc = 2131165550;
 			
 			// aapt resource value: 0x7F07016F
-			public const int flag_ye = 2131165551;
+			public const int flag_td = 2131165551;
 			
 			// aapt resource value: 0x7F070170
-			public const int flag_yt = 2131165552;
+			public const int flag_tf = 2131165552;
 			
 			// aapt resource value: 0x7F070171
-			public const int flag_za = 2131165553;
+			public const int flag_tg = 2131165553;
 			
 			// aapt resource value: 0x7F070172
-			public const int flag_zm = 2131165554;
+			public const int flag_th = 2131165554;
 			
 			// aapt resource value: 0x7F070173
-			public const int flag_zw = 2131165555;
+			public const int flag_tj = 2131165555;
 			
 			// aapt resource value: 0x7F070174
-			public const int googleg_disabled_color_18 = 2131165556;
+			public const int flag_tk = 2131165556;
 			
 			// aapt resource value: 0x7F070175
-			public const int googleg_standard_color_18 = 2131165557;
+			public const int flag_tl = 2131165557;
 			
 			// aapt resource value: 0x7F070176
-			public const int ic_arrow_down_24dp = 2131165558;
+			public const int flag_tm = 2131165558;
 			
 			// aapt resource value: 0x7F070177
-			public const int ic_clock_black_24dp = 2131165559;
+			public const int flag_tn = 2131165559;
 			
 			// aapt resource value: 0x7F070178
-			public const int ic_keyboard_black_24dp = 2131165560;
+			public const int flag_to = 2131165560;
 			
 			// aapt resource value: 0x7F070179
-			public const int ic_mtrl_checked_circle = 2131165561;
+			public const int flag_tr = 2131165561;
 			
 			// aapt resource value: 0x7F07017A
-			public const int ic_mtrl_chip_checked_black = 2131165562;
+			public const int flag_tt = 2131165562;
 			
 			// aapt resource value: 0x7F07017B
-			public const int ic_mtrl_chip_checked_circle = 2131165563;
+			public const int flag_tv = 2131165563;
 			
 			// aapt resource value: 0x7F07017C
-			public const int ic_mtrl_chip_close_circle = 2131165564;
+			public const int flag_tw = 2131165564;
 			
 			// aapt resource value: 0x7F07017D
-			public const int material_cursor_drawable = 2131165565;
+			public const int flag_tz = 2131165565;
 			
 			// aapt resource value: 0x7F07017E
-			public const int material_ic_calendar_black_24dp = 2131165566;
+			public const int flag_ua = 2131165566;
 			
 			// aapt resource value: 0x7F07017F
-			public const int material_ic_clear_black_24dp = 2131165567;
+			public const int flag_ug = 2131165567;
 			
 			// aapt resource value: 0x7F070180
-			public const int material_ic_edit_black_24dp = 2131165568;
+			public const int flag_um = 2131165568;
 			
 			// aapt resource value: 0x7F070181
-			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165569;
+			public const int flag_us = 2131165569;
 			
 			// aapt resource value: 0x7F070182
-			public const int material_ic_keyboard_arrow_next_black_24dp = 2131165570;
+			public const int flag_uy = 2131165570;
 			
 			// aapt resource value: 0x7F070183
-			public const int material_ic_keyboard_arrow_previous_black_24dp = 2131165571;
+			public const int flag_uz = 2131165571;
 			
 			// aapt resource value: 0x7F070184
-			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165572;
+			public const int flag_va = 2131165572;
 			
 			// aapt resource value: 0x7F070185
-			public const int material_ic_menu_arrow_down_black_24dp = 2131165573;
+			public const int flag_vc = 2131165573;
 			
 			// aapt resource value: 0x7F070186
-			public const int material_ic_menu_arrow_up_black_24dp = 2131165574;
+			public const int flag_ve = 2131165574;
 			
 			// aapt resource value: 0x7F070187
-			public const int mtrl_dialog_background = 2131165575;
+			public const int flag_vg = 2131165575;
 			
 			// aapt resource value: 0x7F070188
-			public const int mtrl_dropdown_arrow = 2131165576;
+			public const int flag_vi = 2131165576;
 			
 			// aapt resource value: 0x7F070189
-			public const int mtrl_ic_arrow_drop_down = 2131165577;
+			public const int flag_vn = 2131165577;
 			
 			// aapt resource value: 0x7F07018A
-			public const int mtrl_ic_arrow_drop_up = 2131165578;
+			public const int flag_vu = 2131165578;
 			
 			// aapt resource value: 0x7F07018B
-			public const int mtrl_ic_cancel = 2131165579;
+			public const int flag_wf = 2131165579;
 			
 			// aapt resource value: 0x7F07018C
-			public const int mtrl_ic_error = 2131165580;
+			public const int flag_ws = 2131165580;
 			
 			// aapt resource value: 0x7F07018D
-			public const int mtrl_navigation_bar_item_background = 2131165581;
+			public const int flag_xk = 2131165581;
 			
 			// aapt resource value: 0x7F07018E
-			public const int mtrl_popupmenu_background = 2131165582;
+			public const int flag_ye = 2131165582;
 			
 			// aapt resource value: 0x7F07018F
-			public const int mtrl_popupmenu_background_dark = 2131165583;
+			public const int flag_yt = 2131165583;
 			
 			// aapt resource value: 0x7F070190
-			public const int mtrl_tabs_default_indicator = 2131165584;
+			public const int flag_za = 2131165584;
 			
 			// aapt resource value: 0x7F070191
-			public const int navigation_empty_icon = 2131165585;
+			public const int flag_zm = 2131165585;
 			
 			// aapt resource value: 0x7F070192
-			public const int notification_action_background = 2131165586;
+			public const int flag_zw = 2131165586;
 			
 			// aapt resource value: 0x7F070193
-			public const int notification_bg = 2131165587;
+			public const int googleg_disabled_color_18 = 2131165587;
 			
 			// aapt resource value: 0x7F070194
-			public const int notification_bg_low = 2131165588;
+			public const int googleg_standard_color_18 = 2131165588;
 			
 			// aapt resource value: 0x7F070195
-			public const int notification_bg_low_normal = 2131165589;
+			public const int ic_arrow_down_24dp = 2131165589;
 			
 			// aapt resource value: 0x7F070196
-			public const int notification_bg_low_pressed = 2131165590;
+			public const int ic_clock_black_24dp = 2131165590;
 			
 			// aapt resource value: 0x7F070197
-			public const int notification_bg_normal = 2131165591;
+			public const int ic_keyboard_black_24dp = 2131165591;
 			
 			// aapt resource value: 0x7F070198
-			public const int notification_bg_normal_pressed = 2131165592;
+			public const int ic_mtrl_checked_circle = 2131165592;
 			
 			// aapt resource value: 0x7F070199
-			public const int notification_icon_background = 2131165593;
+			public const int ic_mtrl_chip_checked_black = 2131165593;
 			
 			// aapt resource value: 0x7F07019A
-			public const int notification_template_icon_bg = 2131165594;
+			public const int ic_mtrl_chip_checked_circle = 2131165594;
 			
 			// aapt resource value: 0x7F07019B
-			public const int notification_template_icon_low_bg = 2131165595;
-			
-			// aapt resource value: 0x7F07019C
-			public const int notification_tile_bg = 2131165596;
+			public const int ic_mtrl_chip_close_circle = 2131165595;
 			
 			// aapt resource value: 0x7F07019D
-			public const int notify_panel_notification_icon_bg = 2131165597;
+			public const int inputlayout_togglecollapseicon = 2131165597;
 			
 			// aapt resource value: 0x7F07019E
-			public const int preference_list_divider_material = 2131165598;
+			public const int inputlayout_togglevisibleicon = 2131165598;
+			
+			// aapt resource value: 0x7F07019C
+			public const int input_layout_drop_down_icon = 2131165596;
 			
 			// aapt resource value: 0x7F07019F
-			public const int test_custom_background = 2131165599;
+			public const int material_cursor_drawable = 2131165599;
 			
 			// aapt resource value: 0x7F0701A0
-			public const int tooltip_frame_dark = 2131165600;
+			public const int material_ic_calendar_black_24dp = 2131165600;
 			
 			// aapt resource value: 0x7F0701A1
-			public const int tooltip_frame_light = 2131165601;
+			public const int material_ic_clear_black_24dp = 2131165601;
+			
+			// aapt resource value: 0x7F0701A2
+			public const int material_ic_edit_black_24dp = 2131165602;
+			
+			// aapt resource value: 0x7F0701A3
+			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165603;
+			
+			// aapt resource value: 0x7F0701A4
+			public const int material_ic_keyboard_arrow_next_black_24dp = 2131165604;
+			
+			// aapt resource value: 0x7F0701A5
+			public const int material_ic_keyboard_arrow_previous_black_24dp = 2131165605;
+			
+			// aapt resource value: 0x7F0701A6
+			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165606;
+			
+			// aapt resource value: 0x7F0701A7
+			public const int material_ic_menu_arrow_down_black_24dp = 2131165607;
+			
+			// aapt resource value: 0x7F0701A8
+			public const int material_ic_menu_arrow_up_black_24dp = 2131165608;
+			
+			// aapt resource value: 0x7F0701A9
+			public const int mtrl_dialog_background = 2131165609;
+			
+			// aapt resource value: 0x7F0701AA
+			public const int mtrl_dropdown_arrow = 2131165610;
+			
+			// aapt resource value: 0x7F0701AB
+			public const int mtrl_ic_arrow_drop_down = 2131165611;
+			
+			// aapt resource value: 0x7F0701AC
+			public const int mtrl_ic_arrow_drop_up = 2131165612;
+			
+			// aapt resource value: 0x7F0701AD
+			public const int mtrl_ic_cancel = 2131165613;
+			
+			// aapt resource value: 0x7F0701AE
+			public const int mtrl_ic_error = 2131165614;
+			
+			// aapt resource value: 0x7F0701AF
+			public const int mtrl_navigation_bar_item_background = 2131165615;
+			
+			// aapt resource value: 0x7F0701B0
+			public const int mtrl_popupmenu_background = 2131165616;
+			
+			// aapt resource value: 0x7F0701B1
+			public const int mtrl_popupmenu_background_dark = 2131165617;
+			
+			// aapt resource value: 0x7F0701B2
+			public const int mtrl_tabs_default_indicator = 2131165618;
+			
+			// aapt resource value: 0x7F0701B3
+			public const int navigation_empty_icon = 2131165619;
+			
+			// aapt resource value: 0x7F0701B4
+			public const int notification_action_background = 2131165620;
+			
+			// aapt resource value: 0x7F0701B5
+			public const int notification_bg = 2131165621;
+			
+			// aapt resource value: 0x7F0701B6
+			public const int notification_bg_low = 2131165622;
+			
+			// aapt resource value: 0x7F0701B7
+			public const int notification_bg_low_normal = 2131165623;
+			
+			// aapt resource value: 0x7F0701B8
+			public const int notification_bg_low_pressed = 2131165624;
+			
+			// aapt resource value: 0x7F0701B9
+			public const int notification_bg_normal = 2131165625;
+			
+			// aapt resource value: 0x7F0701BA
+			public const int notification_bg_normal_pressed = 2131165626;
+			
+			// aapt resource value: 0x7F0701BB
+			public const int notification_icon_background = 2131165627;
+			
+			// aapt resource value: 0x7F0701BC
+			public const int notification_template_icon_bg = 2131165628;
+			
+			// aapt resource value: 0x7F0701BD
+			public const int notification_template_icon_low_bg = 2131165629;
+			
+			// aapt resource value: 0x7F0701BE
+			public const int notification_tile_bg = 2131165630;
+			
+			// aapt resource value: 0x7F0701BF
+			public const int notify_panel_notification_icon_bg = 2131165631;
+			
+			// aapt resource value: 0x7F0701C0
+			public const int preference_list_divider_material = 2131165632;
+			
+			// aapt resource value: 0x7F0701C1
+			public const int test_custom_background = 2131165633;
+			
+			// aapt resource value: 0x7F0701C2
+			public const int tooltip_frame_dark = 2131165634;
+			
+			// aapt resource value: 0x7F0701C3
+			public const int tooltip_frame_light = 2131165635;
 			
 			static Drawable()
 			{
@@ -19712,431 +23454,440 @@ namespace CarApp.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F0E0000
-			public const int abc_action_bar_home_description = 2131623936;
-			
-			// aapt resource value: 0x7F0E0001
-			public const int abc_action_bar_up_description = 2131623937;
-			
-			// aapt resource value: 0x7F0E0002
-			public const int abc_action_menu_overflow_description = 2131623938;
-			
 			// aapt resource value: 0x7F0E0003
-			public const int abc_action_mode_done = 2131623939;
-			
-			// aapt resource value: 0x7F0E0005
-			public const int abc_activitychooserview_choose_application = 2131623941;
+			public const int abc_action_bar_home_description = 2131623939;
 			
 			// aapt resource value: 0x7F0E0004
-			public const int abc_activity_chooser_view_see_all = 2131623940;
+			public const int abc_action_bar_up_description = 2131623940;
+			
+			// aapt resource value: 0x7F0E0005
+			public const int abc_action_menu_overflow_description = 2131623941;
 			
 			// aapt resource value: 0x7F0E0006
-			public const int abc_capital_off = 2131623942;
-			
-			// aapt resource value: 0x7F0E0007
-			public const int abc_capital_on = 2131623943;
+			public const int abc_action_mode_done = 2131623942;
 			
 			// aapt resource value: 0x7F0E0008
-			public const int abc_menu_alt_shortcut_label = 2131623944;
+			public const int abc_activitychooserview_choose_application = 2131623944;
+			
+			// aapt resource value: 0x7F0E0007
+			public const int abc_activity_chooser_view_see_all = 2131623943;
 			
 			// aapt resource value: 0x7F0E0009
-			public const int abc_menu_ctrl_shortcut_label = 2131623945;
+			public const int abc_capital_off = 2131623945;
 			
 			// aapt resource value: 0x7F0E000A
-			public const int abc_menu_delete_shortcut_label = 2131623946;
+			public const int abc_capital_on = 2131623946;
 			
 			// aapt resource value: 0x7F0E000B
-			public const int abc_menu_enter_shortcut_label = 2131623947;
+			public const int abc_menu_alt_shortcut_label = 2131623947;
 			
 			// aapt resource value: 0x7F0E000C
-			public const int abc_menu_function_shortcut_label = 2131623948;
+			public const int abc_menu_ctrl_shortcut_label = 2131623948;
 			
 			// aapt resource value: 0x7F0E000D
-			public const int abc_menu_meta_shortcut_label = 2131623949;
+			public const int abc_menu_delete_shortcut_label = 2131623949;
 			
 			// aapt resource value: 0x7F0E000E
-			public const int abc_menu_shift_shortcut_label = 2131623950;
+			public const int abc_menu_enter_shortcut_label = 2131623950;
 			
 			// aapt resource value: 0x7F0E000F
-			public const int abc_menu_space_shortcut_label = 2131623951;
+			public const int abc_menu_function_shortcut_label = 2131623951;
 			
 			// aapt resource value: 0x7F0E0010
-			public const int abc_menu_sym_shortcut_label = 2131623952;
+			public const int abc_menu_meta_shortcut_label = 2131623952;
 			
 			// aapt resource value: 0x7F0E0011
-			public const int abc_prepend_shortcut_label = 2131623953;
-			
-			// aapt resource value: 0x7F0E0013
-			public const int abc_searchview_description_clear = 2131623955;
-			
-			// aapt resource value: 0x7F0E0014
-			public const int abc_searchview_description_query = 2131623956;
-			
-			// aapt resource value: 0x7F0E0015
-			public const int abc_searchview_description_search = 2131623957;
-			
-			// aapt resource value: 0x7F0E0016
-			public const int abc_searchview_description_submit = 2131623958;
-			
-			// aapt resource value: 0x7F0E0017
-			public const int abc_searchview_description_voice = 2131623959;
+			public const int abc_menu_shift_shortcut_label = 2131623953;
 			
 			// aapt resource value: 0x7F0E0012
-			public const int abc_search_hint = 2131623954;
+			public const int abc_menu_space_shortcut_label = 2131623954;
+			
+			// aapt resource value: 0x7F0E0013
+			public const int abc_menu_sym_shortcut_label = 2131623955;
+			
+			// aapt resource value: 0x7F0E0014
+			public const int abc_prepend_shortcut_label = 2131623956;
+			
+			// aapt resource value: 0x7F0E0016
+			public const int abc_searchview_description_clear = 2131623958;
+			
+			// aapt resource value: 0x7F0E0017
+			public const int abc_searchview_description_query = 2131623959;
 			
 			// aapt resource value: 0x7F0E0018
-			public const int abc_shareactionprovider_share_with = 2131623960;
+			public const int abc_searchview_description_search = 2131623960;
 			
 			// aapt resource value: 0x7F0E0019
-			public const int abc_shareactionprovider_share_with_application = 2131623961;
+			public const int abc_searchview_description_submit = 2131623961;
 			
 			// aapt resource value: 0x7F0E001A
-			public const int abc_toolbar_collapse_description = 2131623962;
+			public const int abc_searchview_description_voice = 2131623962;
+			
+			// aapt resource value: 0x7F0E0015
+			public const int abc_search_hint = 2131623957;
 			
 			// aapt resource value: 0x7F0E001B
-			public const int appbar_scrolling_view_behavior = 2131623963;
-			
-			// aapt resource value: 0x7F0E001D
-			public const int bottomsheet_action_expand_halfway = 2131623965;
+			public const int abc_shareactionprovider_share_with = 2131623963;
 			
 			// aapt resource value: 0x7F0E001C
-			public const int bottom_sheet_behavior = 2131623964;
+			public const int abc_shareactionprovider_share_with_application = 2131623964;
+			
+			// aapt resource value: 0x7F0E001D
+			public const int abc_toolbar_collapse_description = 2131623965;
 			
 			// aapt resource value: 0x7F0E001E
-			public const int character_counter_content_description = 2131623966;
+			public const int appbar_scrolling_view_behavior = 2131623966;
 			
-			// aapt resource value: 0x7F0E001F
-			public const int character_counter_overflowed_content_description = 2131623967;
+			// aapt resource value: 0x7F0E0000
+			public const int ApplicationName = 2131623936;
 			
 			// aapt resource value: 0x7F0E0020
-			public const int character_counter_pattern = 2131623968;
+			public const int bottomsheet_action_expand_halfway = 2131623968;
+			
+			// aapt resource value: 0x7F0E001F
+			public const int bottom_sheet_behavior = 2131623967;
 			
 			// aapt resource value: 0x7F0E0021
-			public const int chip_text = 2131623969;
+			public const int character_counter_content_description = 2131623969;
 			
 			// aapt resource value: 0x7F0E0022
-			public const int clear_text_end_icon_content_description = 2131623970;
+			public const int character_counter_overflowed_content_description = 2131623970;
 			
 			// aapt resource value: 0x7F0E0023
-			public const int common_google_play_services_enable_button = 2131623971;
+			public const int character_counter_pattern = 2131623971;
 			
 			// aapt resource value: 0x7F0E0024
-			public const int common_google_play_services_enable_text = 2131623972;
+			public const int chip_text = 2131623972;
 			
 			// aapt resource value: 0x7F0E0025
-			public const int common_google_play_services_enable_title = 2131623973;
+			public const int clear_text_end_icon_content_description = 2131623973;
 			
 			// aapt resource value: 0x7F0E0026
-			public const int common_google_play_services_install_button = 2131623974;
+			public const int common_google_play_services_enable_button = 2131623974;
 			
 			// aapt resource value: 0x7F0E0027
-			public const int common_google_play_services_install_text = 2131623975;
+			public const int common_google_play_services_enable_text = 2131623975;
 			
 			// aapt resource value: 0x7F0E0028
-			public const int common_google_play_services_install_title = 2131623976;
+			public const int common_google_play_services_enable_title = 2131623976;
 			
 			// aapt resource value: 0x7F0E0029
-			public const int common_google_play_services_notification_channel_name = 2131623977;
+			public const int common_google_play_services_install_button = 2131623977;
 			
 			// aapt resource value: 0x7F0E002A
-			public const int common_google_play_services_notification_ticker = 2131623978;
+			public const int common_google_play_services_install_text = 2131623978;
 			
 			// aapt resource value: 0x7F0E002B
-			public const int common_google_play_services_unknown_issue = 2131623979;
+			public const int common_google_play_services_install_title = 2131623979;
 			
 			// aapt resource value: 0x7F0E002C
-			public const int common_google_play_services_unsupported_text = 2131623980;
+			public const int common_google_play_services_notification_channel_name = 2131623980;
 			
 			// aapt resource value: 0x7F0E002D
-			public const int common_google_play_services_update_button = 2131623981;
+			public const int common_google_play_services_notification_ticker = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int common_google_play_services_update_text = 2131623982;
+			public const int common_google_play_services_unknown_issue = 2131623982;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int common_google_play_services_update_title = 2131623983;
+			public const int common_google_play_services_unsupported_text = 2131623983;
 			
 			// aapt resource value: 0x7F0E0030
-			public const int common_google_play_services_updating_text = 2131623984;
+			public const int common_google_play_services_update_button = 2131623984;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int common_google_play_services_wear_update_text = 2131623985;
+			public const int common_google_play_services_update_text = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int common_open_on_phone = 2131623986;
+			public const int common_google_play_services_update_title = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int common_signin_button_text = 2131623987;
+			public const int common_google_play_services_updating_text = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int common_signin_button_text_long = 2131623988;
+			public const int common_google_play_services_wear_update_text = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int copy = 2131623989;
+			public const int common_open_on_phone = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int copy_toast_msg = 2131623990;
+			public const int common_signin_button_text = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int error_icon_content_description = 2131623991;
+			public const int common_signin_button_text_long = 2131623991;
 			
 			// aapt resource value: 0x7F0E0038
-			public const int expand_button_title = 2131623992;
+			public const int copy = 2131623992;
 			
 			// aapt resource value: 0x7F0E0039
-			public const int exposed_dropdown_menu_content_description = 2131623993;
+			public const int copy_toast_msg = 2131623993;
 			
 			// aapt resource value: 0x7F0E003A
-			public const int fab_transformation_scrim_behavior = 2131623994;
+			public const int error_icon_content_description = 2131623994;
 			
 			// aapt resource value: 0x7F0E003B
-			public const int fab_transformation_sheet_behavior = 2131623995;
+			public const int expand_button_title = 2131623995;
 			
 			// aapt resource value: 0x7F0E003C
-			public const int fallback_menu_item_copy_link = 2131623996;
+			public const int exposed_dropdown_menu_content_description = 2131623996;
 			
 			// aapt resource value: 0x7F0E003D
-			public const int fallback_menu_item_open_in_browser = 2131623997;
+			public const int fab_transformation_scrim_behavior = 2131623997;
 			
 			// aapt resource value: 0x7F0E003E
-			public const int fallback_menu_item_share_link = 2131623998;
+			public const int fab_transformation_sheet_behavior = 2131623998;
 			
 			// aapt resource value: 0x7F0E003F
-			public const int gcm_defaultSenderId = 2131623999;
+			public const int fallback_menu_item_copy_link = 2131623999;
 			
 			// aapt resource value: 0x7F0E0040
-			public const int google_api_key = 2131624000;
+			public const int fallback_menu_item_open_in_browser = 2131624000;
 			
 			// aapt resource value: 0x7F0E0041
-			public const int google_app_id = 2131624001;
+			public const int fallback_menu_item_share_link = 2131624001;
 			
 			// aapt resource value: 0x7F0E0042
-			public const int google_crash_reporting_api_key = 2131624002;
+			public const int gcm_defaultSenderId = 2131624002;
 			
 			// aapt resource value: 0x7F0E0043
-			public const int google_storage_bucket = 2131624003;
+			public const int google_api_key = 2131624003;
 			
 			// aapt resource value: 0x7F0E0044
-			public const int hide_bottom_view_on_scroll_behavior = 2131624004;
+			public const int google_app_id = 2131624004;
 			
 			// aapt resource value: 0x7F0E0045
-			public const int icon_content_description = 2131624005;
+			public const int google_crash_reporting_api_key = 2131624005;
 			
 			// aapt resource value: 0x7F0E0046
-			public const int item_view_role_description = 2131624006;
+			public const int google_storage_bucket = 2131624006;
+			
+			// aapt resource value: 0x7F0E0001
+			public const int Hello = 2131623937;
 			
 			// aapt resource value: 0x7F0E0047
-			public const int material_clock_display_divider = 2131624007;
+			public const int hide_bottom_view_on_scroll_behavior = 2131624007;
 			
 			// aapt resource value: 0x7F0E0048
-			public const int material_clock_toggle_content_description = 2131624008;
+			public const int icon_content_description = 2131624008;
 			
 			// aapt resource value: 0x7F0E0049
-			public const int material_hour_selection = 2131624009;
+			public const int item_view_role_description = 2131624009;
+			
+			// aapt resource value: 0x7F0E0002
+			public const int Load_More = 2131623938;
 			
 			// aapt resource value: 0x7F0E004A
-			public const int material_hour_suffix = 2131624010;
+			public const int material_clock_display_divider = 2131624010;
 			
 			// aapt resource value: 0x7F0E004B
-			public const int material_minute_selection = 2131624011;
+			public const int material_clock_toggle_content_description = 2131624011;
 			
 			// aapt resource value: 0x7F0E004C
-			public const int material_minute_suffix = 2131624012;
+			public const int material_hour_selection = 2131624012;
 			
 			// aapt resource value: 0x7F0E004D
-			public const int material_motion_easing_accelerated = 2131624013;
+			public const int material_hour_suffix = 2131624013;
 			
 			// aapt resource value: 0x7F0E004E
-			public const int material_motion_easing_decelerated = 2131624014;
+			public const int material_minute_selection = 2131624014;
 			
 			// aapt resource value: 0x7F0E004F
-			public const int material_motion_easing_emphasized = 2131624015;
+			public const int material_minute_suffix = 2131624015;
 			
 			// aapt resource value: 0x7F0E0050
-			public const int material_motion_easing_linear = 2131624016;
+			public const int material_motion_easing_accelerated = 2131624016;
 			
 			// aapt resource value: 0x7F0E0051
-			public const int material_motion_easing_standard = 2131624017;
+			public const int material_motion_easing_decelerated = 2131624017;
 			
 			// aapt resource value: 0x7F0E0052
-			public const int material_slider_range_end = 2131624018;
+			public const int material_motion_easing_emphasized = 2131624018;
 			
 			// aapt resource value: 0x7F0E0053
-			public const int material_slider_range_start = 2131624019;
+			public const int material_motion_easing_linear = 2131624019;
 			
 			// aapt resource value: 0x7F0E0054
-			public const int material_timepicker_am = 2131624020;
+			public const int material_motion_easing_standard = 2131624020;
 			
 			// aapt resource value: 0x7F0E0055
-			public const int material_timepicker_clock_mode_description = 2131624021;
+			public const int material_slider_range_end = 2131624021;
 			
 			// aapt resource value: 0x7F0E0056
-			public const int material_timepicker_hour = 2131624022;
+			public const int material_slider_range_start = 2131624022;
 			
 			// aapt resource value: 0x7F0E0057
-			public const int material_timepicker_minute = 2131624023;
+			public const int material_timepicker_am = 2131624023;
 			
 			// aapt resource value: 0x7F0E0058
-			public const int material_timepicker_pm = 2131624024;
+			public const int material_timepicker_clock_mode_description = 2131624024;
 			
 			// aapt resource value: 0x7F0E0059
-			public const int material_timepicker_select_time = 2131624025;
+			public const int material_timepicker_hour = 2131624025;
 			
 			// aapt resource value: 0x7F0E005A
-			public const int material_timepicker_text_input_mode_description = 2131624026;
+			public const int material_timepicker_minute = 2131624026;
 			
 			// aapt resource value: 0x7F0E005B
-			public const int mtrl_badge_numberless_content_description = 2131624027;
+			public const int material_timepicker_pm = 2131624027;
 			
 			// aapt resource value: 0x7F0E005C
-			public const int mtrl_chip_close_icon_content_description = 2131624028;
+			public const int material_timepicker_select_time = 2131624028;
 			
 			// aapt resource value: 0x7F0E005D
-			public const int mtrl_exceed_max_badge_number_content_description = 2131624029;
+			public const int material_timepicker_text_input_mode_description = 2131624029;
 			
 			// aapt resource value: 0x7F0E005E
-			public const int mtrl_exceed_max_badge_number_suffix = 2131624030;
+			public const int mtrl_badge_numberless_content_description = 2131624030;
 			
 			// aapt resource value: 0x7F0E005F
-			public const int mtrl_picker_a11y_next_month = 2131624031;
+			public const int mtrl_chip_close_icon_content_description = 2131624031;
 			
 			// aapt resource value: 0x7F0E0060
-			public const int mtrl_picker_a11y_prev_month = 2131624032;
+			public const int mtrl_exceed_max_badge_number_content_description = 2131624032;
 			
 			// aapt resource value: 0x7F0E0061
-			public const int mtrl_picker_announce_current_selection = 2131624033;
+			public const int mtrl_exceed_max_badge_number_suffix = 2131624033;
 			
 			// aapt resource value: 0x7F0E0062
-			public const int mtrl_picker_cancel = 2131624034;
+			public const int mtrl_picker_a11y_next_month = 2131624034;
 			
 			// aapt resource value: 0x7F0E0063
-			public const int mtrl_picker_confirm = 2131624035;
+			public const int mtrl_picker_a11y_prev_month = 2131624035;
 			
 			// aapt resource value: 0x7F0E0064
-			public const int mtrl_picker_date_header_selected = 2131624036;
+			public const int mtrl_picker_announce_current_selection = 2131624036;
 			
 			// aapt resource value: 0x7F0E0065
-			public const int mtrl_picker_date_header_title = 2131624037;
+			public const int mtrl_picker_cancel = 2131624037;
 			
 			// aapt resource value: 0x7F0E0066
-			public const int mtrl_picker_date_header_unselected = 2131624038;
+			public const int mtrl_picker_confirm = 2131624038;
 			
 			// aapt resource value: 0x7F0E0067
-			public const int mtrl_picker_day_of_week_column_header = 2131624039;
+			public const int mtrl_picker_date_header_selected = 2131624039;
 			
 			// aapt resource value: 0x7F0E0068
-			public const int mtrl_picker_invalid_format = 2131624040;
+			public const int mtrl_picker_date_header_title = 2131624040;
 			
 			// aapt resource value: 0x7F0E0069
-			public const int mtrl_picker_invalid_format_example = 2131624041;
+			public const int mtrl_picker_date_header_unselected = 2131624041;
 			
 			// aapt resource value: 0x7F0E006A
-			public const int mtrl_picker_invalid_format_use = 2131624042;
+			public const int mtrl_picker_day_of_week_column_header = 2131624042;
 			
 			// aapt resource value: 0x7F0E006B
-			public const int mtrl_picker_invalid_range = 2131624043;
+			public const int mtrl_picker_invalid_format = 2131624043;
 			
 			// aapt resource value: 0x7F0E006C
-			public const int mtrl_picker_navigate_to_year_description = 2131624044;
+			public const int mtrl_picker_invalid_format_example = 2131624044;
 			
 			// aapt resource value: 0x7F0E006D
-			public const int mtrl_picker_out_of_range = 2131624045;
+			public const int mtrl_picker_invalid_format_use = 2131624045;
 			
 			// aapt resource value: 0x7F0E006E
-			public const int mtrl_picker_range_header_only_end_selected = 2131624046;
+			public const int mtrl_picker_invalid_range = 2131624046;
 			
 			// aapt resource value: 0x7F0E006F
-			public const int mtrl_picker_range_header_only_start_selected = 2131624047;
+			public const int mtrl_picker_navigate_to_year_description = 2131624047;
 			
 			// aapt resource value: 0x7F0E0070
-			public const int mtrl_picker_range_header_selected = 2131624048;
+			public const int mtrl_picker_out_of_range = 2131624048;
 			
 			// aapt resource value: 0x7F0E0071
-			public const int mtrl_picker_range_header_title = 2131624049;
+			public const int mtrl_picker_range_header_only_end_selected = 2131624049;
 			
 			// aapt resource value: 0x7F0E0072
-			public const int mtrl_picker_range_header_unselected = 2131624050;
+			public const int mtrl_picker_range_header_only_start_selected = 2131624050;
 			
 			// aapt resource value: 0x7F0E0073
-			public const int mtrl_picker_save = 2131624051;
+			public const int mtrl_picker_range_header_selected = 2131624051;
 			
 			// aapt resource value: 0x7F0E0074
-			public const int mtrl_picker_text_input_date_hint = 2131624052;
+			public const int mtrl_picker_range_header_title = 2131624052;
 			
 			// aapt resource value: 0x7F0E0075
-			public const int mtrl_picker_text_input_date_range_end_hint = 2131624053;
+			public const int mtrl_picker_range_header_unselected = 2131624053;
 			
 			// aapt resource value: 0x7F0E0076
-			public const int mtrl_picker_text_input_date_range_start_hint = 2131624054;
+			public const int mtrl_picker_save = 2131624054;
 			
 			// aapt resource value: 0x7F0E0077
-			public const int mtrl_picker_text_input_day_abbr = 2131624055;
+			public const int mtrl_picker_text_input_date_hint = 2131624055;
 			
 			// aapt resource value: 0x7F0E0078
-			public const int mtrl_picker_text_input_month_abbr = 2131624056;
+			public const int mtrl_picker_text_input_date_range_end_hint = 2131624056;
 			
 			// aapt resource value: 0x7F0E0079
-			public const int mtrl_picker_text_input_year_abbr = 2131624057;
+			public const int mtrl_picker_text_input_date_range_start_hint = 2131624057;
 			
 			// aapt resource value: 0x7F0E007A
-			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624058;
+			public const int mtrl_picker_text_input_day_abbr = 2131624058;
 			
 			// aapt resource value: 0x7F0E007B
-			public const int mtrl_picker_toggle_to_day_selection = 2131624059;
+			public const int mtrl_picker_text_input_month_abbr = 2131624059;
 			
 			// aapt resource value: 0x7F0E007C
-			public const int mtrl_picker_toggle_to_text_input_mode = 2131624060;
+			public const int mtrl_picker_text_input_year_abbr = 2131624060;
 			
 			// aapt resource value: 0x7F0E007D
-			public const int mtrl_picker_toggle_to_year_selection = 2131624061;
+			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624061;
 			
 			// aapt resource value: 0x7F0E007E
-			public const int nav_app_bar_navigate_up_description = 2131624062;
+			public const int mtrl_picker_toggle_to_day_selection = 2131624062;
 			
 			// aapt resource value: 0x7F0E007F
-			public const int nav_app_bar_open_drawer_description = 2131624063;
+			public const int mtrl_picker_toggle_to_text_input_mode = 2131624063;
 			
 			// aapt resource value: 0x7F0E0080
-			public const int not_set = 2131624064;
+			public const int mtrl_picker_toggle_to_year_selection = 2131624064;
 			
 			// aapt resource value: 0x7F0E0081
-			public const int overflow_tab_title = 2131624065;
+			public const int nav_app_bar_navigate_up_description = 2131624065;
 			
 			// aapt resource value: 0x7F0E0082
-			public const int password_toggle_content_description = 2131624066;
+			public const int nav_app_bar_open_drawer_description = 2131624066;
 			
 			// aapt resource value: 0x7F0E0083
-			public const int path_password_eye = 2131624067;
+			public const int not_set = 2131624067;
 			
 			// aapt resource value: 0x7F0E0084
-			public const int path_password_eye_mask_strike_through = 2131624068;
+			public const int overflow_tab_title = 2131624068;
 			
 			// aapt resource value: 0x7F0E0085
-			public const int path_password_eye_mask_visible = 2131624069;
+			public const int password_toggle_content_description = 2131624069;
 			
 			// aapt resource value: 0x7F0E0086
-			public const int path_password_strike_through = 2131624070;
+			public const int path_password_eye = 2131624070;
 			
 			// aapt resource value: 0x7F0E0087
-			public const int preference_copied = 2131624071;
+			public const int path_password_eye_mask_strike_through = 2131624071;
 			
 			// aapt resource value: 0x7F0E0088
-			public const int project_id = 2131624072;
+			public const int path_password_eye_mask_visible = 2131624072;
 			
 			// aapt resource value: 0x7F0E0089
-			public const int search_menu_title = 2131624073;
+			public const int path_password_strike_through = 2131624073;
 			
 			// aapt resource value: 0x7F0E008A
-			public const int status_bar_notification_info_overflow = 2131624074;
+			public const int preference_copied = 2131624074;
 			
 			// aapt resource value: 0x7F0E008B
-			public const int summary_collapsed_preference_list = 2131624075;
+			public const int project_id = 2131624075;
 			
 			// aapt resource value: 0x7F0E008C
-			public const int v7_preference_off = 2131624076;
+			public const int search_menu_title = 2131624076;
 			
 			// aapt resource value: 0x7F0E008D
-			public const int v7_preference_on = 2131624077;
+			public const int status_bar_notification_info_overflow = 2131624077;
+			
+			// aapt resource value: 0x7F0E008E
+			public const int summary_collapsed_preference_list = 2131624078;
+			
+			// aapt resource value: 0x7F0E008F
+			public const int v7_preference_off = 2131624079;
+			
+			// aapt resource value: 0x7F0E0090
+			public const int v7_preference_on = 2131624080;
 			
 			static String()
 			{

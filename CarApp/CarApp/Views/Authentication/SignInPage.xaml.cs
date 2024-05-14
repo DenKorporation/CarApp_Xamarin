@@ -1,8 +1,4 @@
-using System;
-using CarApp.Abstractions;
-using CarApp.Models;
 using CarApp.ViewModels.Authentication;
-using CarApp.Views.Home;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 

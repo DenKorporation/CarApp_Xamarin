@@ -12,6 +12,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Rg.Plugins.Popup" Version="2.1.0" />
+    <PackageReference Include="Syncfusion.Xamarin.SfListView" Version="25.2.3" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
   </ItemGroup>
@@ -21,5 +23,14 @@
       <DependentUpon>SignInPage.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resource\Fonts\Font Awesome 6 Brands-Regular-400.otf" />
+    <EmbeddedResource Include="Resource\Fonts\Font Awesome 6 Free-Regular-400.otf" />
+    <EmbeddedResource Include="Resource\Fonts\Font Awesome 6 Free-Solid-900.otf" />
+    <None Remove="Resource\Font Awesome 6 Brands-Regular-400.otf" />
+    <None Remove="Resource\Font Awesome 6 Free-Solid-900.otf" />
+    <None Remove="Resource\Font Awesome 6 Free-Regular-400.otf" />
   </ItemGroup>
 </Project>

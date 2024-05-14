@@ -1,4 +1,3 @@
-using System;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
@@ -6,6 +5,9 @@ using System.Windows.Input;
 using CarApp.Abstractions;
 using CarApp.Models;
 using CarApp.Views.Authentication;
+using CarApp.Views.Home;
+using Rg.Plugins.Popup.Extensions;
+using Syncfusion.ListView.XForms;
 using Xamarin.Forms;
 
 namespace CarApp.ViewModels.Home
@@ -16,8 +18,24 @@ namespace CarApp.ViewModels.Home
         private readonly ICarsService _carsService;
         public event PropertyChangedEventHandler PropertyChanged;
 
+        private string _text = "signOut";
+        public string CheckText
+        {
+            get => _text;
+            set
+            {
+                if (value != _text)
+                {
+                    _text = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+        
         public ObservableCollection<Car> Cars { get; set; }
         public ICommand SignOutCommand { protected set; get; }
+        public ICommand ToggleLikeCommand { protected set; get; }
+        public ICommand ItemTappedCommand { protected set; get; }
 
         private INavigation Navigation { get; set; }
 
@@ -31,6 +49,11 @@ namespace CarApp.ViewModels.Home
             Cars = _carsService.Cars;
 
             SignOutCommand = new Command(SignOut);
+            ItemTappedCommand = new Command<Syncfusion.ListView.XForms.ItemTappedEventArgs>(OpenCarDetailedPage);
+            ToggleLikeCommand = new Command<Car>(car =>
+            {
+                car.IsFav = !car.IsFav;
+            });
 
 
             if (_authService.CurrentUser == null)
@@ -54,6 +77,14 @@ namespace CarApp.ViewModels.Home
         private void SignOut()
         {
             _authService.SignOut();
+        }
+
+        private void OpenCarDetailedPage(Syncfusion.ListView.XForms.ItemTappedEventArgs e)
+        {
+            if (e.ItemType is ItemType.Record && e.ItemData is Car car)
+            {
+                Navigation.PushPopupAsync(new CarDetailedPage(car));
+            }
         }
 
         private void PushPage(Page page)
