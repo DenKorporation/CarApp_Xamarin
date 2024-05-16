@@ -7,18 +7,39 @@ namespace CarApp.Models
 {
     public class UserData : INotifyPropertyChanged
     {
-        private string _firstname;
-        private string _uid;
-        private string _lastname;
-        private DateTime _birthday;
-        private string _gender;
-        private string _address;
-        private string _phone;
-        private string _carCountry;
-        private string _carBody;
-        private string _carDrive;
-        private string _transmission;
-        private List<string> _favCars;
+        private string _firstname = "";
+        private string _uid = "";
+        private string _lastname = "";
+        private DateTime _birthday = DateTime.Now;
+        private string _gender = "";
+        private string _address = "";
+        private string _phone = "";
+        private string _carCountry = "";
+        private string _carBody = "";
+        private string _carDrive = "";
+        private string _transmission = "";
+        private List<string> _favCars = new List<string>();
+
+        public List<string> Genders { get; set; } = new List<string> { "Мужчина", "Женщина" };
+
+        public List<string> CarCoutnries { get; set; } = new List<string>
+        {
+            "US", "DE", "GB", "FR", "IT", "ES", "CZ", "SE", "RU", "CN", "JP", "KR"
+        };
+
+        public List<string> CarBodyTypes { get; set; } = new List<string>
+        {
+            "", "Седан", "Хэтчбек", "Универсал", "Купе", "Кабриолет", "Внедорожник", "Кроссовер", "Минивэн", "Пикап",
+            "Лифтбек", "Лимузин", "Фургон"
+        };
+
+        public List<string> CarDriverTypes { get; set; } = new List<string> { "", "FWD", "RWD", "AWD", "4D", "EV" };
+
+        public List<string> TransmissionTypes { get; set; } = new List<string>
+        {
+            "", "Механическая", "Автоматическая", "Роботизированная", "Вариатор", "Полуавтоматическая",
+            "Двухсцепной робот"
+        };
 
         public string Uid
         {
@@ -86,7 +107,7 @@ namespace CarApp.Models
             set => SetField(ref _transmission, value);
         }
 
-        public List<String> FavCars
+        public List<string> FavCars
         {
             get => _favCars;
             set => SetField(ref _favCars, value);

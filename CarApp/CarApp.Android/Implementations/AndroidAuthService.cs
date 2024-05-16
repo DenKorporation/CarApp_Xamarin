@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using System.Threading.Tasks;
 using CarApp.Abstractions;
 using CarApp.Droid.Implementations;
@@ -42,12 +43,18 @@ namespace CarApp.Droid.Implementations
         {
             try
             {
-                await _firebaseAuth.CreateUserWithEmailAndPasswordAsync(email, password);
-                if (CurrentUser != null)
+                var result = await _firebaseAuth.CreateUserWithEmailAndPasswordAsync(email, password);
+
+                if (result.User.Uid is null)
                 {
-                    var userDataService = new AndroidUserDataService { Uid = CurrentUser.Uid };
-                    await userDataService.CreateUserDataAsync();
+                    throw new ArgumentNullException();
                 }
+                
+                var userDataService = new AndroidUserDataService
+                {
+                    Uid = result.User.Uid
+                };
+                await userDataService.CreateUserDataAsync();
                 
             }
             catch (Exception e)
@@ -69,5 +76,56 @@ namespace CarApp.Droid.Implementations
                 return Task.FromResult(false);
             }
         }
+
+        public override async Task DeleteAccount()
+        {
+            var user = FirebaseAuth.Instance.CurrentUser;
+            var userDataService = new AndroidUserDataService { Uid = user.Uid };
+            if (user != null)
+            {
+                try
+                {
+                    await user.DeleteAsync();
+                }
+                catch (FirebaseAuthRecentLoginRequiredException e)
+                {
+                    Console.WriteLine(e.Message);
+                    await ReauthenticateAndDelete();
+                }
+                catch (FirebaseAuthException e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+
+            await userDataService.DeleteUserDataAsync();
+
+        }
+        private async Task ReauthenticateAndDelete()
+        {
+            try
+            {
+                var providerData = FirebaseAuth.Instance.CurrentUser.ProviderData.FirstOrDefault();
+
+                if (providerData != null)
+                {
+                    if (providerData.ProviderId == GoogleAuthProvider.GetCredential(null, null).Provider)
+                    {
+                        await FirebaseAuth.Instance.CurrentUser.ReauthenticateAsync(GoogleAuthProvider.GetCredential(null, null));
+                    }
+                }
+
+                await FirebaseAuth.Instance.CurrentUser.DeleteAsync();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+        }
     }
+    
 }

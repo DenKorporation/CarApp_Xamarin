@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
+             xmlns:fontAwesome="clr-namespace:CarApp.Helpers;assembly=CarApp"
+             xmlns:popupLayout="clr-namespace:Syncfusion.XForms.PopupLayout;assembly=Syncfusion.SfPopupLayout.XForms"
+             xmlns:textInputLayout="clr-namespace:Syncfusion.XForms.TextInputLayout;assembly=Syncfusion.Core.XForms"
+             xmlns:comboBox="clr-namespace:Syncfusion.XForms.ComboBox;assembly=Syncfusion.SfComboBox.XForms"
+             xmlns:valueConverters="clr-namespace:CarApp.ValueConverters;assembly=CarApp"
+             x:Class="CarApp.Views.Home.ProfilePage"
+             x:Name="ProfilePageRef"
+             NavigationPage.HasBackButton="False"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <valueConverters:EmptyStringInListConverter x:Key="EmptyStringInListConverter" />
+            <valueConverters:FlagImageConverter x:Key="FlagImageConverter" />
+            <valueConverters:CountryCodeToName x:Key="CountryCodeToName" />
+            <valueConverters:GenderConverter x:Key="GenderConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <Grid BackgroundColor="{StaticResource PrimaryColor}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <AbsoluteLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+                <Grid HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50" />
+                        <ColumnDefinition Width="240" />
+                        <ColumnDefinition Width="100" />
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" Aspect="AspectFit"
+                           Source="car_logo.png" />
+                    <Label Text="Профиль" Grid.Column="1" FontSize="17" VerticalTextAlignment="Center"
+                           HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand"
+                           VerticalOptions="FillAndExpand"
+                           TextColor="{StaticResource SecondaryColor}" />
+
+                    <popupLayout:SfPopupLayout Grid.Column="2" IsOpen="{Binding DisplayPopup}"
+                                               RelativePosition="AlignBottom" AbsoluteX="0" AbsoluteY="0">
+                        <popupLayout:SfPopupLayout.PopupView>
+                            <popupLayout:PopupView BackgroundColor="{StaticResource PrimaryColor}" AutoSizeMode="Both"
+                                                   AppearanceMode="OneButton" ShowHeader="False" ShowFooter="False"
+                                                   ShowCloseButton="False">
+                                <popupLayout:PopupView.ContentTemplate>
+                                    <DataTemplate>
+                                        <StackLayout Padding="5,5,5,0">
+                                            <buttons:SfButton Text="Избранное" BackgroundColor="Transparent"
+                                                              FontSize="17" HeightRequest="40" VerticalOptions="Center"
+                                                              TextColor="{StaticResource SecondaryColor}"
+                                                              HorizontalOptions="StartAndExpand" ShowIcon="True"
+                                                              Command="{Binding ToFavPageCommand}">
+                                                <buttons:SfButton.Image>
+                                                    <Image HeightRequest="17">
+                                                        <Image.Source>
+                                                            <FontImageSource
+                                                                FontFamily="FAS"
+                                                                Glyph="{x:Static fontAwesome:FontAwesomeIcons.Heart}"
+                                                                Size="17"
+                                                                Color="{StaticResource SecondaryColor}" />
+                                                        </Image.Source>
+                                                    </Image>
+                                                </buttons:SfButton.Image>
+                                            </buttons:SfButton>
+                                            <buttons:SfButton Text="Список" BackgroundColor="Transparent"
+                                                              FontSize="17" HeightRequest="40" VerticalOptions="Center"
+                                                              TextColor="{StaticResource SecondaryColor}"
+                                                              HorizontalOptions="StartAndExpand" ShowIcon="True"
+                                                              Command="{Binding ToHomePageCommand}">
+                                                <buttons:SfButton.Image>
+                                                    <Image HeightRequest="17">
+                                                        <Image.Source>
+                                                            <FontImageSource
+                                                                FontFamily="FAS"
+                                                                Glyph="{x:Static fontAwesome:FontAwesomeIcons.List}"
+                                                                Size="17"
+                                                                Color="{StaticResource SecondaryColor}" />
+                                                        </Image.Source>
+                                                    </Image>
+                                                </buttons:SfButton.Image>
+                                            </buttons:SfButton>
+                                            <buttons:SfButton Text="Выйти" BackgroundColor="Transparent"
+                                                              FontSize="17" HeightRequest="40" VerticalOptions="Center"
+                                                              TextColor="{StaticResource SecondaryColor}"
+                                                              HorizontalOptions="StartAndExpand" ShowIcon="True"
+                                                              Command="{Binding SignOutCommand}">
+                                                <buttons:SfButton.Image>
+                                                    <Image HeightRequest="17">
+                                                        <Image.Source>
+                                                            <FontImageSource
+                                                                FontFamily="FAS"
+                                                                Glyph="{x:Static fontAwesome:FontAwesomeIcons.DoorClosed}"
+                                                                Size="17"
+                                                                Color="{StaticResource SecondaryColor}" />
+                                                        </Image.Source>
+                                                    </Image>
+                                                </buttons:SfButton.Image>
+                                            </buttons:SfButton>
+                                        </StackLayout>
+                                    </DataTemplate>
+                                </popupLayout:PopupView.ContentTemplate>
+                            </popupLayout:PopupView>
+                        </popupLayout:SfPopupLayout.PopupView>
+                        <popupLayout:SfPopupLayout.Content>
+                            <StackLayout>
+                                <buttons:SfButton x:Name="RelativeView" Text="Меню" BackgroundColor="Transparent"
+                                                  FontSize="17"
+                                                  TextColor="{StaticResource SecondaryColor}" HorizontalOptions="End"
+                                                  HeightRequest="40" VerticalOptions="Center"
+                                                  Command="{Binding MenuTappedCommand}" ShowIcon="True">
+                                    <buttons:SfButton.Image>
+                                        <Image HeightRequest="17">
+                                            <Image.Source>
+                                                <FontImageSource
+                                                    FontFamily="FAS"
+                                                    Glyph="{x:Static fontAwesome:FontAwesomeIcons.Bars}"
+                                                    Size="17"
+                                                    Color="{StaticResource SecondaryColor}" />
+                                            </Image.Source>
+                                        </Image>
+                                    </buttons:SfButton.Image>
+                                </buttons:SfButton>
+                            </StackLayout>
+                        </popupLayout:SfPopupLayout.Content>
+                        <popupLayout:SfPopupLayout.RelativeView>
+                            <x:Reference Name="RelativeView" />
+                        </popupLayout:SfPopupLayout.RelativeView>
+                    </popupLayout:SfPopupLayout>
+                </Grid>
+            </AbsoluteLayout>
+            <ScrollView Padding="20" Grid.Row="1" BackgroundColor="{StaticResource BackgroundColor}">
+                <StackLayout BindingContext="{Binding SelectedUserData}">
+                    <Label Text="Данные пользователя" TextColor="{StaticResource TextColor}" FontSize="20"
+                           HorizontalTextAlignment="Center" />
+                    <textInputLayout:SfTextInputLayout Hint="Имя" ContainerType="Outlined">
+                        <Entry Text="{Binding Firstname}"
+                               Keyboard="Text" />
+                    </textInputLayout:SfTextInputLayout>
+                    <textInputLayout:SfTextInputLayout Hint="Фамилия" ContainerType="Outlined">
+                        <Entry Text="{Binding Lastname}"
+                               Keyboard="Text" />
+                    </textInputLayout:SfTextInputLayout>
+
+                    <Grid VerticalOptions="Fill">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="140" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Text="Дата рождения:" VerticalOptions="Center"
+                               VerticalTextAlignment="Center"
+                               TextColor="{StaticResource TextColor}" FontSize="17" HorizontalTextAlignment="Start" />
+                        <textInputLayout:SfTextInputLayout Grid.Column="1" ContainerType="None" FocusedStrokeWidth="0"
+                                                           UnfocusedStrokeWidth="0" VerticalOptions="Center"
+                                                           TranslationY="-5"
+                                                           HorizontalOptions="Start" TrailingViewPosition="Inside">
+                            <DatePicker Format="dd.MM.yyyy"
+                                        MinimumDate="01.01.1900"
+                                        MaximumDate="12.31.2050"
+                                        BackgroundColor="{StaticResource PrimaryColor}"
+                                        TextColor="{StaticResource PrimaryColor}"
+                                        Date="{Binding Birthday}" />
+                            <textInputLayout:SfTextInputLayout.TrailingView>
+                                <Image HeightRequest="20" TranslationY="-10">
+                                    <Image.Source>
+                                        <FontImageSource
+                                            FontFamily="FAS"
+                                            Glyph="{x:Static fontAwesome:FontAwesomeIcons.Calendar}"
+                                            Size="20"
+                                            Color="{StaticResource PrimaryColor}" />
+                                    </Image.Source>
+                                </Image>
+                            </textInputLayout:SfTextInputLayout.TrailingView>
+                        </textInputLayout:SfTextInputLayout>
+                    </Grid>
+                    <textInputLayout:SfTextInputLayout Hint="Адрес" ContainerType="Outlined">
+                        <Entry Text="{Binding Address}"
+                               Keyboard="Text" />
+                    </textInputLayout:SfTextInputLayout>
+                    <textInputLayout:SfTextInputLayout Hint="Номер телефона" ContainerType="Outlined">
+                        <Entry Text="{Binding Phone}"
+                               Keyboard="Text" />
+                    </textInputLayout:SfTextInputLayout>
+                    <Label Text="Пол:" TextColor="{StaticResource TextColor}" FontSize="17"
+                           HorizontalTextAlignment="Center" />
+
+                    <buttons:SfSegmentedControl
+                        SelectionTextColor="{StaticResource SecondaryColor}"
+                        HeightRequest="80"
+                        VisibleSegmentsCount="2"
+                        Color="Transparent"
+                        SelectedIndex="{Binding Gender, Converter={StaticResource GenderConverter}}"
+                        SelectionChanged="SfSegmentedControl_OnSelectionChanged"
+                        FontColor="{StaticResource TextColor}"
+                        BackgroundColor="Transparent" ItemsSource="{Binding Genders}">
+                    </buttons:SfSegmentedControl>
+
+                    <Label Text="Предпочтения" TextColor="{StaticResource TextColor}" FontSize="20"
+                           HorizontalTextAlignment="Center" />
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Label Grid.Row="0" Grid.Column="0" Text="Кузов:" HorizontalOptions="Start"
+                               VerticalOptions="Center"
+                               FontSize="17" TextColor="Black" />
+                        <comboBox:SfComboBox Grid.Row="0" Grid.Column="1" HeightRequest="40"
+                                             BackgroundColor="Transparent" SelectedItem="{Binding CarBody}"
+                                             DataSource="{Binding CarBodyTypes, Converter={StaticResource EmptyStringInListConverter}}"
+                                             IsEditableMode="False" ShowClearButton="False" />
+                        <Label Grid.Row="1" Grid.Column="0" Text="Привод:" HorizontalOptions="Start"
+                               VerticalOptions="Center" FontSize="17" TextColor="Black" />
+                        <comboBox:SfComboBox Grid.Row="1" Grid.Column="1" HeightRequest="40"
+                                             BackgroundColor="Transparent" SelectedItem="{Binding CarDrive}"
+                                             DataSource="{Binding CarDriverTypes, Converter={StaticResource EmptyStringInListConverter}}"
+                                             IsEditableMode="False" ShowClearButton="False" />
+                        <Label Grid.Row="2" Grid.Column="0" Text="Коробка&#x0a;передач:" HorizontalOptions="Start"
+                               VerticalOptions="Center" FontSize="17" TextColor="Black" />
+                        <comboBox:SfComboBox Grid.Row="2" Grid.Column="1" HeightRequest="40"
+                                             BackgroundColor="Transparent" SelectedItem="{Binding Transmission}"
+                                             ShowClearButton="False"
+                                             DataSource="{Binding TransmissionTypes, Converter={StaticResource EmptyStringInListConverter}}" />
+                        <buttons:SfButton Grid.Row="3" Grid.Column="0" Text="Обновить"
+                                          BackgroundColor="{StaticResource PrimaryColor}"
+                                          FontSize="15" CornerRadius="20" Margin="0, 20" Padding="5"
+                                          TextColor="White" HorizontalOptions="End"
+                                          HeightRequest="40" VerticalOptions="Center"
+                                          Command="{Binding BindingContext.UpdateCommand, Source={x:Reference ProfilePageRef}}" />
+                        <buttons:SfButton Grid.Row="3" Grid.Column="1" Text="Удалить аккаунт"
+                                          BackgroundColor="{StaticResource AccentColor}"
+                                          FontSize="15" Margin="20" CornerRadius="20" Padding="5"
+                                          TextColor="White" HorizontalOptions="Start"
+                                          HeightRequest="40" VerticalOptions="Center"
+                                          Command="{Binding BindingContext.DeleteCommand, Source={x:Reference ProfilePageRef}}" />
+                    </Grid>
+                </StackLayout>
+            </ScrollView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

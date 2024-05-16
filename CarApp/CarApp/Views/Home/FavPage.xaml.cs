@@ -5,12 +5,12 @@ using Xamarin.Forms.Xaml;
 namespace CarApp.Views.Home
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class HomePage : ContentPage
+    public partial class FavPage : ContentPage
     {
-        public HomePage()
+        public FavPage()
         {
             InitializeComponent();
-            BindingContext = new HomeViewModel(Navigation);
+            BindingContext = new FavViewModel(Navigation);
         }
     }
 }

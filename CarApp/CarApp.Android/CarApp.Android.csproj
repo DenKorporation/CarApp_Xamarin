@@ -57,6 +57,11 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Rg.Plugins.Popup" Version="2.1.0" />
+    <PackageReference Include="Syncfusion.Xamarin.Buttons" Version="25.2.4" />
+    <PackageReference Include="Syncfusion.Xamarin.Core" Version="25.2.4" />
+    <PackageReference Include="Syncfusion.Xamarin.SfCarousel" Version="25.2.4" />
+    <PackageReference Include="Syncfusion.Xamarin.SfComboBox" Version="25.2.4" />
+    <PackageReference Include="Syncfusion.Xamarin.SfPopupLayout" Version="25.2.4" />
     <PackageReference Include="System.Reactive" Version="6.0.0" />
     <PackageReference Include="Xamarin.Firebase.Auth" Version="121.0.1.6" />
     <PackageReference Include="Xamarin.Firebase.Core" Version="119.0.1.5" />
@@ -68,6 +73,7 @@
   <ItemGroup>
     <Compile Include="Implementations\AndroidAuthService.cs" />
     <Compile Include="Implementations\AndroidCarsService.cs" />
+    <Compile Include="Implementations\AndroidStorageService.cs" />
     <Compile Include="Implementations\AndroidUserDataService.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
@@ -355,9 +361,6 @@
   </ItemGroup>
   <ItemGroup>
     <GoogleServicesJson Include="google-services.json" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Implementations\Listeners\" />
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

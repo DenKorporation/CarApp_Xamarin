@@ -6,13 +6,14 @@
     xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
     xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
     xmlns:valueConverters="clr-namespace:CarApp.ValueConverters;assembly=CarApp"
+    xmlns:xForms="clr-namespace:Syncfusion.SfCarousel.XForms;assembly=Syncfusion.SfCarousel.XForms"
     x:Class="CarApp.Views.Home.CarDetailedPage">
     <pages:PopupPage.Animation>
         <animations:ScaleAnimation
             PositionIn="Bottom"
             PositionOut="Bottom"
-            DurationIn="400"
-            DurationOut="300"
+            DurationIn="200"
+            DurationOut="100"
             EasingIn="SinOut"
             EasingOut="SinIn"
             HasBackgroundAnimation="True" />
@@ -21,6 +22,11 @@
         <ResourceDictionary>
             <valueConverters:MultiLineConverter x:Key="MultiLineConverter" />
             <valueConverters:FlagImageConverter x:Key="FlagImageConverter" />
+            <valueConverters:ImageCarouselConverter x:Key="ImageCarouselConverter" />
+            <DataTemplate x:Key="itemTemplate">
+                <Image Source="{Binding .}"
+                       Aspect="AspectFit"/>
+            </DataTemplate>
         </ResourceDictionary>
     </ContentPage.Resources>
     <StackLayout
@@ -30,7 +36,11 @@
             <StackLayout Margin="20">
                 <Label Text="{Binding Name}" HorizontalOptions="Center" FontSize="20" TextColor="Black" />
                 <Label Text="{Binding Years}" HorizontalOptions="Center" FontSize="17" TextColor="Black" />
-                <Image Source="car_logo.png" HeightRequest="250" />
+                
+                <xForms:SfCarousel ItemTemplate="{StaticResource itemTemplate}" 
+                                   BindingContext="{Binding ., Converter={StaticResource ImageCarouselConverter}}"
+                                   ItemsSource="{Binding Result}"
+                                   HeightRequest="250" />
                 <Label Text="Описание" HorizontalOptions="Center" FontSize="20" TextColor="Black" />
                 <Label Text="{Binding Description}" HorizontalOptions="CenterAndExpand" FontSize="17"
                        TextColor="Black" />
@@ -48,6 +58,7 @@
 
                     <Label Grid.Row="0" Grid.Column="0" Text="Страна" HorizontalOptions="Start"
                            VerticalOptions="Center" FontSize="17" TextColor="Black" />
+
                     <Image Grid.Row="0" Grid.Column="1" HorizontalOptions="End" VerticalOptions="Center"
                            Source="{Binding Country, Converter={StaticResource FlagImageConverter}}" HeightRequest="50"
                            Aspect="AspectFit" />

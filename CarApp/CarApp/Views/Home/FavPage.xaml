@@ -7,11 +7,11 @@
              xmlns:valueConverters="clr-namespace:CarApp.ValueConverters;assembly=CarApp"
              xmlns:fontAwesome="clr-namespace:CarApp.Helpers;assembly=CarApp"
              xmlns:popupLayout="clr-namespace:Syncfusion.XForms.PopupLayout;assembly=Syncfusion.SfPopupLayout.XForms"
-             x:Class="CarApp.Views.Home.HomePage"
-             x:Name="HomePageRef"
+             x:Class="CarApp.Views.Home.FavPage"
+             x:Name="FavPageRef"
              NavigationPage.HasBackButton="False"
              NavigationPage.HasNavigationBar="False">
-    <ContentPage.Resources>
+<ContentPage.Resources>
         <ResourceDictionary>
             <valueConverters:BoolToLikeConverter x:Key="BoolToLikeConverter" />
             <valueConverters:PreviewImageConverter x:Key="PreviewImageConverter" />
@@ -33,7 +33,7 @@
                     </Grid.ColumnDefinitions>
                     <Image Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" Aspect="AspectFit"
                            Source="car_logo.png" />
-                    <Label Text="Все Машины" Grid.Column="1" FontSize="17" VerticalTextAlignment="Center"
+                    <Label Text="Избранные" Grid.Column="1" FontSize="17" VerticalTextAlignment="Center"
                            HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand"
                            VerticalOptions="FillAndExpand"
                            TextColor="{StaticResource SecondaryColor}" />
@@ -47,17 +47,17 @@
                                 <popupLayout:PopupView.ContentTemplate>
                                     <DataTemplate>
                                         <StackLayout Padding="5,5,5,0">
-                                            <buttons:SfButton Text="Избранное" BackgroundColor="Transparent"
+                                            <buttons:SfButton Text="Список" BackgroundColor="Transparent"
                                                               FontSize="17" HeightRequest="40" VerticalOptions="Center"
                                                               TextColor="{StaticResource SecondaryColor}"
                                                               HorizontalOptions="StartAndExpand" ShowIcon="True"
-                                                              Command="{Binding ToFavPageCommand}">
+                                                              Command="{Binding ToHomePageCommand}">
                                                 <buttons:SfButton.Image>
                                                     <Image HeightRequest="17">
                                                         <Image.Source>
                                                             <FontImageSource
                                                                 FontFamily="FAS"
-                                                                Glyph="{x:Static fontAwesome:FontAwesomeIcons.Heart}"
+                                                                Glyph="{x:Static fontAwesome:FontAwesomeIcons.List}"
                                                                 Size="17"
                                                                 Color="{StaticResource SecondaryColor}" />
                                                         </Image.Source>
@@ -131,7 +131,7 @@
                 </Grid>
             </AbsoluteLayout>
             <StackLayout Grid.Row="1" BackgroundColor="{StaticResource BackgroundColor}">
-                <xForms:SfListView ItemsSource="{Binding Cars}"
+                <xForms:SfListView ItemsSource="{Binding OnlyFavCars}"
                                    SelectionBackgroundColor="{StaticResource BackgroundColor}"
                                    ItemSpacing="20, 20, 20, 0" AutoFitMode="DynamicHeight"
                                    TapCommand="{Binding ItemTappedCommand}">
@@ -159,7 +159,7 @@
                                             BackgroundColor="Transparent"
                                             FontFamily="{Binding IsFav, Converter={StaticResource BoolToLikeConverter}}"
                                             FontSize="Large" VerticalOptions="Center" HorizontalOptions="End"
-                                            Command="{Binding Path=BindingContext.ToggleLikeCommand, Source={x:Reference HomePageRef}}"
+                                            Command="{Binding Path=BindingContext.ToggleLikeCommand, Source={x:Reference FavPageRef}}"
                                             CommandParameter="{Binding .}" />
                                 </Grid>
                             </Frame>

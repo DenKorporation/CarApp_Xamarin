@@ -14,9 +14,9 @@ namespace CarApp.Droid.Implementations
     public class AndroidCarsService : ICarsService
     {
         private readonly CollectionReference _carsCollection = FirebaseFirestore.Instance.Collection("cars");
-
-        public ObservableCollection<Car> Cars { get; } = new ObservableCollection<Car>();
         
+        public ObservableCollection<Car> Cars { get; } = new ObservableCollection<Car>();
+
         public AndroidCarsService()
         {
             _carsCollection.AddSnapshotListener(new EventListener((snapshot, error) =>

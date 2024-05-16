@@ -1,7 +1,5 @@
-using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.Collections.Specialized;
 using System.ComponentModel;
 using System.Linq;
 using System.Runtime.CompilerServices;
@@ -16,7 +14,7 @@ using Xamarin.Forms;
 
 namespace CarApp.ViewModels.Home
 {
-    public class HomeViewModel : INotifyPropertyChanged
+    public class FavViewModel : INotifyPropertyChanged
     {
         private readonly AuthService _authService;
         private readonly ICarsService _carsService;
@@ -36,20 +34,20 @@ namespace CarApp.ViewModels.Home
         }
 
         public ObservableCollection<Car> Cars { get; set; }
+        public ObservableCollection<Car> OnlyFavCars { get; set; } = new ObservableCollection<Car>();
         public UserData UserData { get; set; }
         public ICommand SignOutCommand { protected set; get; }
         public ICommand ToggleLikeCommand { protected set; get; }
         public ICommand ItemTappedCommand { protected set; get; }
         public ICommand MenuTappedCommand { protected set; get; }
-        public ICommand ToFavPageCommand { protected set; get; }
+        public ICommand ToHomePageCommand { protected set; get; }
         public ICommand ToProfilePageCommand { protected set; get; }
 
 
         private INavigation Navigation { get; set; }
 
-        public HomeViewModel(INavigation navigation)
+        public FavViewModel(INavigation navigation)
         {
-            Console.WriteLine("HomeViewMOdel Ctor");
             Navigation = navigation;
 
             _authService = DependencyService.Get<AuthService>();
@@ -63,6 +61,10 @@ namespace CarApp.ViewModels.Home
             foreach (var car in Cars)
             {
                 car.IsFav = UserData.FavCars.Contains(car.Uid);
+                if (car.IsFav)
+                {
+                    OnlyFavCars.Add(car);
+                }
             }
             
             UserData.PropertyChanged += OnUserDataOnPropertyChanged;
@@ -74,16 +76,17 @@ namespace CarApp.ViewModels.Home
                 DisplayPopup = false;
                 PushPage(new ProfilePage());
             });
-            ToFavPageCommand = new Command(() =>
+            ToHomePageCommand = new Command(() =>
             {
                 DisplayPopup = false;
-                PushPage(new FavPage());
+                PushPage(new HomePage());
             });
             ToggleLikeCommand = new Command<Car>(car =>
             {
                 List<string> copy = UserData.FavCars.ToArray().ToList();
                 if (copy.Contains(car.Uid))
                 {
+                    OnlyFavCars.Remove(car);
                     copy.Remove(car.Uid);
                 }
                 else
@@ -115,10 +118,18 @@ namespace CarApp.ViewModels.Home
                 {
                     if (UserData.FavCars.Contains(car.Uid))
                     {
+                        if (!OnlyFavCars.Contains(car))
+                        {
+                            OnlyFavCars.Add(car);
+                        }
                         car.IsFav = true;
                     }
                     else
                     {
+                        if (OnlyFavCars.Contains(car))
+                        {
+                            OnlyFavCars.Remove(car);
+                        }
                         car.IsFav = false;
                     }
                 }

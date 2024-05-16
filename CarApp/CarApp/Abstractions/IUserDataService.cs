@@ -8,7 +8,7 @@ namespace CarApp.Abstractions
     public interface IUserDataService
     {
         string Uid { get; set; }
-        IObservable<UserData> GetUserData();
+        UserData UserData { get; }
         Task CreateUserDataAsync();
         Task UpdateUserDataAsync(string firstname, string lastname, DateTime birthday, string gender, string address,
             string phone, string carCountry, string carBody, string carDrive, string transmission);

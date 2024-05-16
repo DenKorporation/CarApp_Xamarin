@@ -11,5 +11,6 @@ namespace CarApp.Abstractions
         public abstract Task SignInWithEmailAndPassword(string email, string password);
         public abstract Task RegisterWithEmailAndPassword(string email, string password);
         public abstract Task<bool> SignOut();
+        public abstract Task DeleteAccount();
     }
 }
